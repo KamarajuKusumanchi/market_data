@@ -1,0 +1,2 @@
+date | ticker | notes
+2017-12-18 | PFE | Pfizer raises dividend to 34c from 32c, sets new $10 billion buyback program. http://www.morningstar.com/news/dow-jones/TDJNDN_201712185429/pfizer-raises-dividend-6-sets-new-10-billion-buyback-program.html
