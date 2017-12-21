@@ -1,7 +1,10 @@
 AAPL, "Apple Inc."
+ADI, "Analog Devices, Inc."
 AET,
+AMAT, "Applied Materials, Inc."
 AMZN,
 ATUS, Altice USA Inc
+AVGO, Broadcom Ltd
 BABA,
 BB,
 BLK,
@@ -19,6 +22,7 @@ INTC,
 KHC,
 KKD,
 MSFT,
+MU, "Micron Technology, Inc."
 NFLX,
 NPK,
 ORCL,
@@ -29,4 +33,5 @@ T, AT&T Inc.
 TEVA, Teva Pharmaceutical Industries Ltd (ADR)
 TWTR,
 VZ, Verizon Communications Inc.
+WDC, Western Digital Corp
 WMT, "Wal-Mart Stores Inc"
