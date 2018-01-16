@@ -1,0 +1,2 @@
+date | ticker | notes
+2018-01-16 | GE | GE Expects $6.2 Billion Charge After Reviewing Insurance Reserve http://www.morningstar.com/news/dow-jones/TDJNDN_201801163642/ge-expects-62-billion-charge-after-reviewing-insurance-reserve.html
