@@ -1,3 +1,3 @@
 date | tickers | notes
 2017-11-03 | QCOM, AVGO | Broadcom plans to acquire Qualcomm. https://www.bloomberg.com/news/articles/2017-11-03/broadcom-plans-100-billion-qualcomm-deal-to-build-chip-colossus
-2018-01-30 | CVS, ESRX, CI, ANTM | http://www.morningstar.com/news/dow-jones/TDJNDN_201801306838/amazon-berkshire-jpmorgan-to-partner-on-health-care-2nd-update.html , https://www.bloomberg.com/news/articles/2018-01-30/amazon-berkshire-jpmorgan-to-set-up-a-health-company-for-staff
+2018-01-30 | CVS, ESRX, CI, ANTM, UNH, AET, HUM | http://www.morningstar.com/news/dow-jones/TDJNDN_201801306838/amazon-berkshire-jpmorgan-to-partner-on-health-care-2nd-update.html , https://www.bloomberg.com/news/articles/2018-01-30/amazon-berkshire-jpmorgan-to-set-up-a-health-company-for-staff
