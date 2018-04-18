@@ -1,3 +1,5 @@
+# CEOs of various companies
+ticker, ceo, website, start_date
 AAPL, Tim Cook, https://en.wikipedia.org/wiki/Tim_Cook
 BLK, Larry Fink, https://en.wikipedia.org/wiki/Laurence_D._Fink
 FB, Mark Zuckerberg, https://en.wikipedia.org/wiki/Mark_Zuckerberg
@@ -7,4 +9,5 @@ INTC, Brian Krzanich, https://en.wikipedia.org/wiki/Brian_Krzanich
 MSFT, Satya Nadella, https://en.wikipedia.org/wiki/Satya_Nadella
 NMR, Koji Nagai, https://en.wikipedia.org/wiki/Koji_Nagai
 QCOM, Steven Mollenkopf,
+SBUX, Kevin Johnson, https://en.wikipedia.org/wiki/Kevin_Johnson_(executive), 2017-04-03
 TSLA, Elon Musk, https://en.wikipedia.org/wiki/Elon_Musk
