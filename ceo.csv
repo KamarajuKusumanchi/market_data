@@ -1,6 +1,7 @@
 # CEOs of various companies
 ticker, ceo, website, start_date
 AAPL, Tim Cook, https://en.wikipedia.org/wiki/Tim_Cook
+AVGO, Hock E. Tan, , 2016-02-01
 BLK, Larry Fink, https://en.wikipedia.org/wiki/Laurence_D._Fink
 FB, Mark Zuckerberg, https://en.wikipedia.org/wiki/Mark_Zuckerberg
 GE, John L. Flannery, https://en.wikipedia.org/wiki/John_L._Flannery
