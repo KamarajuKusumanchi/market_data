@@ -1,0 +1,2 @@
+asof, ticker, shares_outstanding
+2018-04-26, UIS, 5.0639e7
