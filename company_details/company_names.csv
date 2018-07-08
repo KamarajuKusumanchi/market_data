@@ -8,10 +8,14 @@ AVGO, Broadcom Ltd
 BABA,
 BB,
 BLK,
+CERN, Cerner Corporation
 CHTR, "Charter Communications, Inc."
+CL, Colgate-Palmolive Company
 CMCSA, Comcast Corporation
 CMG, "Chipotle Mexican Grill, Inc."
-COST,
+COST, Costco Wholesale Corporation
+CVX, Chevron Corporation
+DDS, "Dillard's, Inc."
 DPZ, "Domino's Pizza, Inc."
 FB,
 GE,
@@ -22,15 +26,19 @@ INTC,
 KHC,
 KKD,
 KORS, Michael Kors Holdings Limited
+LOW, "Lowe's Companies, Inc."
+MCD, "McDonald's Corporation"
 MSFT,
 MU, "Micron Technology, Inc."
 NFLX,
 NPK,
 ORCL,
+PCAR, "PACCAR Inc."
 PFE, Pfizer Inc.
 QCOM,
 ROST, Ross Stores Inc
 SBUX,
+SHW, Sherwin-Williams Company
 SNAP, Snap Inc.
 T, AT&T Inc.
 TEVA, Teva Pharmaceutical Industries Ltd (ADR)
@@ -38,3 +46,4 @@ TWTR,
 VZ, Verizon Communications Inc.
 WDC, Western Digital Corp
 WMT, "Wal-Mart Stores Inc"
+XOM, Exxon Mobil Corporation
