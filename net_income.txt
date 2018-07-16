@@ -1,0 +1,2 @@
+ticker, asof, net_income
+BLK, 2018-07-16, 1.07e9
