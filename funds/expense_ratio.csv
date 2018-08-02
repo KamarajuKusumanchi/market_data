@@ -1,6 +1,6 @@
-ticker, fund, expense ratio in bps, last_checked
+ticker, fund, expense ratio in bps, asof
 SPY, SPDR S&P 500 fund, 9.75,
 IVV, iShares core S&P 500 fund, 4,
-VOO, Vanguard S&P 500 ETF, 4, 20180802
+VOO, Vanguard S&P 500 ETF, 4, 20180425
 FUSVX, Fidelity's S&P 500 fund, 5,
-VTI, Vanguard Total Stock Market ETF, 4,
+VTI, Vanguard Total Stock Market ETF, 4, 20180425
