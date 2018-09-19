@@ -1,4 +1,5 @@
-I welcome contributions that
+I welcome contributions that will
 
-* fixes data errors. /* Always a high priority item. */
-* increases the coverage and brings the data up to date.
+* fix data errors. /* Always a high priority item. */
+* increase the coverage
+* bring the data up to date
