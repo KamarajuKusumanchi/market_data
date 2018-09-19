@@ -1,0 +1,4 @@
+# press release links to earnings announcements
+ticker, fiscal quarter end, url
+CPRT, 2018-04-30, https://www.copart.com/content/us/en/press-releases/copart-reports-third-quarter-fy18-earnings
+CPRT, 2018-07-31, https://www.copart.com/content/us/en/press-releases/copart-reports-fourth-quarter-fy18-earnings

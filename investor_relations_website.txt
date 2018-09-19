@@ -5,6 +5,7 @@ AMZN, http://phx.corporate-ir.net/phoenix.zhtml%3Fc%3D97664%26p%3Dirol-irhome
 BLK, http://ir.blackrock.com/
 CMG, http://ir.chipotle.com/
 COST, http://phx.corporate-ir.net/phoenix.zhtml?c=83830&p=irol-irhome
+CPRT, https://www.copart.com/investorrelation/
 FB, https://investor.fb.com/
 GE, https://www.ge.com/investor-relations/overview
 GOOG, https://abc.xyz/investor/
