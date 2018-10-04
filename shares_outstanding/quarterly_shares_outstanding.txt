@@ -1,6 +1,6 @@
 # asof - quarter ending date
 # The basic_shares_outstanding and diluted_shares_outstanding are the
-# corresponding shares outstanding used by companies to compute per share
+# corresponding number of shares used by companies to compute per share
 # analytics in their quarterly earning reports.
 #
 asof, ticker, basic_shares_outstanding, diluted_shares_outstanding
