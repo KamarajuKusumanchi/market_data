@@ -1,5 +1,0 @@
-asof, ticker, basic_shares_outstanding, diluted_shares_outstanding
-2017-09-30, UIS, 5.0471e7, 5.0471e7
-2017-12-31, UIS, 5.0475e7, 7.2596e7
-2018-03-31, UIS, 5.0748e7, 7.2943e7
-2018-06-30, UIS, 5.0986e7, 5.1398e7
