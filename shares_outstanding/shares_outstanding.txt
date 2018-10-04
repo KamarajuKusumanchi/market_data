@@ -1,0 +1,2 @@
+asof, ticker, shares_outstanding
+2018-02-26, UIS, 50639210
