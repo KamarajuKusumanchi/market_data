@@ -5,3 +5,4 @@ date | tickers | notes
 2018-02-05 | SPX, DJIA | Big downward moves in the markets today.
 2018-03-19 | FB | FB went down due to the Cambridge Analytica scandal.
 2018-03-22 | SPX, DJIA | Market went down as US president Donald Trump ordered tariffs on at least $50 billion in Chinese imports.
+2018-12-06 | SPX | Meng Wanzhou, CFO of Huawei is arrested in Vancouver on December 1.
