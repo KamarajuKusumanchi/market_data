@@ -6,3 +6,4 @@ date | tickers | notes
 2018-03-19 | FB | FB went down due to the Cambridge Analytica scandal.
 2018-03-22 | SPX, DJIA | Market went down as US president Donald Trump ordered tariffs on at least $50 billion in Chinese imports.
 2018-12-06 | SPX | Meng Wanzhou, CFO of Huawei is arrested in Vancouver on December 1.
+2019-01-04 | SPX | Market is up O(2%) on strong jobs report. U.S. nonfarm payrolls increased by 312,000 in December 2018. Unemployment rate rises to 3.9%, hourly earnings rose 3.2% from a year earlier.
