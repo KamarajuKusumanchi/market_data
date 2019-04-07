@@ -1,0 +1,10 @@
+1, Super Bowl
+2, Summer Olympics
+3, Winter Olympics
+4, FIFA World Cup
+5, NCAA Final Four
+6, Wrestle Mania
+7, UEFA Champions League
+8, College Football Playoffs
+9, Daytona 500
+10, World Series
