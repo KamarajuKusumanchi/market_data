@@ -1,4 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+
 # press release links to earnings announcements
 ticker, fiscal quarter end, url
 CPRT, 2018-04-30, https://www.copart.com/content/us/en/press-releases/copart-reports-third-quarter-fy18-earnings
 CPRT, 2018-07-31, https://www.copart.com/content/us/en/press-releases/copart-reports-fourth-quarter-fy18-earnings
+
+# links to quarterly earnings financial tables
+ticker, quarter, url
+STT, 2Q19, http://investors.statestreet.com/file/100447/Index?KeyFile=1001254402

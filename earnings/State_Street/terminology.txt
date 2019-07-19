@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-19T11:02:35-04:00
+
+====== terminology ======
+Created Friday 19 July 2019
+
+
+
+News article extract
+context | 2Q19 earnings
+The custodian banking firm reported net income of $587 million, or $1.42 a share, in the latest quarter, compared with $733 million, or $1.88 a share, a year earlier. On an adjusted basis, the company reported earnings of $1.45 a share.
+
+The "net income per share" in the news article, $1.42, is referred to as "Diluted earnings per common share" in the income statement ([[http://investors.statestreet.com/CustomPage/Index?KeyGenPage=1073749953|Quarterly Earnings]] -> 2Q19 Financial Tables -> pg 3). It is also referred to as "Diluted earnings per common share, GAAP-basis" later ([[http://investors.statestreet.com/CustomPage/Index?KeyGenPage=1073749953|Quarterly Earnings]] -> 2Q19 Financial Tables -> pg 15).
+Q. Is "Diluted earnings per common share" always computed on a GAAP-basis unless otherwise mentioned?
+
+The adjusted earnings per share in the news article, $1.45, is referred to as "Diluted earnings per share, excluding notable items" in the earnings release ([[http://investors.statestreet.com/CustomPage/Index?KeyGenPage=1073749953|Quarterly Earnings]] -> 2Q19 Financial Tables -> pg 15)
+
+
+Questions:
+Q. In the income statement
+[[http://investors.statestreet.com/CustomPage/Index?KeyGenPage=1073749953|Quarterly Earnings]] -> 2Q19 Financial Tables -> pg 3 -> Income statement
+there are two entries: "Net income", "Net income available to common shareholders". How are the two different?
+A. Net income available to common shareholders = Net income - Adjustments to net income
+where
+Adjustments to net income = Dividends on preferred stock - Earnings allocated to participating securities 
+
+See pg-5 where net income is broken down into Dividends on preferred stock, Earnings allocated to participating securities, and Net income available to common shareholders.

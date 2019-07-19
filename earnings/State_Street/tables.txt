@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-19T11:01:53-04:00
+
+====== tables ======
+Created Friday 19 July 2019
+
+quarter, net income (in millions)
+1Q18, 659
+2Q18, 733
+3Q18, 764
+4Q18, 437
+1Q19, 508
+2Q19, 587
+
+quarter, eps (in $)
+1Q18, 1.62
+2Q18, 1.88
+3Q18, 1.87
+4Q18, 1.03
+1Q19, 1.18
+2Q19, 1.42
+
+quarter, fee revenue (in millions)
+1Q18, 2415
+2Q18, 2395
+3Q18, 2318
+4Q18, 2326
+1Q19, 2260
+2Q19, 2260
+
+quarter, total revenue (in millions)
+1Q18, 3056
+2Q18, 3063
+3Q18, 2989
+4Q18, 3023
+1Q19, 2932
+2Q19, 2873
+
