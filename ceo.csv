@@ -3,19 +3,19 @@
 # The start and end dates are of the form YYYY or YYYY-MM or YYYY-MM-DD
 # depending on the information is available.
 ticker, ceo, website, start_date, end_date
-AAPL, Tim Cook, https://en.wikipedia.org/wiki/Tim_Cook
-AVGO, Hock E. Tan, , 2016-02-01
-BLK, Larry Fink, https://en.wikipedia.org/wiki/Laurence_D._Fink
-FB, Mark Zuckerberg, https://en.wikipedia.org/wiki/Mark_Zuckerberg
+AAPL, Tim Cook, https://en.wikipedia.org/wiki/Tim_Cook,,
+AVGO, Hock E. Tan, , 2016-02-01,
+BLK, Larry Fink, https://en.wikipedia.org/wiki/Laurence_D._Fink,,
+FB, Mark Zuckerberg, https://en.wikipedia.org/wiki/Mark_Zuckerberg,,
 GE, John L. Flannery, https://en.wikipedia.org/wiki/John_L._Flannery, 2017-08, 2018-10
-GE, Larry Culp, https://en.wikipedia.org/wiki/H._Lawrence_Culp_Jr., 2018-10-01
-GOOGL, Larry Page, https://en.wikipedia.org/wiki/Larry_Page
-INTC, Brian Krzanich, https://en.wikipedia.org/wiki/Brian_Krzanich
-LOW, Marvin Ellison, https://en.wikipedia.org/wiki/Marvin_Ellison, 2018-07-02
-MSFT, Satya Nadella, https://en.wikipedia.org/wiki/Satya_Nadella
-NMR, Koji Nagai, https://en.wikipedia.org/wiki/Koji_Nagai
+GE, Larry Culp, https://en.wikipedia.org/wiki/H._Lawrence_Culp_Jr., 2018-10-01,
+GOOGL, Larry Page, https://en.wikipedia.org/wiki/Larry_Page,,
+INTC, Brian Krzanich, https://en.wikipedia.org/wiki/Brian_Krzanich,,
+LOW, Marvin Ellison, https://en.wikipedia.org/wiki/Marvin_Ellison, 2018-07-02,
+MSFT, Satya Nadella, https://en.wikipedia.org/wiki/Satya_Nadella,,
+NMR, Koji Nagai, https://en.wikipedia.org/wiki/Koji_Nagai,,
 PXD, Scott D. Sheffield, https://en.wikipedia.org/wiki/Scott_D._Sheffield, 1997, 2016
-PXD, Scott D. Sheffield, https://en.wikipedia.org/wiki/Scott_D._Sheffield, 2019-02
-QCOM, Steven Mollenkopf,
-SBUX, Kevin Johnson, https://en.wikipedia.org/wiki/Kevin_Johnson_(executive), 2017-04-03
-TSLA, Elon Musk, https://en.wikipedia.org/wiki/Elon_Musk
+PXD, Scott D. Sheffield, https://en.wikipedia.org/wiki/Scott_D._Sheffield, 2019-02,
+QCOM, Steven Mollenkopf,,,
+SBUX, Kevin Johnson, https://en.wikipedia.org/wiki/Kevin_Johnson_(executive), 2017-04-03,
+TSLA, Elon Musk, https://en.wikipedia.org/wiki/Elon_Musk,,
