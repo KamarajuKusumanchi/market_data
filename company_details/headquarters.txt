@@ -1,0 +1,2 @@
+ticker, company, headquarters
+AMTD, TD Ameritrade, "Omaha, Nebraska, U.S."
