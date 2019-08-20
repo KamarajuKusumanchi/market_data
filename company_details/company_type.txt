@@ -1,0 +1,3 @@
+name, type, wikipedia_link
+Fidelity Investments. Privately held company, https://en.wikipedia.org/wiki/Fidelity_Investments
+

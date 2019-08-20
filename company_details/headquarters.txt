@@ -1,2 +1,3 @@
 ticker, company, headquarters
 AMTD, TD Ameritrade, "Omaha, Nebraska, U.S."
+, Fidelity Investments, "Boston, Massachusetts, U.S."
