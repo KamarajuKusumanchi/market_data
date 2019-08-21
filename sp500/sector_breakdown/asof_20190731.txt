@@ -1,0 +1,12 @@
+sector, pct_weight
+Information Technology, 21.8
+Health Care, 13.8
+Financials, 13.2
+Communication Services, 10.5
+Consumer Discretionary, 10.2
+Industrials, 9.3
+Consumer Staples, 7.3
+Energy, 4.9
+Utilities, 3.3
+Real Estate, 3.1
+Materials, 2.7
