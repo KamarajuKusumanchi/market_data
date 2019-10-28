@@ -1,0 +1,2 @@
+Name, ticker, comments
+Mesa Royalty Trust, MTR, US: oil
