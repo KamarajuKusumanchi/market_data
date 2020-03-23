@@ -1,0 +1,8 @@
+as of, samples, individuals, confirmed, source
+2020-03-17, 12513, 11263, 129, https://www.icmr.nic.in/sites/default/files/whats_new/ICMR_update_17March_6PM_IST.pdf
+2020-03-18, 13125, 12235, 150, https://www.icmr.nic.in/sites/default/files/whats_new/ICMR_website_update_18March_6PM_IST.pdf
+2020-03-19, 13316, 12426, 168, https://www.icmr.nic.in/sites/default/files/whats_new/ICMR_website_update_19March_10AM_IST_V2.pdf
+2020-03-19, 14175, 13285, 182, https://www.icmr.nic.in/sites/default/files/whats_new/ICMR_website_update_19March_6PM_IST.pdf
+2020-03-20, 14376, 13486, 206, https://icmr.nic.in/sites/default/files/whats_new/ICMR_website_update_20March_10AM_IST.pdf
+2020-03-22, 18127, 17237, 396, https://www.icmr.nic.in/sites/default/files/whats_new/ICMR_website_update_22March_6PM_IST.pdf
+2020-03-23, 20707, 19817, https://icmr.nic.in/sites/default/files/whats_new/ICMR_website_update_23March_8PM_IST.pdf
