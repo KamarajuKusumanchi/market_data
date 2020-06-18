@@ -1,4 +1,5 @@
 Visa Bulletin links
+* [2020-07](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2020/visa-bulletin-for-july-2020.html)
 
 * [2020-06](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2020/visa-bulletin-for-june-2020.html)
 
