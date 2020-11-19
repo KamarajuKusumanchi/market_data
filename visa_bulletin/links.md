@@ -1,4 +1,6 @@
 Visa Bulletin links
+* [2020-11](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2021/visa-bulletin-for-november-2020.html)
+
 * [2020-10](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2021/visa-bulletin-for-october-2020.html)
 
 * [2020-09](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2020/visa-bulletin-for-september-2020.html)
