@@ -1,4 +1,6 @@
 Visa Bulletin links
+* [2021-09](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2021/visa-bulletin-for-september-2021.html)
+
 * [2021-08](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2021/visa-bulletin-for-august-2021.html)
 
 * [2021-07](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2021/visa-bulletin-for-july-2021.html)
