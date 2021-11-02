@@ -1,5 +1,0 @@
-ticker, company, headquarters
-AMTD, TD Ameritrade, "Omaha, Nebraska, U.S."
-, Fidelity Investments, "Boston, Massachusetts, U.S."
-PFE, Pfizer, "New York City, U.S."
-SCHW, Charles Schwab Corporation, "San Francisco, California, U.S."

@@ -1,0 +1,6 @@
+ticker, company, headquarters, sort_key
+SCHW, Charles Schwab Corporation, "San Francisco, California, U.S.", charles_schwab
+, Fidelity Investments, "Boston, Massachusetts, U.S.", fidelity
+, The Hertz Corporation, "Estero, Florida, U.S.", hertz
+PFE, Pfizer, "New York City, U.S.", pfizer
+AMTD, TD Ameritrade, "Omaha, Nebraska, U.S.", td_ameritrade
