@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+  * https://www.irs.gov/businesses/small-businesses-self-employed/whats-new-estate-and-gift-tax
+    -> Form 706 changes section shows the history.
+    It talks about "basic exclusion amount", "applicable exclusion amount". Afterwards find out how these two are different.
+
+  * https://www.irs.gov/newsroom/estate-and-gift-tax-faqs
+    -> "Q. How did the tax reform law change gift and estate taxes?"
+    says that the basic exclusion amount (BEA) is due to revert to its pre-2018 level of $5 million in 2026.
+-------------------------------------------------------------------------------
