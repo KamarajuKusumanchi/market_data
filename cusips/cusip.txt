@@ -1,0 +1,2 @@
+cusip, ticker, name
+22160K, COST, Costco Wholesale Corporation
