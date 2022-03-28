@@ -1,4 +1,6 @@
 Visa Bulletin links
+* [2022-04](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2022/visa-bulletin-for-april-2022.html)
+
 * [2022-03](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2022/visa-bulletin-for-march-2022.html)
 
 * [2022-02](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2022/visa-bulletin-for-february-2022.html)
