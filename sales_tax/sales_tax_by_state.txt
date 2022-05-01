@@ -1,0 +1,2 @@
+state, tax rate pct
+New Jersey, 6.625
