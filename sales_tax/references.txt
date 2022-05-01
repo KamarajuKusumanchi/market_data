@@ -1,1 +1,4 @@
   * https://www.nj.gov/state/njfilm/regulations-taxes.shtml#:~:text=The%20current%20Sales%20Tax%20rate,manufacturing%2Fprocessing%20machinery%20and%20equipment - shows the current sales tax rate in NJ
+
+==== references to check ====
+  * https://www.salestaxinstitute.com/resources/rates - contains sales tax rates by state. Have to cross check the quality of the data.
