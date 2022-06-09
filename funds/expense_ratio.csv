@@ -1,9 +1,9 @@
 ticker, fund, expense ratio in bps, asof
 SPY, SPDR S&P 500 fund, 9.75,
 IVV, iShares core S&P 500 fund, 4,
-VOO, Vanguard S&P 500 ETF, 4, 20180425
+VOO, Vanguard S&P 500 ETF, 3, 20220609
 FUSVX, Fidelity's S&P 500 fund, 5,
-VTI, Vanguard Total Stock Market ETF, 4, 20180425
+VTI, Vanguard Total Stock Market ETF, 3, 20220609
 VWO, Vanguard FTSE Emerging Markets ETF, 12, 20190226
 VTWO, Vanguard Russell 2000 ETF, 10, 20200225
 IWM, iShares Russell 2000 ETF, 19, 20200225
