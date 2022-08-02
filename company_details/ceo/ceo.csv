@@ -6,6 +6,8 @@ ticker,company, ceo, website, start_date, end_date
 AAPL,, Tim Cook, https://en.wikipedia.org/wiki/Tim_Cook,,
 AVGO,, Hock E. Tan, , 2016-02-01,
 BA, Boeing, Dennis Muilenburg, https://en.wikipedia.org/wiki/Dennis_Muilenburg, 2015-07-01,
+BBBY, Bed Bath & Beyond Inc, Mark Tritton, , 2019-11-04, 2022-06-28
+BBBY, Bed Bath & Beyond Inc, Sue Gove, , 2022-06-29,
 BK, The Bank of New York Mellon, Charles Scharf, https://en.wikipedia.org/wiki/Charles_Scharf, 2017-07, 2019-09-26
 BK, The Bank of New York Mellon, Thomas P. Gibbons, https://www.bnymellon.com/us/en/who-we-are/leadership/gibbons.jsp, 2019-09-27
 BLK,, Larry Fink, https://en.wikipedia.org/wiki/Laurence_D._Fink,,
