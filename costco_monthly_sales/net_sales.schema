@@ -1,0 +1,16 @@
+Costco publishes the net sales for every month.
+
+This data is stored in the following columns
+
+for: YYYY-MM
+report_date: YYYY-MM-DD
+net_sale: billions of dollars
+
+To update the data:
+* Go to https://investor.costco.com/news/default.aspx
+* select the year
+* Look for links such as "Costco Wholesale Corporation Reports December Sales Results"
+
+
+Todo:-
+  * Is it possible to write a python program to parse this information automatically?
