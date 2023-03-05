@@ -1,0 +1,4 @@
+year, url
+2020, https://www.berkshirehathaway.com/2020ar/2020ar.pdf
+2021, https://www.berkshirehathaway.com/2021ar/2021ar.pdf
+2022, https://www.berkshirehathaway.com/2022ar/2022ar.pdf
