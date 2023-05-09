@@ -1,5 +1,5 @@
 # operating_income is in millions dollars
 ticker, quarter, operating_income
-BRK.B, 2022Q4, 7160
+BRK.B, 2022Q1, 7160
 BRK.B, 2023Q1, 8065
 
