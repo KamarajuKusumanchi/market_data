@@ -1,0 +1,4 @@
+# cash is in millions dollars.
+ticker, quarter, cash
+BRK.B, 2022Q4, 128585
+BRK.B, 2023Q1, 130616
