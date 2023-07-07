@@ -2,8 +2,9 @@ Costco publishes the net sales for every month.
 
 This data is stored in the following columns
 
-for: YYYY-MM
 report_date: YYYY-MM-DD
+for: YYYY-MM
+weeks: number of weeks (ex:- the five weeks ended January 1, 2023)
 net_sale: billions of dollars
 
 To update the data:

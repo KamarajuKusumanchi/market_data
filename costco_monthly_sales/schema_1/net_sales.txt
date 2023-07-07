@@ -1,4 +1,4 @@
-# For schema, see net_sales.schema
+# For schema, see schema_1.txt
 for,report_date,net_sales
 2022-06,2022-07-07,22.78
 2022-07,2022-08-03,16.85
