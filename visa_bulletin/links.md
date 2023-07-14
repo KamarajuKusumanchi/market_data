@@ -1,4 +1,6 @@
 Visa Bulletin links
+* [2023-08](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2023/visa-bulletin-for-august-2023.html)
+
 * [2023-07](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2023/visa-bulletin-for-july-2023.html)
 
 * [2023-06](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2023/visa-bulletin-for-june-2023.html)
