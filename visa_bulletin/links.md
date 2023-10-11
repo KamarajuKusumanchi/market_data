@@ -1,4 +1,6 @@
 Visa Bulletin links
+* [2023-11](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2024/visa-bulletin-for-november-2023.html)
+
 * [2023-10](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2024/visa-bulletin-for-october-2023.html)
 
 * [2023-09](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2023/visa-bulletin-for-september-2023.html)
