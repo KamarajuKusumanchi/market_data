@@ -1,4 +1,17 @@
+==== Louisiana ====
+  * Before April 1, 2016, the state sales tax rate was 4%.
+  * From April 1, 2016 through June 30, 2018, it was 5%.
+  * From July 1, 2018 to present it is 4.45%
+
+Ref:
+  * https://www.revenue.louisiana.gov/SalesTax/GeneralSalesAndUseTax
+
+==== dummy ====
   * https://www.nj.gov/state/njfilm/regulations-taxes.shtml#:~:text=The%20current%20Sales%20Tax%20rate,manufacturing%2Fprocessing%20machinery%20and%20equipment - shows the current sales tax rate in NJ
 
 ==== references to check ====
   * https://www.salestaxinstitute.com/resources/rates - contains sales tax rates by state. Have to cross check the quality of the data.
+    * [2024-01-08] The sales tax rate of Louisiana is correctly listed as 4.450%.
+
+  * https://taxfoundation.org/data/all/state/2023-sales-taxes/
+    * Todo:- check if the data here matches with sales_tax_by_state.txt.

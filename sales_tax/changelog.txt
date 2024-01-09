@@ -1,0 +1,5 @@
+==== 2024-01-08 ====
+  * Initial version of sales_tax_by_state.txt is from
+    https://github.com/The-Software-Guild/mastery-project-assessment-flooring-mastery-cbowe89/blob/master/Data/Taxes.txt
+  * I changed the filename, column names to my liking.
+  * Louisiana's tax rate was wrong. I updated it.
