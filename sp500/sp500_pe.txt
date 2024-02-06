@@ -1,0 +1,2 @@
+       cob  index    market_cap      earnings        pe  earnings_yield
+2024-02-05  sp500  4.595309e+13  1.796693e+12  25.57649        3.909841
