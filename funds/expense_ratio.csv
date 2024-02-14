@@ -2,7 +2,7 @@ ticker, fund, expense ratio in bps, asof
 VUSXX, Vanguard Treasury Money Market Fund, 9, 2023-04-03
 SPY, SPDR S&P 500 fund, 9.45, 20221208
 IVV, iShares core S&P 500 fund, 4,
-VOO, Vanguard S&P 500 ETF, 3, 20221208
+VOO, Vanguard S&P 500 ETF, 3, 2024-02-14
 FUSVX, Fidelity's S&P 500 fund, 5,
 VTI, Vanguard Total Stock Market ETF, 3, 20220609
 VWO, Vanguard FTSE Emerging Markets ETF, 12, 20190226
@@ -14,3 +14,6 @@ EEM, iShares MSCI Emerging Markets ETF, 68, 20200225
 QQQ, "Invesco QQQ Trust, Series 1", 20, 20230315
 QQQM, Invesco NASDAQ 100 ETF, 15, 20230315
 SCHD, Schwab U.S. Dividend Equity ETF, 6, 20230315
+FTEC, Fidelity MSCI Information Technology Index ETF, 8.4, 2024-02-14
+VGT, Vanguard Information Technology ETF, 10, 2024-02-14
+IYW, iShares U.S. Technology ETF. 40, 2024-02-14
