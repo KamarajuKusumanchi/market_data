@@ -2,7 +2,7 @@
 # 
 # The start and end dates are of the form YYYY or YYYY-MM or YYYY-MM-DD
 # depending on the information is available.
-ticker,company, ceo, website, start_date, end_date
+ticker, company, ceo, website, start_date, end_date
 AAPL,, Tim Cook, https://en.wikipedia.org/wiki/Tim_Cook,,
 AVGO,, Hock E. Tan, , 2016-02-01,
 BA, Boeing, Dennis Muilenburg, https://en.wikipedia.org/wiki/Dennis_Muilenburg, 2015-07-01,
@@ -11,6 +11,8 @@ BBBY, Bed Bath & Beyond Inc, Sue Gove, , 2022-06-29,
 BK, The Bank of New York Mellon, Charles Scharf, https://en.wikipedia.org/wiki/Charles_Scharf, 2017-07, 2019-09-26
 BK, The Bank of New York Mellon, Thomas P. Gibbons, https://www.bnymellon.com/us/en/who-we-are/leadership/gibbons.jsp, 2019-09-27
 BLK,, Larry Fink, https://en.wikipedia.org/wiki/Laurence_D._Fink,,
+CVS, CVS Health Corp, Karen Lynch, , , 2024-10-16
+CVS, CVS Health Corp, David Joyner, , 2024-10-17,
 FB,, Mark Zuckerberg, https://en.wikipedia.org/wiki/Mark_Zuckerberg,,
 GE,, John L. Flannery, https://en.wikipedia.org/wiki/John_L._Flannery, 2017-08, 2018-10
 GE,, Larry Culp, https://en.wikipedia.org/wiki/H._Lawrence_Culp_Jr., 2018-10-01,
