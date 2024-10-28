@@ -4,8 +4,11 @@
 # operating_income is in millions dollars
 ticker, quarter, operating_income, ref
 BRK.B, 2022Q1,  7040, https://www.businesswire.com/news/home/20220430005003/en
+BRK.B, 2022Q2,  9283, https://www.businesswire.com/news/home/20220806005001/en
 BRK.B, 2022Q4,  6709, https://www.businesswire.com/news/home/20230225005002/en
 BRK.B, 2023Q1,  8065, https://www.businesswire.com/news/home/20230506005003/en
 BRK.B, 2023Q2, 10043, https://www.businesswire.com/news/home/20230805450224/en
 BRK.B, 2023Q3, 10761, https://www.businesswire.com/news/home/20231104745358/en
 BRK.B, 2023Q4,  8481, https://www.businesswire.com/news/home/20240224643700/en
+BRK.B, 2024Q1, 11222, https://www.businesswire.com/news/home/20240504932623/en
+BRK.B, 2024Q2, 11598, https://www.businesswire.com/news/home/20240803795024/en
