@@ -1,0 +1,8 @@
+quarter, url
+2023Q1, https://berkshirehathaway.com/qtrly/1stqtr23.pdf
+2023Q2, https://berkshirehathaway.com/qtrly/2ndqtr23.pdf
+2023Q3, https://berkshirehathaway.com/qtrly/3rdqtr23.pdf
+2024Q1, https://berkshirehathaway.com/qtrly/1stqtr24.pdf
+2024Q2, https://berkshirehathaway.com/qtrly/2ndqtr24.pdf
+2024Q3, https://berkshirehathaway.com/qtrly/3rdqtr24.pdf
+
