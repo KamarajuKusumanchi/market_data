@@ -1,0 +1,2 @@
+ticker, url
+WU, https://ir.westernunion.com/news/archived-press-releases/default.aspx
