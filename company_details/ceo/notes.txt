@@ -9,3 +9,6 @@ BBBY
 
 CVS
 * https://www.cvshealth.com/news/company-news/cvs-health-appoints-david-joyner-president-and-chief-executive-officer.html
+
+WU
+* https://corporate.westernunion.com/about-us/board-of-directors/ - contains the names of board of directors, ceo
