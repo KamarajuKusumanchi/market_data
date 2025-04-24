@@ -4,3 +4,10 @@ from | https://investor.costco.com/news/news-details/2025/Costco-Wholesale-Corpo
 
 Costco currently operates 897 warehouses, including 617 in the United States and Puerto Rico, 109 in Canada, 41 in Mexico, 36 in Japan, 29 in the United Kingdom, 19 in Korea, 15 in Australia, 14 in Taiwan, seven in China, five in Spain, two in France, and one each in Iceland, New Zealand and Sweden.
 -------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+asof | 2025-04-09
+from | https://investor.costco.com/news/news-details/2025/Costco-Wholesale-Corporation-Reports-March-Sales-Results/default.aspx
+
+Costco currently operates 903 warehouses, including 623 in the United States and Puerto Rico, 109 in Canada, 41 in Mexico, 36 in Japan, 29 in the United Kingdom, 19 in Korea, 15 in Australia, 14 in Taiwan, seven in China, five in Spain, two in France, and one each in Iceland, New Zealand and Sweden.
+-------------------------------------------------------------------------------
