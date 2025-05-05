@@ -12,3 +12,6 @@ BRK.B, 2022Q3,  7651, https://www.businesswire.com/news/home/20231104745358/en
 BRK.B, 2022Q4,  6625, https://www.businesswire.com/news/home/20240224643700/en
 BRK.B, 2023Q1,  8065, https://www.businesswire.com/news/home/20240504932623/en
 BRK.B, 2023Q2, 10043, https://www.businesswire.com/news/home/20240803795024/en
+BRK.B, 2023Q3, 10761, https://www.businesswire.com/news/home/20241102654212/en
+BRK.B, 2023Q4,  8481, https://www.businesswire.com/news/home/20250222845036/en
+BRK.B, 2024Q1, 11222, https://www.businesswire.com/news/home/20250503586072/en
