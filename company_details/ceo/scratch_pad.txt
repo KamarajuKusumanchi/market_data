@@ -1,0 +1,15 @@
+
+-------------------------------------------------------------------------------
+* Use this to quickly jot down the ceo names you come across but do not have
+  the time to enter the details into ceo.csv
+
+# Policy:
+* new entries go at the end
+* as much as possible, move the entries from here to ceo.csv
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+today | 2025-05-08
+
+Crocs CEO: Andrew Rees
+-------------------------------------------------------------------------------
