@@ -1,7 +1,7 @@
 # links to investor relations websites of various companies.
 ticker, website
 AAPL, http://investor.apple.com/
-AMZN, http://phx.corporate-ir.net/phoenix.zhtml%3Fc%3D97664%26p%3Dirol-irhome
+AMZN, https://ir.aboutamazon.com/overview/default.aspx
 BLK, http://ir.blackrock.com/
 CMG, http://ir.chipotle.com/
 COST, https://investor.costco.com/
