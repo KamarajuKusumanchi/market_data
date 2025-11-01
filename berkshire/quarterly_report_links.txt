@@ -5,4 +5,7 @@ quarter, url
 2024Q1, https://berkshirehathaway.com/qtrly/1stqtr24.pdf
 2024Q2, https://berkshirehathaway.com/qtrly/2ndqtr24.pdf
 2024Q3, https://berkshirehathaway.com/qtrly/3rdqtr24.pdf
+2025Q1, https://berkshirehathaway.com/qtrly/1stqtr25.pdf
+2025Q2, https://berkshirehathaway.com/qtrly/2ndqtr25.pdf
+2025Q3, https://berkshirehathaway.com/qtrly/3rdqtr25.pdf
 
