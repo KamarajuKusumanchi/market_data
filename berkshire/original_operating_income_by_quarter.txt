@@ -15,3 +15,4 @@ BRK.B, 2024Q2, 11598, https://www.businesswire.com/news/home/20240803795024/en
 BRK.B, 2024Q3, 10090, https://www.businesswire.com/news/home/20241102654212/en
 BRK.B, 2024Q4, 14527, https://www.businesswire.com/news/home/20250222845036/en
 BRK.B, 2025Q1,  9641, https://www.businesswire.com/news/home/20250503586072/en
+BRK.B, 2025Q2, 11160, https://www.berkshirehathaway.com/news/aug0225.pdf
