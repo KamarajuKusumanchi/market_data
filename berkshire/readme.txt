@@ -1,6 +1,8 @@
 -------------------------------------------------------------------------------
 raw.txt is obtained from annual letter
 https://www.berkshirehathaway.com/letters/2023ltr.pdf
+then updated with latest recent data from
+  * https://www.berkshirehathaway.com/letters/2024ltr.pdf
 
 performance.txt is obtained as follows:
 * data in raw.txt is converted into a csv format
