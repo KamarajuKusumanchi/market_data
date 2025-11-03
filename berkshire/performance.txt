@@ -58,3 +58,4 @@ Year, annual_pct_return_berkshire_market_value, annual_pct_return_sp500_with_div
 2021,  29.6,  28.7
 2022,   4.0, -18.1
 2023,  15.8,  26.3
+2024,  25.5,  25.0
