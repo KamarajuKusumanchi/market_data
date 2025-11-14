@@ -10,5 +10,11 @@ BBBY
 CVS
 * https://www.cvshealth.com/news/company-news/cvs-health-appoints-david-joyner-president-and-chief-executive-officer.html
 
+TGT
+* https://www.cnbc.com/2025/11/14/walmart-ceo-doug-mcmillon-to-retire-in-january.html
+
+WMT
+* https://www.cnbc.com/2025/11/14/walmart-ceo-doug-mcmillon-to-retire-in-january.html
+
 WU
 * https://corporate.westernunion.com/about-us/board-of-directors/ - contains the names of board of directors, ceo
