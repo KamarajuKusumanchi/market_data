@@ -1,0 +1,4 @@
+# source: https://13f.info/manager/0001067983-berkshire-hathaway-inc
+# sort by: (date_filed ascending, quarter ascending)
+quarter, holdings, value_in_thousands, form_tpe, date_filed, filing_id, url
+Q3 2025, 41, "267,334,501", 13F-HR, 2025-11-14, 000119312525282901, https://13f.info/13f/000119312525282901-berkshire-hathaway-inc-q3-2025
