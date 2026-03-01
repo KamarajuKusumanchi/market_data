@@ -4,3 +4,4 @@ year, url
 2022, https://www.berkshirehathaway.com/letters/2022ltr.pdf
 2023, https://www.berkshirehathaway.com/letters/2023ltr.pdf
 2024, https://www.berkshirehathaway.com/letters/2024ltr.pdf
+2025, https://www.berkshirehathaway.com/letters/2025ltr.pdf
