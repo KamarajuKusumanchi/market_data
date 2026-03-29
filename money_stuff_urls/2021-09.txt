@@ -1,0 +1,29 @@
+publishedAt    url                                                                                                   headline
+2021-09-01     https://www.bloomberg.com/news/newsletters/2021-09-01/putting-meme-stocks-like-gamestop-in-the-sp-500-index   Money Stuff: Putting the Meme Stocks in the Index
+2021-09-01     https://www.bloomberg.com/opinion/articles/2021-09-01/putting-meme-stocks-like-gamestop-in-the-index          Putting the Meme Stocks in the Index
+2021-09-08     https://www.bloomberg.com/news/newsletters/2021-09-08/money-stuff-lending-bitcoins-is-tricky                  Money Stuff: Lending Bitcoins Is Tricky
+2021-09-08     https://www.bloomberg.com/opinion/articles/2021-09-08/lending-bitcoins-is-tricky                              Lending Bitcoins Is Tricky
+2021-09-09     https://www.bloomberg.com/news/newsletters/2021-09-09/money-stuff-twenty-percent-of-a-picture-of-a-dog        Money Stuff: Twenty Percent of a Picture of a Dog
+2021-09-09     https://www.bloomberg.com/opinion/articles/2021-09-09/twenty-percent-of-a-picture-of-a-dog                    Twenty Percent of a Picture of a Dog
+2021-09-10     https://www.bloomberg.com/news/newsletters/2021-09-10/money-stuff-fungible-slices-of-non-fungible-tokens      Money Stuff: Fungible Slices of Non-Fungible Tokens
+2021-09-10     https://www.bloomberg.com/opinion/articles/2021-09-10/fungible-slices-of-non-fungible-tokens                  Fungible Slices of Non-Fungible Tokens
+2021-09-13     https://www.bloomberg.com/news/newsletters/2021-09-13/money-stuff-boards-have-to-pay-attention                Money Stuff: Boards Have to Pay Attention
+2021-09-13     https://www.bloomberg.com/opinion/articles/2021-09-13/boards-have-to-pay-attention                            Boards Have to Pay Attention
+2021-09-14     https://www.bloomberg.com/news/newsletters/2021-09-14/money-stuff-don-t-spend-your-litecoins-at-walmart       Money Stuff: Don’t Spend Your Litecoins at Walmart
+2021-09-14     https://www.bloomberg.com/opinion/articles/2021-09-14/don-t-spend-your-litecoins-at-walmart                   Don’t Spend Your Litecoins at Walmart
+2021-09-15     https://www.bloomberg.com/news/newsletters/2021-09-15/money-stuff-don-t-buy-the-bad-data                      Money Stuff: Don’t Buy the Bad Data
+2021-09-15     https://www.bloomberg.com/opinion/articles/2021-09-15/don-t-buy-the-bad-data                                  Don’t Buy the Bad Data
+2021-09-17     https://www.bloomberg.com/news/newsletters/2021-09-17/money-stuff-be-careful-with-your-financial-influence    Money Stuff: Be Careful With Your Financial Influence
+2021-09-17     https://www.bloomberg.com/opinion/articles/2021-09-17/be-careful-with-your-financial-influence                Be Careful With Your Financial Influence
+2021-09-20     https://www.bloomberg.com/news/newsletters/2021-09-20/money-stuff-investment-banking-is-cheap-if-you-re-rich  Money Stuff: Investment Banking Is Cheap If You’re Rich
+2021-09-20     https://www.bloomberg.com/opinion/articles/2021-09-20/investment-banking-is-cheap-if-you-re-rich              Investment Banking Is Cheap If You’re Rich
+2021-09-21     https://www.bloomberg.com/news/newsletters/2021-09-21/money-stuff-evergrande-borrowed-from-everyone           Money Stuff: Evergrande Borrowed From Everyone
+2021-09-21     https://www.bloomberg.com/opinion/articles/2021-09-21/evergrande-borrowed-from-everyone                       Evergrande Borrowed From Everyone
+2021-09-22     https://www.bloomberg.com/news/newsletters/2021-09-22/crypto-regulators-aren-t-very-sympathetic-ktvrpa5i                            Crypto Regulators Aren’t Very Sympathetic
+2021-09-22     https://www.bloomberg.com/opinion/articles/2021-09-22/crypto-regulators-aren-t-very-sympathetic                                     Crypto Regulators Aren’t Very Sympathetic
+2021-09-23     https://www.bloomberg.com/news/newsletters/2021-09-23/money-stuff-dark-pool-sold-some-order-flow                                    Money Stuff: Dark Pool Sold Some Order Flow
+2021-09-23     https://www.bloomberg.com/opinion/articles/2021-09-23/dark-pool-sold-some-order-flow                                                Dark Pool Sold Some Order Flow
+2021-09-27     https://www.bloomberg.com/opinion/articles/2021-09-27/impostors-on-the-due-diligence-call                                           Impostors on the Due Diligence Call
+2021-09-28     https://www.bloomberg.com/opinion/articles/2021-09-28/wells-fargo-swapped-some-digits                                               Wells Fargo Swapped Some Digits
+2021-09-29     https://www.bloomberg.com/opinion/articles/2021-09-29/insiders-are-good-at-trading                                                  Insiders Are Good at Trading
+2021-09-30     https://www.bloomberg.com/opinion/articles/2021-09-30/goldman-compliance-analyst-wasn-t-compliant                                   Goldman Compliance Analyst Wasn’t Compliant
