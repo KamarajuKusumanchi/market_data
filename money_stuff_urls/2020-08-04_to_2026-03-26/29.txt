@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                             headline
+2023-01-26     https://www.bloomberg.com/opinion/articles/2023-01-26/chatgpt-is-not-much-of-a-pitch-robot                      ChatGPT Is Not Much of a Pitch Robot
+2023-01-30     https://www.bloomberg.com/opinion/articles/2023-01-30/ibuyers-bought-high-and-sold-low                          iBuyers Bought High and Sold Low
+2023-01-31     https://www.bloomberg.com/opinion/articles/2023-01-31/matt-levine-johnson-johnson-s-jnj-bankruptcy-didn-t-work  Johnson & Johnson’s Bankruptcy Didn’t Work
+2023-02-01     https://www.bloomberg.com/opinion/articles/2023-02-01/amc-has-some-clever-apes                                  AMC Has Some Clever APEs
+2023-02-02     https://www.bloomberg.com/opinion/articles/2023-02-02/the-sec-wants-to-see-more-phones                          The SEC Wants To See More Phones
+2023-02-06     https://www.bloomberg.com/opinion/articles/2023-02-06/musk-gets-away-with-mischief                              Musk Gets Away With Mischief
+2023-02-07     https://www.bloomberg.com/opinion/articles/2023-02-07/bed-bath-beyond-sold-some-stock                           Bed Bath & Beyond Sold Some Stock
+2023-02-08     https://www.bloomberg.com/opinion/articles/2023-02-08/bed-bath-beyond-got-its-deal-done                         Bed Bath & Beyond Got Its Deal Done
+2023-02-09     https://www.bloomberg.com/opinion/articles/2023-02-09/adani-has-an-index-problem                                Adani Has an Index Problem
+2023-02-13     https://www.bloomberg.com/opinion/articles/2023-02-13/the-sec-cracks-down-on-crypto                             The SEC Cracks Down on Crypto
+2023-02-14     https://www.bloomberg.com/opinion/articles/2023-02-14/three-arrows-gives-crypto-another-try                     Three Arrows Gives Crypto Another Try
+2023-02-15     https://www.bloomberg.com/opinion/articles/2023-02-15/purple-innovation-s-prpls-innovation                      Purple Innovation’s PRPLS Innovation
+2023-02-16     https://www.bloomberg.com/opinion/articles/2023-02-16/the-sec-comes-for-crypto-custody                          The SEC Comes for Crypto Custody
+2023-02-21     https://www.bloomberg.com/opinion/articles/2023-02-21/amc-apes-hate-amc-s-apes                                  AMC Apes Hate AMC’s APEs
+2023-02-22     https://www.bloomberg.com/opinion/articles/2023-02-22/spacs-want-their-money-back                               SPACs Want Their Money Back
+2023-02-23     https://www.bloomberg.com/opinion/articles/2023-02-23/slam-dunks-might-be-securities                            Slam Dunks Might Be Securities
+2023-02-24     https://www.bloomberg.com/opinion/articles/2023-02-24/some-spacs-have-spare-cash                                Some SPACs Have Spare Cash
+2023-02-27     https://www.bloomberg.com/opinion/articles/2023-02-27/wirecard-had-a-wild-run                                   Wirecard Had a Wild Run
+2023-02-28     https://www.bloomberg.com/opinion/articles/2023-02-28/amc-s-apes-have-to-wait                                   AMC’s APEs Have to Wait
+2023-03-01     https://www.bloomberg.com/opinion/articles/2023-03-01/goldman-wants-to-be-more-boring                           Goldman Wants to Be More Boring

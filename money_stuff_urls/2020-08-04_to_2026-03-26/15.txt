@@ -1,0 +1,21 @@
+publishedAt    url                                                                                             headline
+2024-07-24     https://www.bloomberg.com/opinion/articles/2024-07-24/private-equity-puts-debt-everywhere       Private Equity Puts Debt Everywhere
+2024-07-25     https://www.bloomberg.com/opinion/articles/2024-07-25/bill-ackman-wants-less-money              Bill Ackman Wants Less Money
+2024-07-26     https://www.bloomberg.com/opinion/articles/2024-07-26/andrew-left-wasn-t-short-for-long         Andrew Left Wasn’t Short for Long
+2024-07-29     https://www.bloomberg.com/opinion/articles/2024-07-29/due-diligence-can-be-risky                Due Diligence Can Be Risky
+2024-07-30     https://www.bloomberg.com/opinion/articles/2024-07-30/fake-job-interviews-are-securities-fraud  Fake Job Interviews Are Securities Fraud
+2024-08-01     https://www.bloomberg.com/opinion/articles/2024-08-01/bill-ackman-raised-no-money               Bill Ackman Raised No Money
+2024-08-05     https://www.bloomberg.com/opinion/articles/2024-08-05/the-good-trades-have-gone-bad             The Good Trades Have Gone Bad
+2024-08-06     https://www.bloomberg.com/opinion/articles/2024-08-06/bitclout-wasn-t-so-decentralized          BitClout Wasn’t So Decentralized
+2024-08-07     https://www.bloomberg.com/opinion/articles/2024-08-07/ai-companies-almost-get-bought            AI Companies Almost Get Bought
+2024-08-08     https://www.bloomberg.com/opinion/articles/2024-08-08/coal-is-cool-now                          Coal Is Cool Now
+2024-08-12     https://www.bloomberg.com/opinion/articles/2024-08-12/leverage-goes-down-when-markets-go-down   Leverage Goes Down When Markets Go Down
+2024-08-13     https://www.bloomberg.com/opinion/articles/2024-08-13/hedge-funds-take-money-from-each-other    Hedge Funds Take Money From Each Other
+2024-08-14     https://www.bloomberg.com/opinion/articles/2024-08-14/jab-is-an-expensive-family-office         JAB Is an Expensive Family Office
+2024-08-15     https://www.bloomberg.com/opinion/articles/2024-08-15/stablecoins-can-have-bank-runs            Stablecoins Can Have Bank Runs
+2024-08-26     https://www.bloomberg.com/opinion/articles/2024-08-26/carl-icahn-had-some-hidden-loans          Carl Icahn Had Some Hidden Loans
+2024-08-27     https://www.bloomberg.com/opinion/articles/2024-08-27/accounting-isn-t-cool-anymore             Accounting Isn’t Cool Anymore
+2024-08-28     https://www.bloomberg.com/opinion/articles/2024-08-28/activist-shorts-can-still-have-fun        Activist Shorts Can Still Have Fun
+2024-08-29     https://www.bloomberg.com/opinion/articles/2024-08-29/bill-ackman-has-some-more-psus-ideas      Bill Ackman Has Some More PSUS Ideas
+2024-09-03     https://www.bloomberg.com/opinion/articles/2024-09-03/triple-etfs-triple-your-fun               Triple ETFs Triple Your Fun
+2024-09-04     https://www.bloomberg.com/opinion/articles/2024-09-04/hedge-funds-help-companies-hedge          Hedge Funds Help Companies Hedge

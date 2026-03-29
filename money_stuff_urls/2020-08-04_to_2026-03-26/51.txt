@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                                  headline
+2021-03-11     https://www.bloomberg.com/news/newsletters/2021-03-11/roblox-and-coupang-chose-their-initial-investors-km55bn85                      Money Stuff: Companies Can Pick Their Investors
+2021-03-15     https://www.bloomberg.com/opinion/articles/2021-03-15/goldman-sachs-ceo-david-solomon-wants-his-bankers-back-at-the-office           Goldman CEO Wants His Bankers Back at Work
+2021-03-15     https://www.bloomberg.com/news/newsletters/2021-03-15/goldman-sachs-ceo-david-solomon-wants-his-bankers-back-at-the-office-kmasw2xe  Money Stuff: Goldman CEO Wants His Bankers Back at Work
+2021-03-16     https://www.bloomberg.com/opinion/articles/2021-03-16/coupang-s-ipo-pop-served-a-purpose                                             The IPO Pop Isn’t All Bad
+2021-03-16     https://www.bloomberg.com/news/newsletters/2021-03-16/coupang-s-ipo-pop-served-a-purpose-kmc8jk6p                                    Money Stuff: The IPO Pop Isn’t All Bad
+2021-03-17     https://www.bloomberg.com/opinion/articles/2021-03-17/greensill-didn-t-just-finance-bluestone-s-supply-chain                         Greensill Didn’t Just Finance Supply Chains
+2021-03-17     https://www.bloomberg.com/news/newsletters/2021-03-17/greensill-didn-t-just-finance-bluestone-s-supply-chain-kmdn7w8h                Money Stuff: Greensill Didn’t Just Finance Supply Chains
+2021-03-18     https://www.bloomberg.com/opinion/articles/2021-03-18/goldman-analysts-work-too-hard                                                 Goldman Analysts Work Too Hard
+2021-03-18     https://www.bloomberg.com/news/newsletters/2021-03-18/money-stuff-goldman-analysts-work-too-hard                                     Money Stuff: Goldman Analysts Work Too Hard
+2021-03-22     https://www.bloomberg.com/opinion/articles/2021-03-22/fake-insider-trading-is-illegal-too                                            Fake Insider Trading Is Illegal Too
+2021-03-22     https://www.bloomberg.com/news/newsletters/2021-03-22/money-stuff-fake-insider-trading-is-illegal-too                                Money Stuff: Fake Insider Trading Is Illegal Too
+2021-03-23     https://www.bloomberg.com/opinion/articles/2021-03-23/happy-gamestop-earnings-day                                                    Happy GameStop Earnings Day
+2021-03-23     https://www.bloomberg.com/news/newsletters/2021-03-23/happy-gamestop-earnings-day-kmm8klwd                                           Money Stuff: Happy GameStop Earnings Day
+2021-03-24     https://www.bloomberg.com/opinion/articles/2021-03-24/nfl-futures-betting-you-can-t-trade-on-pro-football-odds                       You Can’t Trade Football Futures
+2021-03-24     https://www.bloomberg.com/news/newsletters/2021-03-24/nfl-futures-betting-you-can-t-trade-on-pro-football-odds-kmnnwrhn              Money Stuff: You Can’t Trade Football Futures
+2021-03-25     https://www.bloomberg.com/opinion/articles/2021-03-25/matt-levine-junior-analysts-on-wall-street-cash-in-on-long-work-hours          Saturdays Are for the Junior Bankers
+2021-04-05     https://www.bloomberg.com/opinion/articles/2021-04-05/bill-hwang-s-archegos-swap-aftermath-is-awkward-for-banks                      Archegos Appeared, Then Vanished
+2021-04-05     https://www.bloomberg.com/news/newsletters/2021-04-05/bill-hwang-s-archegos-swap-aftermath-is-awkward-for-banks-kn4t6lry             Money Stuff: Archegos Appeared, Then Vanished
+2021-04-06     https://www.bloomberg.com/opinion/articles/2021-04-06/greensill-capital-financed-imaginary-invoices-for-gupta-s-liberty              Imaginary Invoices Are Hard to Collect
+2021-04-06     https://www.bloomberg.com/news/newsletters/2021-04-06/greensill-capital-financed-imaginary-invoices-for-gupta-s-liberty-kn68ex0p     Money Stuff: Imaginary Invoices Are Hard to Collect

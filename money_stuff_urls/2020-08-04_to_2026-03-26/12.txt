@@ -1,0 +1,21 @@
+publishedAt    url                                                                                              headline
+2024-11-18     https://www.bloomberg.com/opinion/articles/2024-11-18/palantir-delivers-the-tendies              Palantir Delivers the Tendies
+2024-11-19     https://www.bloomberg.com/opinion/articles/2024-11-19/insider-trading-at-the-fed                 Insider Trading at the Fed
+2024-11-20     https://www.bloomberg.com/opinion/articles/2024-11-20/short-squeezes-are-legal-now               Short Squeezes Are Legal Now
+2024-11-21     https://www.bloomberg.com/opinion/articles/2024-11-21/adani-green-didn-t-mention-the-bribes      Adani Green Didn’t Mention the Bribes
+2024-11-25     https://www.bloomberg.com/opinion/articles/2024-11-25/synapse-still-can-t-find-its-money         Synapse Still Can’t Find Its Money
+2024-11-26     https://www.bloomberg.com/opinion/articles/2024-11-26/some-wamco-trades-were-better-than-others  Some Wamco Trades Were Better Than Others
+2024-12-02     https://www.bloomberg.com/opinion/articles/2024-12-02/texas-asks-if-index-funds-are-illegal      Texas Asks If Index Funds Are Illegal
+2024-12-03     https://www.bloomberg.com/opinion/articles/2024-12-03/elon-still-can-t-get-his-money             Elon Still Can’t Get His Money
+2024-12-04     https://www.bloomberg.com/opinion/articles/2024-12-04/citi-traders-didn-t-know-the-rules         Citi Traders Didn’t Know the Rules
+2024-12-05     https://www.bloomberg.com/opinion/articles/2024-12-05/microstrategy-has-volatility-to-sell       MicroStrategy Has Volatility to Sell
+2024-12-11     https://www.bloomberg.com/opinion/articles/2024-12-11/the-onion-can-t-buy-infowars-yet           The Onion Can’t Buy Infowars Yet
+2024-12-12     https://www.bloomberg.com/opinion/articles/2024-12-12/people-really-want-spacex-shares           People Really Want SpaceX Shares
+2024-12-16     https://www.bloomberg.com/opinion/articles/2024-12-16/elon-musk-heard-from-the-sec               Elon Musk Heard From the SEC
+2024-12-17     https://www.bloomberg.com/opinion/articles/2024-12-17/albertsons-is-mad-at-kroger                Albertsons Is Mad at Kroger
+2024-12-18     https://www.bloomberg.com/opinion/articles/2024-12-18/insider-trading-in-private-companies       Insider Trading in Private Companies
+2024-12-19     https://www.bloomberg.com/opinion/articles/2024-12-19/private-credit-wants-to-be-the-bank        Private Credit Wants to Be the Bank
+2025-01-06     https://www.bloomberg.com/opinion/articles/2025-01-06/mba-class-project-got-a-bit-too-real       MBA Class Project Got a Bit Too Real
+2025-01-07     https://www.bloomberg.com/opinion/articles/2025-01-07/private-equity-wants-your-401-k            Private Equity Wants Your 401(k)
+2025-01-08     https://www.bloomberg.com/opinion/articles/2025-01-08/the-fannie-and-freddie-trade-is-back       The Fannie and Freddie Trade Is Back
+2025-01-09     https://www.bloomberg.com/opinion/articles/2025-01-09/it-s-tough-to-be-a-research-analyst        It’s Tough to Be a Research Analyst

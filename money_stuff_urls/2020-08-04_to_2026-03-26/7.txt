@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                       headline
+2025-06-12     https://www.bloomberg.com/opinion/newsletters/2025-06-12/high-speed-traders-slow-down                     High-Speed Traders Slow Down
+2025-06-16     https://www.bloomberg.com/opinion/newsletters/2025-06-16/there-s-a-tron-treasury-company                  There’s a Tron Treasury Company
+2025-06-17     https://www.bloomberg.com/opinion/newsletters/2025-06-17/it-s-not-gambling-it-s-predicting                It's Not Gambling, It's Predicting
+2025-06-18     https://www.bloomberg.com/opinion/newsletters/2025-06-18/lawyers-are-mad-about-salt                       Lawyers Are Mad About SALT
+2025-06-23     https://www.bloomberg.com/opinion/newsletters/2025-06-23/malaysian-fryer-oil-arbitrage                    Malaysian Fryer Oil Arbitrage
+2025-06-24     https://www.bloomberg.com/opinion/newsletters/2025-06-24/everything-is-an-etf-now                         Everything Is an ETF Now
+2025-06-25     https://www.bloomberg.com/opinion/newsletters/2025-06-25/you-can-t-exactly-buy-stock-in-athletes          You Can’t Exactly Buy Stock in Athletes
+2025-06-26     https://www.bloomberg.com/opinion/newsletters/2025-06-26/anyone-can-sell-you-spacex-stock                 Anyone Can Sell You SpaceX Stock
+2025-06-30     https://www.bloomberg.com/opinion/newsletters/2025-06-30/insider-trading-on-sec-filings                   Insider Trading on SEC Filings
+2025-07-01     https://www.bloomberg.com/opinion/newsletters/2025-07-01/a-drug-trial-stock-sale                          A Drug-Trial Stock Sale
+2025-07-02     https://www.bloomberg.com/opinion/newsletters/2025-07-02/the-stocks-will-be-tokenized                     The Stocks Will Be Tokenized
+2025-07-03     https://www.bloomberg.com/opinion/newsletters/2025-07-03/ai-is-bad-at-snacks                              AI Is Bad at Snacks
+2025-07-07     https://www.bloomberg.com/opinion/newsletters/2025-07-07/jane-street-s-indian-options-trade-was-too-good  Jane Street’s Indian Options Trade Was Too Good
+2025-07-08     https://www.bloomberg.com/opinion/newsletters/2025-07-08/floor-traders-want-their-seats-back              Floor Traders Want Their Seats Back
+2025-07-09     https://www.bloomberg.com/opinion/newsletters/2025-07-09/goldman-wants-quarterly-loyalty-updates          Goldman Wants Quarterly Loyalty Updates
+2025-07-10     https://www.bloomberg.com/opinion/newsletters/2025-07-10/do-your-betting-with-your-broker                 Do Your Betting With Your Broker
+2025-07-14     https://www.bloomberg.com/opinion/newsletters/2025-07-14/musk-has-money-and-xai-wants-some                Musk Has Money and xAI Wants Some
+2025-07-15     https://www.bloomberg.com/opinion/newsletters/2025-07-15/put-the-crypto-in-the-index-funds                Put the Crypto in the Index Funds
+2025-07-16     https://www.bloomberg.com/opinion/newsletters/2025-07-16/zeno-s-takeover                                  Zeno’s Takeover
+2025-07-17     https://www.bloomberg.com/opinion/newsletters/2025-07-17/everyone-wants-a-bitcoin-treasury                Everyone Wants a Bitcoin Treasury

@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                    headline
+2025-11-17     https://www.bloomberg.com/opinion/newsletters/2025-11-17/private-markets-are-the-new-securities-fraud  Private Markets Are the New Securities Fraud
+2025-11-18     https://www.bloomberg.com/opinion/newsletters/2025-11-18/the-sec-opposes-shareholder-proposals         The SEC Opposes Shareholder Proposals
+2025-11-19     https://www.bloomberg.com/opinion/newsletters/2025-11-19/fine-trade-labubu-futures                     Fine, Trade Labubu Futures
+2025-11-20     https://www.bloomberg.com/opinion/newsletters/2025-11-20/predict-the-sneakers                          Predict the Sneakers
+2025-11-24     https://www.bloomberg.com/opinion/newsletters/2025-11-24/leave-the-gold-in-the-ground                  Leave the Gold in the Ground
+2025-11-25     https://www.bloomberg.com/opinion/newsletters/2025-11-25/take-the-crypto-out-of-the-indexes            Take the Crypto Out of the Indexes
+2025-12-01     https://www.bloomberg.com/opinion/newsletters/2025-12-01/openai-will-own-some-users                    OpenAI Will Own Some Users
+2025-12-02     https://www.bloomberg.com/opinion/newsletters/2025-12-02/ai-can-steal-crypto-now                       AI Can Steal Crypto Now
+2025-12-03     https://www.bloomberg.com/opinion/newsletters/2025-12-03/can-the-lenders-stick-together                Can the Lenders Stick Together?
+2025-12-04     https://www.bloomberg.com/opinion/newsletters/2025-12-04/buy-low-sell-to-yourself                      Buy Low, Sell to Yourself
+2025-12-08     https://www.bloomberg.com/opinion/newsletters/2025-12-08/a-bidding-war-for-warner-bros                 A Bidding War for Warner Bros.
+2025-12-09     https://www.bloomberg.com/opinion/newsletters/2025-12-09/private-indices-are-the-new-public-indices    Private Indices Are the New Public Indices
+2025-12-10     https://www.bloomberg.com/opinion/newsletters/2025-12-10/the-warner-deal-will-take-a-while             The Warner Deal Will Take a While
+2025-12-11     https://www.bloomberg.com/opinion/newsletters/2025-12-11/a-stock-price-is-not-a-prediction             A Stock Price Is Not a Prediction
+2025-12-15     https://www.bloomberg.com/opinion/newsletters/2025-12-15/the-video-of-dumb-investment                  The Video of Dumb Investment
+2025-12-16     https://www.bloomberg.com/opinion/newsletters/2025-12-16/fake-trading-is-hard-work                     Fake Trading Is Hard Work
+2025-12-17     https://www.bloomberg.com/opinion/newsletters/2025-12-17/warner-doesn-t-trust-paramount                Warner Doesn’t Trust Paramount
+2025-12-18     https://www.bloomberg.com/opinion/newsletters/2025-12-18/trump-media-discovers-nuclear-fusion          Trump Media Discovers Nuclear Fusion
+2026-01-05     https://www.bloomberg.com/opinion/newsletters/2026-01-05/everybody-wants-some-ai-debt                  Everybody Wants Some AI Debt
+2026-01-06     https://www.bloomberg.com/opinion/newsletters/2026-01-06/predict-your-house-price                      Predict Your House Price

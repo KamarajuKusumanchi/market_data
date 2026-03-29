@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                       headline
+2021-07-23     https://www.bloomberg.com/opinion/articles/2021-07-23/spac-shareholders-get-distracted                                    SPAC Shareholders Get Distracted
+2021-07-23     https://www.bloomberg.com/news/newsletters/2021-07-23/money-stuff-spac-shareholders-get-distracted                        Money Stuff: SPAC Shareholders Get Distracted
+2021-07-26     https://www.bloomberg.com/opinion/articles/2021-07-26/it-s-easy-to-borrow-money-if-you-have-money                         It’s Easy to Borrow Money If You Have Money
+2021-07-26     https://www.bloomberg.com/news/newsletters/2021-07-26/money-stuff-it-s-easy-to-borrow-money-if-you-have-money             Money Stuff: It’s Easy to Borrow Money If You Have Money
+2021-07-27     https://www.bloomberg.com/opinion/articles/2021-07-27/matt-levine-s-money-stuff-lordstown-is-selling-some-stock           Lordstown Is Selling Some Stock
+2021-07-27     https://www.bloomberg.com/news/newsletters/2021-07-27/matt-levine-s-money-stuff-lordstown-is-selling-some-stock-krm8v9bq  Money Stuff: Lordstown Is Selling Some Stock
+2021-07-28     https://www.bloomberg.com/opinion/articles/2021-07-28/robinhood-users-get-to-own-robinhood                                Robinhood Users Get to Own Robinhood
+2021-07-28     https://www.bloomberg.com/news/newsletters/2021-07-28/money-stuff-robinhood-users-get-to-own-robinhood                    Money Stuff: Robinhood Users Get to Own Robinhood
+2021-07-28     https://www.bloomberg.com/opinion/articles/2021-07-28/wu-tang-album-owned-by-martin-shkreli-had-so-much-potential         The Wu-Tang Deal Had So Much Potential
+2021-07-29     https://www.bloomberg.com/opinion/articles/2021-07-29/archegos-was-too-busy-for-margin-calls                              Archegos Was Too Busy for Margin Calls
+2021-07-29     https://www.bloomberg.com/news/newsletters/2021-07-29/money-stuff-archegos-was-too-busy-for-margin-calls                  Money Stuff: Archegos Was Too Busy for Margin Calls
+2021-08-02     https://www.bloomberg.com/opinion/articles/2021-08-02/chinese-stocks-will-get-more-warnings                               Chinese Stocks Will Get More Warnings
+2021-08-02     https://www.bloomberg.com/news/newsletters/2021-08-02/money-stuff-chinese-stocks-will-get-more-warnings                   Money Stuff: Chinese Stocks Will Get More Warnings
+2021-08-03     https://www.bloomberg.com/opinion/articles/2021-08-03/your-auditor-is-not-your-friend                                     Your Auditor Is Not Your Friend
+2021-08-03     https://www.bloomberg.com/news/newsletters/2021-08-03/money-stuff-your-auditor-is-not-your-friend                         Money Stuff: Your Auditor Is Not Your Friend
+2021-08-04     https://www.bloomberg.com/opinion/articles/2021-08-04/the-sec-has-its-eye-on-crypto                                       The SEC Has Its Eye on Crypto
+2021-08-04     https://www.bloomberg.com/news/newsletters/2021-08-04/money-stuff-the-sec-has-its-eye-on-crypto                           Money Stuff: The SEC Has Its Eye on Crypto
+2021-08-05     https://www.bloomberg.com/opinion/articles/2021-08-05/robinhood-is-more-fun-with-options                                  Robinhood Is More Fun With Options
+2021-08-05     https://www.bloomberg.com/news/newsletters/2021-08-05/money-stuff-robinhood-is-more-fun-with-options                      Money Stuff: Robinhood Is More Fun With Options
+2021-08-09     https://www.bloomberg.com/opinion/articles/2021-08-09/the-sec-has-some-crypto-complaints                                  The SEC Has Some Crypto Complaints

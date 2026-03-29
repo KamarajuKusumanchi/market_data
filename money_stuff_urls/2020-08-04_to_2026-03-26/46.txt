@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                                       headline
+2021-06-17     https://www.bloomberg.com/opinion/articles/2021-06-17/titanium-got-crushed                                                                Titanium Got Crushed
+2021-06-17     https://www.bloomberg.com/news/newsletters/2021-06-17/money-stuff-titanium-got-crushed                                                    Money Stuff: Titanium Got Crushed
+2021-06-21     https://www.bloomberg.com/opinion/articles/2021-06-21/lordstown-executives-had-good-timing                                                Lordstown Executives Had Good Timing
+2021-06-21     https://www.bloomberg.com/news/newsletters/2021-06-21/money-stuff-lordstown-executives-had-good-timing                                    Money Stuff: Lordstown Executives Had Good Timing
+2021-06-22     https://www.bloomberg.com/news/newsletters/2021-06-22/money-stuff-everything-still-might-be-securities-fraud                              Money Stuff: Everything Still Might Be Securities Fraud
+2021-06-22     https://www.bloomberg.com/opinion/articles/2021-06-22/everything-still-might-be-securities-fraud                                          Everything Still Might Be Securities Fraud
+2021-06-23     https://www.bloomberg.com/opinion/articles/2021-06-23/supreme-court-won-t-help-gse-shareholders-much                                      Supreme Court Won’t Help GSE Shareholders Much
+2021-06-23     https://www.bloomberg.com/news/newsletters/2021-06-23/money-stuff-supreme-court-won-t-help-gse-shareholders-much                          Money Stuff: Supreme Court Won’t Help GSE Shareholders Much
+2021-06-24     https://www.bloomberg.com/opinion/articles/2021-06-24/fidelity-manager-owned-gamestop-but-lacked-diamond-hands                            Fidelity Manager Lacked Diamond Hands
+2021-06-24     https://www.bloomberg.com/news/newsletters/2021-06-24/fidelity-manager-owned-gamestop-but-lacked-diamond-hands-kqb3bzwf                   Money Stuff: Fidelity Manager Lacked Diamond Hands
+2021-06-28     https://www.bloomberg.com/opinion/articles/2021-06-28/investors-will-buy-anything-now                                                     Investors Will Buy Anything Now
+2021-06-28     https://www.bloomberg.com/news/newsletters/2021-06-28/money-stuff-investors-will-buy-anything-now                                         Money Stuff: Investors Will Buy Anything Now
+2021-06-29     https://www.bloomberg.com/news/newsletters/2021-06-29/facebook-victory-against-the-ftc-is-an-antitrust-lesson-in-monopoly-power           Money Stuff: Facebook Is Big But Maybe Not a Monopoly
+2021-06-29     https://www.bloomberg.com/opinion/articles/2021-06-29/facebook-victory-against-the-ftc-is-an-antitrust-lesson-in-monopoly-power-kqi8jeku  Facebook Is Big But Maybe Not a Monopoly
+2021-06-30     https://www.bloomberg.com/opinion/articles/2021-06-30/amazon-got-some-warrants                                                            Amazon Got Some Warrants
+2021-06-30     https://www.bloomberg.com/news/newsletters/2021-06-30/money-stuff-amazon-got-some-warrants                                                Money Stuff: Amazon Got Some Warrants
+2021-07-01     https://www.bloomberg.com/news/newsletters/2021-07-01/money-stuff-pump-and-dump-and-pull-the-rug                                          Money Stuff: Pump and Dump and Pull the Rug
+2021-07-01     https://www.bloomberg.com/opinion/articles/2021-07-01/pump-and-dump-and-pull-the-rug                                                      Pump and Dump and Pull the Rug
+2021-07-02     https://www.bloomberg.com/opinion/articles/2021-07-02/robinhood-ipo-filing-is-a-lesson-in-meme-finance                                    Robinhood’s Investors Have Fun
+2021-07-02     https://www.bloomberg.com/news/newsletters/2021-07-02/robinhood-ipo-filing-is-a-lesson-in-meme-finance-kqmkzfxc                           Money Stuff: Robinhood’s Investors Have Fun

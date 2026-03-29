@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                              headline
+2021-10-25     https://www.bloomberg.com/opinion/articles/2021-10-25/elon-musk-makes-tesla-hertz-and-bitcoin-memes-go-up        The Power of Elon Musk, the Meme-Stock Lord
+2021-10-26     https://www.bloomberg.com/opinion/articles/2021-10-26/elon-musk-had-a-good-day                                   Elon Musk Had a Good Day
+2021-10-27     https://www.bloomberg.com/opinion/articles/2021-10-27/billionaire-investors-are-worried-about-oil-drilling       Nobody Is Drilling the Oil
+2021-10-28     https://www.bloomberg.com/opinion/articles/2021-10-28/dan-loeb-wants-a-clean-shell-and-a-dirty-shell             Dan Loeb Wants a Clean Shell and a Dirty Shell
+2021-11-01     https://www.bloomberg.com/opinion/articles/2021-11-01/trump-spac-had-a-head-start                                Trump SPAC Had a Head Start
+2021-11-02     https://www.bloomberg.com/opinion/articles/2021-11-02/stablecoins-might-have-to-be-banks                         Stablecoins Might Have to Be Banks
+2021-11-03     https://www.bloomberg.com/opinion/articles/2021-11-03/zillow-is-done-trading-houses                              Zillow Is Done Trading Houses
+2021-11-04     https://www.bloomberg.com/opinion/articles/2021-11-04/macy-s-targeted-by-meme-activists                          Meme Activists Come for Macy’s
+2021-11-08     https://www.bloomberg.com/opinion/articles/2021-11-08/elon-musk-did-some-tweets                                  Elon Musk Did Some Tweets
+2021-11-09     https://www.bloomberg.com/opinion/articles/2021-11-09/matt-levine-s-money-stuff-doing-fraud-on-securities-fraud  Doing Fraud on Securities Fraud
+2021-11-10     https://www.bloomberg.com/opinion/articles/2021-11-10/mckinsey-partner-s-insider-trading-strategy-was-bad        McKinsey Partner’s Insider Trading Strategy Was Bad
+2021-11-11     https://www.bloomberg.com/opinion/articles/2021-11-11/elon-musk-sold-some-tesla-stock-kvv74kce                   Elon Musk Sold Some Stock
+2021-11-15     https://www.bloomberg.com/opinion/articles/2021-11-15/moviepass-is-back-will-it-be-the-next-gamestop             Of Course MoviePass Is Back
+2021-11-16     https://www.bloomberg.com/opinion/articles/2021-11-16/jpmorgan-fights-tesla-over-warrants                        JPMorgan Fights Tesla Over Warrants
+2021-11-17     https://www.bloomberg.com/opinion/articles/2021-11-17/loews-lost-a-pipeline-case                                 Loews Lost a Pipeline Case
+2021-11-18     https://www.bloomberg.com/opinion/articles/2021-11-18/zillow-tried-to-make-less-money                            Zillow Tried to Make Less Money
+2021-11-22     https://www.bloomberg.com/opinion/articles/2021-11-22/be-careful-with-volcano-bonds                              Be Careful With Volcano Bonds
+2021-11-23     https://www.bloomberg.com/opinion/articles/2021-11-23/american-express-sold-some-tax-deductions                  AmEx Sold Some Tax Deductions
+2021-11-29     https://www.bloomberg.com/opinion/articles/2021-11-29/bill-ackman-has-a-sparc                                    Bill Ackman Has a SPARC
+2021-11-30     https://www.bloomberg.com/opinion/articles/2021-11-30/omicron-crypto-is-a-bet-on-attention                       Omicron Crypto Is a Bet on Attention

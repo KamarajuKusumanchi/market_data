@@ -1,0 +1,21 @@
+publishedAt    url                                                                                              headline
+2022-12-13     https://www.bloomberg.com/opinion/articles/2022-12-13/how-to-do-fraud-at-a-futures-exchange      How to Do Fraud at a Futures Exchange
+2022-12-14     https://www.bloomberg.com/opinion/articles/2022-12-14/stock-sniper-might-have-pumped-and-dumped  Stock Sniper Might Have Pumped and Dumped
+2022-12-15     https://www.bloomberg.com/opinion/articles/2022-12-15/the-sec-wants-more-stock-auctions          The SEC Wants More Stock Auctions
+2022-12-19     https://www.bloomberg.com/opinion/articles/2022-12-19/elon-wants-some-twitter-help               Elon Wants Some Twitter Help
+2022-12-21     https://www.bloomberg.com/opinion/articles/2022-12-21/wells-fargo-is-in-trouble-again            Wells Fargo Is in Trouble Again
+2022-12-22     https://www.bloomberg.com/opinion/articles/2022-12-22/ftx-friends-flip-on-sbf                    FTX Friends Flip on SBF
+2022-12-30     https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine/               How Not to Play the Game
+2023-01-03     https://www.bloomberg.com/opinion/articles/2023-01-03/crypto-manipulation-has-consequences       Crypto Manipulation Has Consequences
+2023-01-04     https://www.bloomberg.com/opinion/articles/2023-01-04/private-markets-don-t-like-to-go-down      Private Markets Don’t Like to Go Down
+2023-01-05     https://www.bloomberg.com/opinion/articles/2023-01-05/coindeal-s-bentleys-weren-t-real           CoinDeal’s Bentleys Weren’t Real
+2023-01-09     https://www.bloomberg.com/opinion/articles/2023-01-09/spac-math-no-longer-adds-up                SPAC Math No Longer Adds Up
+2023-01-10     https://www.bloomberg.com/opinion/articles/2023-01-10/crypto-banks-owe-themselves-money          Crypto Banks Owe Themselves Money
+2023-01-11     https://www.bloomberg.com/opinion/articles/2023-01-11/financial-engineering-the-debt-ceiling     Financial Engineering the Debt Ceiling
+2023-01-12     https://www.bloomberg.com/opinion/articles/2023-01-12/jpmorgan-says-frank-was-fraud              JPMorgan Says Frank Was Fraud
+2023-01-17     https://www.bloomberg.com/opinion/articles/2023-01-17/sec-comes-for-gemini-too-late              SEC Comes for Gemini Too Late
+2023-01-18     https://www.bloomberg.com/opinion/articles/2023-01-18/slicing-cash-flows-for-better-ratings      Slicing Cash Flows for Better Ratings
+2023-01-19     https://www.bloomberg.com/opinion/articles/2023-01-19/ftx-is-planning-a-comeback                 FTX Is Planning a Comeback
+2023-01-23     https://www.bloomberg.com/opinion/articles/2023-01-23/everything-is-also-bank-fraud              Everything Is Also Bank Fraud
+2023-01-24     https://www.bloomberg.com/opinion/articles/2023-01-24/elon-musk-never-jokes                      Elon Musk Never Jokes
+2023-01-25     https://www.bloomberg.com/opinion/articles/2023-01-25/nyse-forgot-to-open-yesterday              NYSE Forgot to Open Yesterday

@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                         headline
+2021-04-26     https://www.bloomberg.com/opinion/articles/2021-04-26/gamestop-s-ceo-goes-out-on-top                                        GameStop’s CEO Goes Out on Top
+2021-04-26     https://www.bloomberg.com/news/newsletters/2021-04-26/money-stuff-gamestop-s-ceo-goes-out-on-top                            Money Stuff: GameStop’s CEO Goes Out on Top
+2021-04-28     https://www.bloomberg.com/opinion/articles/2021-04-28/elon-musk-made-tesla-some-money-on-bitcoin                            Tesla Sold Some Bitcoins
+2021-04-28     https://www.bloomberg.com/news/newsletters/2021-04-28/elon-musk-made-tesla-some-money-on-bitcoin-ko1pfwfo                   Money Stuff: Tesla Sold Some Bitcoins
+2021-04-29     https://www.bloomberg.com/opinion/articles/2021-04-29/ignoring-the-rules-sometimes-works-for-elon-musk                      Ignoring the Rules Sometimes Works
+2021-04-29     https://www.bloomberg.com/news/newsletters/2021-04-29/ignoring-the-rules-sometimes-works-for-elon-musk-ko34j0tj             Money Stuff: Ignoring the Rules Sometimes Works
+2021-04-30     https://www.bloomberg.com/opinion/articles/2021-04-30/hometown-international-the-100-million-deli-is-a-weird-spac           The Deli Is a Weird SPAC
+2021-04-30     https://www.bloomberg.com/news/newsletters/2021-04-30/hometown-international-the-100-million-deli-is-a-weird-spac-ko4jbgqk  Money Stuff: The Deli Is a Weird SPAC
+2021-05-03     https://www.bloomberg.com/opinion/articles/2021-05-03/spacs-aren-t-a-guarantee-cf-finance-iii-and-aeye-are-proof            SPACs Aren’t Always a Guarantee
+2021-05-03     https://www.bloomberg.com/news/newsletters/2021-05-03/spacs-aren-t-a-guarantee-cf-finance-iii-and-aeye-are-proof-ko8u1nw3   Money Stuff: SPACs Aren’t Always a Guarantee
+2021-05-04     https://www.bloomberg.com/opinion/articles/2021-05-04/under-armour-earnings-were-a-bit-misleading                           Under Armour Sold Some Clothes Early
+2021-05-04     https://www.bloomberg.com/news/newsletters/2021-05-04/under-armour-earnings-were-a-bit-misleading-koa9d9lj                  Money Stuff: Under Armour Sold Some Clothes Early
+2021-05-06     https://www.bloomberg.com/opinion/articles/2021-05-06/dogecoin-is-up-because-it-s-funny                                     Dogecoin Is Up Because It’s Funny
+2021-05-06     https://www.bloomberg.com/news/newsletters/2021-05-06/money-stuff-dogecoin-is-up-because-it-s-funny                         Money Stuff: Dogecoin Is Up Because It’s Funny
+2021-05-10     https://www.bloomberg.com/opinion/articles/2021-05-10/elon-musk-s-snl-debut-didn-t-help-the-dogecoin-bulls                  Dogecoin Jokes Didn’t Help the Price
+2021-05-10     https://www.bloomberg.com/news/newsletters/2021-05-10/elon-musk-s-snl-debut-didn-t-help-the-dogecoin-bulls-koitpxb8         Money Stuff: Dogecoin Jokes Didn’t Help the Price
+2021-05-11     https://www.bloomberg.com/opinion/articles/2021-05-11/crypto-markets-are-where-the-fun-is                                   Crypto Markets Are Where the Fun Is
+2021-05-11     https://www.bloomberg.com/news/newsletters/2021-05-11/money-stuff-crypto-markets-are-where-the-fun-is                       Money Stuff: Crypto Markets Are Where the Fun Is
+2021-05-12     https://www.bloomberg.com/opinion/articles/2021-05-12/the-hertz-gamblers-were-right                                         The Hertz Gamblers Were Right
+2021-05-12     https://www.bloomberg.com/news/newsletters/2021-05-12/money-stuff-the-hertz-gamblers-were-right                             Money Stuff: The Hertz Gamblers Were Right

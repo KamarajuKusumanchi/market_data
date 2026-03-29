@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                                 headline
+2021-09-22     https://www.bloomberg.com/opinion/articles/2021-09-22/crypto-regulators-aren-t-very-sympathetic                                     Crypto Regulators Aren’t Very Sympathetic
+2021-09-22     https://www.bloomberg.com/news/newsletters/2021-09-22/crypto-regulators-aren-t-very-sympathetic-ktvrpa5i                            Crypto Regulators Aren’t Very Sympathetic
+2021-09-23     https://www.bloomberg.com/opinion/articles/2021-09-23/dark-pool-sold-some-order-flow                                                Dark Pool Sold Some Order Flow
+2021-09-23     https://www.bloomberg.com/news/newsletters/2021-09-23/money-stuff-dark-pool-sold-some-order-flow                                    Money Stuff: Dark Pool Sold Some Order Flow
+2021-09-27     https://www.bloomberg.com/opinion/articles/2021-09-27/impostors-on-the-due-diligence-call                                           Impostors on the Due Diligence Call
+2021-09-28     https://www.bloomberg.com/opinion/articles/2021-09-28/wells-fargo-swapped-some-digits                                               Wells Fargo Swapped Some Digits
+2021-09-29     https://www.bloomberg.com/opinion/articles/2021-09-29/insiders-are-good-at-trading                                                  Insiders Are Good at Trading
+2021-09-30     https://www.bloomberg.com/opinion/articles/2021-09-30/goldman-compliance-analyst-wasn-t-compliant                                   Goldman Compliance Analyst Wasn’t Compliant
+2021-10-04     https://www.bloomberg.com/opinion/articles/2021-10-04/facebook-whistleblower-shows-a-shift-in-shareholder-values-away-from-profits  Facebook Makes Profits, Shareholders Complain
+2021-10-05     https://www.bloomberg.com/opinion/articles/2021-10-05/the-board-can-t-fire-you-if-it-quits                                          The Board Can’t Fire You If It Quits
+2021-10-06     https://www.bloomberg.com/opinion/articles/2021-10-06/why-not-trade-all-night                                                       Why Not Trade All Night?
+2021-10-07     https://www.bloomberg.com/opinion/articles/2021-10-07/matt-levine-s-money-stuff-looking-for-tether-s-money                          Looking for Tether’s Money
+2021-10-11     https://www.bloomberg.com/opinion/articles/2021-10-11/look-out-for-cops-in-the-pump-and-dump                                        Look Out for Cops in the Pump and Dump
+2021-10-14     https://www.bloomberg.com/opinion/articles/2021-10-14/it-pays-to-not-pay-your-debts                                                 It Pays to Not Pay Your Debts
+2021-10-15     https://www.bloomberg.com/opinion/articles/2021-10-15/bitcoin-etfs-are-almost-here                                                  Bitcoin ETFs Are Almost Here
+2021-10-18     https://www.bloomberg.com/opinion/articles/2021-10-18/the-computer-can-t-buy-your-house-now                                         Sorry, Zillow's Computer Can’t Buy Your House Right Now
+2021-10-19     https://www.bloomberg.com/opinion/articles/2021-10-19/matt-levine-s-money-stuff-gamestop-baffles-the-sec-too                        The SEC Is Baffled By GameStop Too
+2021-10-20     https://www.bloomberg.com/opinion/articles/2021-10-20/money-stuff-credit-suisse-mozambique-did-some-securities-fraud                Stay Away From the Master of Kickbacks
+2021-10-21     https://www.bloomberg.com/opinion/articles/2021-10-21/matt-levine-s-money-stuff-donald-trump-does-a-spac                            Donald Trump Does a SPAC Deal
+2021-10-25     https://www.bloomberg.com/opinion/articles/2021-10-25/rogers-chairman-fires-board-for-firing-him-for-firing-ceo                     Rogers Chairman Fires Board for Firing Him for Firing CEO

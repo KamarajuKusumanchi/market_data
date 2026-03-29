@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                  headline
+2026-01-07     https://www.bloomberg.com/opinion/newsletters/2026-01-07/the-ai-will-vote-the-shares                 The AI Will Vote the Shares
+2026-01-08     https://www.bloomberg.com/opinion/newsletters/2026-01-08/moviepass-is-back-with-betting              MoviePass Is Back With Betting
+2026-01-12     https://www.bloomberg.com/opinion/newsletters/2026-01-12/paramount-wants-to-warner-to-show-its-work  Paramount Wants Warner to Show Its Work
+2026-01-13     https://www.bloomberg.com/opinion/newsletters/2026-01-13/fake-cancer-doctor-insider-trading          Fake Cancer Doctor Insider Trading
+2026-01-14     https://www.bloomberg.com/opinion/newsletters/2026-01-14/wall-street-wants-predictors                Wall Street Wants Predictors
+2026-01-15     https://www.bloomberg.com/opinion/newsletters/2026-01-15/stablecoin-narrow-banking                   Stablecoin Narrow Banking
+2026-01-20     https://www.bloomberg.com/opinion/newsletters/2026-01-20/memecoin-venture-capital                    Memecoin Venture Capital
+2026-01-21     https://www.bloomberg.com/opinion/newsletters/2026-01-21/moonshot-pay-kind-of-works                  Moonshot Pay Kind of Works
+2026-01-22     https://www.bloomberg.com/opinion/newsletters/2026-01-22/ftx-does-some-effective-altruism            FTX Does Some Effective Altruism
+2026-01-26     https://www.bloomberg.com/opinion/newsletters/2026-01-26/private-credit-marks-will-matter            Private Credit Marks Will Matter
+2026-01-27     https://www.bloomberg.com/opinion/newsletters/2026-01-27/the-killer-non-acquisition                  The Killer Non-Acquisition
+2026-01-28     https://www.bloomberg.com/opinion/newsletters/2026-01-28/the-stars-are-aligned-for-spacex            The Stars Are Aligned for SpaceX
+2026-01-29     https://www.bloomberg.com/opinion/newsletters/2026-01-29/first-brands-did-some-round-trips           First Brands Did Some Round Trips
+2026-02-02     https://www.bloomberg.com/opinion/newsletters/2026-02-02/musk-mars-merger-maybe                      Musk Mars Merger, Maybe
+2026-02-03     https://www.bloomberg.com/opinion/newsletters/2026-02-03/musk-s-moonshot-merger                      Musk’s Moonshot Merger
+2026-02-04     https://www.bloomberg.com/opinion/newsletters/2026-02-04/cracking-open-the-dats                      Cracking Open the DATs
+2026-02-05     https://www.bloomberg.com/opinion/newsletters/2026-02-05/five-bananas-won-t-pay-the-rent             Five Bananas Won’t Pay the Rent
+2026-02-09     https://www.bloomberg.com/opinion/newsletters/2026-02-09/predicting-the-big-game                     Predicting the Big Game
+2026-02-10     https://www.bloomberg.com/opinion/newsletters/2026-02-10/bond-trading-gets-cheaper                   Bond Trading Gets Cheaper
+2026-02-11     https://www.bloomberg.com/opinion/newsletters/2026-02-11/the-ai-whateverpocalypse-trade              The AI Whateverpocalypse Trade

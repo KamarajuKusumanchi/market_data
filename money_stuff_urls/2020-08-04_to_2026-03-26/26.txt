@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                  headline
+2023-05-16     https://www.bloomberg.com/opinion/articles/2023-05-16/traders-do-less-crime-at-home                  Traders Do Less Crime at Home
+2023-05-17     https://www.bloomberg.com/opinion/articles/2023-05-17/banks-want-a-break-from-the-fdic               Banks Want a Break From the FDIC
+2023-05-18     https://www.bloomberg.com/opinion/articles/2023-05-18/tether-bought-some-bitcoin                     Tether Bought Some Bitcoin
+2023-05-22     https://www.bloomberg.com/opinion/articles/2023-05-22/banks-got-rising-rates-wrong                   Banks Got Rising Rates Wrong
+2023-05-23     https://www.bloomberg.com/opinion/articles/2023-05-23/can-markets-handle-the-debt-ceiling            Can Markets Handle the Debt Ceiling?
+2023-05-24     https://www.bloomberg.com/opinion/articles/2023-05-24/debt-is-trickier-than-equity                   Debt Is Trickier Than Equity
+2023-05-25     https://www.bloomberg.com/opinion/articles/2023-05-25/the-us-might-be-only-aa                        The US Might Be Only AA+
+2023-05-31     https://www.bloomberg.com/opinion/articles/2023-05-31/purdue-pharma-s-bankruptcy-works-now           Purdue Pharma’s Bankruptcy Works Now
+2023-06-01     https://www.bloomberg.com/opinion/articles/2023-06-01/ai-bots-are-coming-to-finance                  AI Bots Are Coming to Finance
+2023-06-05     https://www.bloomberg.com/opinion/articles/2023-06-05/elon-musk-had-fun-with-dogecoin                Elon Musk Had Fun With Dogecoin
+2023-06-06     https://www.bloomberg.com/opinion/articles/2023-06-06/the-sec-comes-for-crypto                       The SEC Comes for Crypto
+2023-06-07     https://www.bloomberg.com/opinion/articles/2023-06-07/when-is-a-token-not-a-security                 When Is a Token Not a Security?
+2023-06-08     https://www.bloomberg.com/opinion/articles/2023-06-08/don-t-squeeze-the-shorts                       Don’t Squeeze the Shorts
+2023-06-12     https://www.bloomberg.com/opinion/articles/2023-06-12/three-arrows-had-a-fun-bubble                  Three Arrows Had a Fun Bubble
+2023-06-13     https://www.bloomberg.com/opinion/articles/2023-06-13/naked-short-seller-gets-in-trouble             Naked Short Seller Gets in Trouble
+2023-06-14     https://www.bloomberg.com/opinion/articles/2023-06-14/regional-banks-don-t-feel-loved                Regional Banks Don’t Feel Loved
+2023-06-16     https://www.bloomberg.com/opinion/articles/2023-06-16/don-t-insider-trade-drunk-on-the-squash-court  Don’t Insider Trade Drunk on the Squash Court
+2023-06-20     https://www.bloomberg.com/opinion/articles/2023-06-20/debt-costs-more-when-rates-go-up               Debt Costs More When Rates Go Up
+2023-06-21     https://www.bloomberg.com/opinion/articles/2023-06-21/big-firms-want-normal-crypto-markets           Big Firms Want Normal Crypto Markets
+2023-06-22     https://www.bloomberg.com/opinion/articles/2023-06-22/does-mark-zuckerberg-own-too-much-meta         Does Mark Zuckerberg Own Too Much Meta?

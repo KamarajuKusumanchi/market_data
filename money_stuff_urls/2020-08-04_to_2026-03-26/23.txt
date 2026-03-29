@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                   headline
+2023-09-14     https://www.bloomberg.com/opinion/articles/2023-09-14/people-are-worried-about-the-basis-trade                        People Are Worried About the Basis Trade
+2023-09-18     https://www.bloomberg.com/opinion/articles/2023-09-18/sculptor-sticks-with-the-deal-it-knows                          Sculptor Sticks With the Deal It Knows
+2023-09-19     https://www.bloomberg.com/opinion/articles/2023-09-19/faster-options-are-more-fun                                     Faster Options Are More Fun
+2023-09-20     https://www.bloomberg.com/opinion/articles/2023-09-20/people-who-run-public-companies-shouldn-t-live-in-glass-houses  People Who Run Public Companies Shouldn’t Live in Glass Houses
+2023-09-21     https://www.bloomberg.com/opinion/articles/2023-09-21/tether-keeps-lending-tethers                                    Tether Keeps Lending Tethers
+2023-09-26     https://www.bloomberg.com/opinion/articles/2023-09-26/the-ftc-makes-merger-arb-more-fun                               The FTC Makes Merger Arb More Fun
+2023-09-27     https://www.bloomberg.com/opinion/articles/2023-09-27/citadel-might-fight-for-its-texts                               Citadel Might Fight for Its Texts
+2023-09-28     https://www.bloomberg.com/opinion/articles/2023-09-28/goldman-insider-trader-did-his-best                             Goldman Insider Trader Did His Best
+2023-10-02     https://www.bloomberg.com/opinion/articles/2023-10-02/sbf-s-defense-will-be-tough                                     SBF’s Defense Will Be Tough
+2023-10-03     https://www.bloomberg.com/opinion/articles/2023-10-03/the-sec-had-a-busy-week                                         The SEC Had a Busy Week
+2023-10-04     https://www.bloomberg.com/opinion/articles/2023-10-04/sbf-was-reckless-from-the-start                                 SBF Was Reckless From the Start
+2023-10-05     https://www.bloomberg.com/opinion/articles/2023-10-05/ftx-might-have-found-some-money                                 FTX Might Have Found Some Money
+2023-10-09     https://www.bloomberg.com/opinion/articles/2023-10-09/ozempic-is-bad-for-business                                     Ozempic Is Bad for Business
+2023-10-10     https://www.bloomberg.com/opinion/articles/2023-10-10/sbf-s-bets-used-to-work-out                                     SBF’s Bets Used to Work Out
+2023-10-11     https://www.bloomberg.com/opinion/articles/2023-10-11/sculptor-softens-a-bit-on-weinstein                             Sculptor Softens a Bit on Weinstein
+2023-10-12     https://www.bloomberg.com/opinion/articles/2023-10-12/ftx-had-many-bad-spreadsheets                                   FTX Had Many Bad Spreadsheets
+2023-10-16     https://www.bloomberg.com/opinion/articles/2023-10-16/cds-bet-bites-carl-icahn                                        CDS Bet Bites Carl Icahn
+2023-10-17     https://www.bloomberg.com/opinion/articles/2023-10-17/you-can-t-sell-trees-no-one-cuts-down                           You Can’t Sell Trees No One Cuts Down
+2023-10-18     https://www.bloomberg.com/opinion/articles/2023-10-18/of-course-sculptor-got-sued                                     Of Course Sculptor Got Sued
+2023-10-19     https://www.bloomberg.com/opinion/articles/2023-10-19/bitcoin-is-not-great-for-murder                                 Bitcoin Is Not Great for Murder

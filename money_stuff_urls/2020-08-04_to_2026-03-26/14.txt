@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                   headline
+2024-09-05     https://www.bloomberg.com/opinion/articles/2024-09-05/some-stocks-always-go-up-5                      Some Stocks Always Go Up 5%
+2024-09-09     https://www.bloomberg.com/opinion/articles/2024-09-09/fake-songs-made-real-money                      Fake Songs Made Real Money
+2024-09-10     https://www.bloomberg.com/opinion/articles/2024-09-10/the-fastest-options-are-the-most-fun            The Fastest Options Are the Most Fun
+2024-09-11     https://www.bloomberg.com/opinion/articles/2024-09-11/hertz-bankruptcy-was-too-good-for-shareholders  Hertz Bankruptcy Was Too Good for Shareholders
+2024-09-12     https://www.bloomberg.com/opinion/articles/2024-09-12/bankers-hours-are-still-pretty-bad              Bankers’ Hours Are Still Pretty Bad
+2024-09-16     https://www.bloomberg.com/opinion/articles/2024-09-16/ipos-are-about-the-future                       IPOs Are About the Future
+2024-09-17     https://www.bloomberg.com/opinion/articles/2024-09-17/archegos-banks-had-some-chats                   Archegos’ Banks Had Some Chats
+2024-09-18     https://www.bloomberg.com/opinion/articles/2024-09-18/there-s-a-robot-warren-buffett-etf              There’s a Robot Warren Buffett ETF
+2024-09-19     https://www.bloomberg.com/opinion/articles/2024-09-19/23andme-is-just-me-now                          23andMe Is Just ‘Me’ Now
+2024-09-23     https://www.bloomberg.com/opinion/articles/2024-09-23/unicredit-did-a-commerzbank-trade               UniCredit Did a Commerzbank Trade
+2024-09-24     https://www.bloomberg.com/opinion/articles/2024-09-24/the-chatbot-will-pick-the-stocks                The Chatbot Will Pick the Stocks
+2024-09-25     https://www.bloomberg.com/opinion/articles/2024-09-25/masimo-has-a-new-boss                           Masimo Has a New Boss
+2024-09-26     https://www.bloomberg.com/opinion/articles/2024-09-26/private-credit-and-banks-team-up-m1jlf9jf       Private Credit and Banks Team Up
+2024-09-30     https://www.bloomberg.com/opinion/articles/2024-09-30/look-like-a-loser-then-win                      Look Like a Loser, Then Win
+2024-10-01     https://www.bloomberg.com/opinion/articles/2024-10-01/insider-trader-had-all-the-answers              Insider Trader Had All the Answers
+2024-10-02     https://www.bloomberg.com/opinion/articles/2024-10-02/dish-bondholders-don-t-want-a-haircut           Dish Bondholders Don’t Want a Haircut
+2024-10-03     https://www.bloomberg.com/opinion/articles/2024-10-03/private-credit-wants-everyone-s-money           Private Credit Wants Everyone’s Money
+2024-10-07     https://www.bloomberg.com/opinion/articles/2024-10-07/retail-investor-had-too-much-tesla              Retail Investor Had Too Much Tesla
+2024-10-08     https://www.bloomberg.com/opinion/articles/2024-10-08/some-of-the-carbon-credits-were-fake            Some of the Carbon Credits Were Fake
+2024-10-09     https://www.bloomberg.com/opinion/articles/2024-10-09/a-trump-trade-arbitrage                         A Trump Trade Arbitrage

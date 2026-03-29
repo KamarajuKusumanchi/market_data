@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                 headline
+2020-08-04     https://www.bloomberg.com/news/newsletters/2020-08-04/money-stuff-some-people-made-money-on-negative-oil-prices     Money Stuff: Some People Made Money on Negative Oil Prices
+2020-08-04     https://www.bloomberg.com/opinion/articles/2020-08-04/some-people-made-money-on-negative-oil-prices                 Some People Made Money on Negative Oil Prices
+2020-08-04     https://www.bloomberg.com/view/articles/2020-08-04/trump-on-tiktok-sale-payment-do-we-really-have-to-talk-about-it  Do We Really Have to Talk About TikTok Key Money?
+2020-08-05     https://www.bloomberg.com/news/newsletters/2020-08-05/money-stuff-public-markets-don-t-matter-like-they-used-to     Money Stuff: Public Markets Don’t Matter Like They Used To
+2020-08-05     https://www.bloomberg.com/opinion/articles/2020-08-05/public-markets-don-t-matter-like-they-used-to                 Public Markets Don’t Matter Like They Used To
+2020-08-06     https://www.bloomberg.com/news/newsletters/2020-08-06/money-stuff-it-s-a-good-and-bad-time-for-ipos                 Money Stuff: It’s a Good and Bad Time for IPOs
+2020-08-06     https://www.bloomberg.com/opinion/articles/2020-08-06/it-s-a-good-and-bad-time-for-ipos                             It’s a Good and Bad Time for IPOs
+2020-08-07     https://www.bloomberg.com/opinion/articles/2020-08-07/matt-levine-s-money-stuff-the-u-s-doesn-t-trust-china-audits  The U.S. Doesn’t Trust China Audits
+2020-08-07     https://www.bloomberg.com/news/newsletters/2020-08-07/money-stuff-the-u-s-doesn-t-trust-china-audits                Money Stuff: The U.S. Doesn’t Trust China Audits
+2020-08-10     https://www.bloomberg.com/opinion/articles/2020-08-10/robinhood-ends-its-popularity-contest                         Robinhood Ends Its Popularity Contest
+2020-08-10     https://www.bloomberg.com/news/newsletters/2020-08-10/money-stuff-robinhood-ends-its-popularity-contest             Money Stuff: Robinhood Ends Its Popularity Contest
+2020-08-11     https://www.bloomberg.com/opinion/articles/2020-08-11/goldman-loves-a-good-crisis                                   Goldman Loves a Good Crisis
+2020-08-11     https://www.bloomberg.com/news/newsletters/2020-08-11/money-stuff-goldman-loves-a-good-crisis                       Money Stuff: Goldman Loves a Good Crisis
+2021-01-05     https://www.bloomberg.com/news/newsletters/2021-01-05/money-stuff-dystopian-future-securities-fraud                 Money Stuff: Dystopian Future Securities Fraud
+2021-01-05     https://www.bloomberg.com/opinion/articles/2021-01-05/dystopian-future-securities-fraud                             Dystopian Future Securities Fraud
+2021-01-06     https://www.bloomberg.com/opinion/articles/2021-01-06/tesla-kept-busy-in-2020                                       Tesla Kept Busy in 2020
+2021-01-06     https://www.bloomberg.com/news/newsletters/2021-01-06/money-stuff-tesla-kept-busy-in-2020                           Money Stuff: Tesla Kept Busy in 2020
+2021-01-07     https://www.bloomberg.com/opinion/articles/2021-01-07/the-ipo-market-was-too-good                                   The IPO Market Was Too Good
+2021-01-07     https://www.bloomberg.com/news/newsletters/2021-01-07/money-stuff-the-ipo-market-was-too-good                       Money Stuff: The IPO Market Was Too Good
+2021-01-08     https://www.bloomberg.com/opinion/articles/2021-01-08/spac-magic-isn-t-free                                         SPAC Magic Isn’t Free

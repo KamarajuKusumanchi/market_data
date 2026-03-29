@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                    headline
+2023-03-02     https://www.bloomberg.com/opinion/articles/2023-03-02/silvergate-had-a-crypto-bank-run                 Silvergate Had a Crypto Bank Run
+2023-03-06     https://www.bloomberg.com/opinion/articles/2023-03-06/bed-bath-beyond-stock-is-on-sale                 Bed Bath & Beyond Stock Is On Sale
+2023-03-07     https://www.bloomberg.com/opinion/articles/2023-03-07/ftx-wants-its-bitcoins-back-from-grayscale       FTX Wants Its Bitcoins Back From Grayscale
+2023-03-08     https://www.bloomberg.com/opinion/articles/2023-03-08/the-good-hedge-funds-always-get-paid             The Good Hedge Funds Always Get Paid
+2023-03-09     https://www.bloomberg.com/opinion/articles/2023-03-09/crypto-bank-had-a-boring-collapse                Crypto Bank Had a Boring Collapse
+2023-03-10     https://www.bloomberg.com/opinion/articles/2023-03-10/startup-bank-had-a-startup-bank-run              Startup Bank Had a Startup Bank Run
+2023-03-13     https://www.bloomberg.com/opinion/articles/2023-03-13/svb-couldn-t-ignore-its-losses-but-the-fed-can   SVB Couldn’t Ignore Its Losses, But the Fed Can
+2023-03-14     https://www.bloomberg.com/opinion/articles/2023-03-14/svb-took-the-wrong-risks                         SVB Took the Wrong Risks
+2023-03-15     https://www.bloomberg.com/opinion/articles/2023-03-15/silicon-valley-bank-is-for-sale                  Silicon Valley Bank Is For Sale
+2023-03-16     https://www.bloomberg.com/opinion/articles/2023-03-16/credit-suisse-puts-on-a-brave-face               Credit Suisse Puts On a Brave Face
+2023-03-17     https://www.bloomberg.com/opinion/articles/2023-03-17/big-banks-trust-first-republic-with-their-money  Big Banks Trust First Republic With Their Money
+2023-03-20     https://www.bloomberg.com/opinion/articles/2023-03-20/ubs-got-credit-suisse-for-almost-nothing         UBS Got Credit Suisse for Almost Nothing
+2023-03-21     https://www.bloomberg.com/opinion/articles/2023-03-21/jpmorgan-had-some-fake-nickel                    JPMorgan Had Some Fake Nickel
+2023-03-22     https://www.bloomberg.com/opinion/articles/2023-03-22/silicon-valley-bank-ran-out-of-money             Silicon Valley Bank Ran Out of Money
+2023-03-23     https://www.bloomberg.com/opinion/articles/2023-03-23/the-sec-is-coming-for-coinbase                   The SEC Is Coming for Coinbase
+2023-03-27     https://www.bloomberg.com/opinion/articles/2023-03-27/the-cftc-comes-for-binance                       The CFTC Comes for Binance
+2023-03-28     https://www.bloomberg.com/opinion/articles/2023-03-28/the-bank-regulators-are-disappointed             The Bank Regulators Are Disappointed
+2023-03-29     https://www.bloomberg.com/opinion/articles/2023-03-29/svb-s-depositors-weren-t-very-loyal              SVB’s Depositors Weren’t Very Loyal
+2023-03-30     https://www.bloomberg.com/opinion/articles/2023-03-30/bed-bath-beyond-has-more-stock-to-sell           Bed Bath & Beyond Has More Stock to Sell
+2023-04-10     https://www.bloomberg.com/opinion/articles/2023-04-10/ftx-lost-track-of-its-money                      FTX Lost Track of Its Money

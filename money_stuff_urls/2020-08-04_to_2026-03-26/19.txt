@@ -1,0 +1,21 @@
+publishedAt    url                                                                                             headline
+2024-02-27     https://www.bloomberg.com/opinion/articles/2024-02-27/ketchup-caddy-sold-some-fake-electricity  Ketchup Caddy Sold Some Fake Electricity
+2024-02-28     https://www.bloomberg.com/opinion/articles/2024-02-28/trading-stock-takes-time                  Trading Stock Takes Time
+2024-02-29     https://www.bloomberg.com/opinion/articles/2024-02-29/the-board-of-directors-is-in-charge       The Board of Directors Is in Charge
+2024-03-01     https://www.bloomberg.com/opinion/articles/2024-03-01/openai-isn-t-open-enough-for-elon         OpenAI Isn’t Open Enough for Elon
+2024-03-04     https://www.bloomberg.com/opinion/articles/2024-03-04/trading-desks-trade-less-lend-more        Trading Desks Trade Less, Lend More
+2024-03-05     https://www.bloomberg.com/opinion/articles/2024-03-05/twitter-s-executives-want-their-money     Twitter’s Executives Want Their Money
+2024-03-06     https://www.bloomberg.com/opinion/articles/2024-03-06/elon-musk-wanted-control-not-charity      Elon Musk Wanted Control, Not Charity
+2024-03-07     https://www.bloomberg.com/opinion/articles/2024-03-07/exxon-barges-in-on-hess-deal              Exxon Barges in on Hess Deal
+2024-03-11     https://www.bloomberg.com/opinion/articles/2024-03-11/cash-advance-looks-a-lot-like-a-loan      Cash Advance Looks a Lot Like a Loan
+2024-03-12     https://www.bloomberg.com/opinion/articles/2024-03-12/adm-gave-itself-some-discounts            ADM Gave Itself Some Discounts
+2024-03-13     https://www.bloomberg.com/opinion/articles/2024-03-13/to-buy-a-bank-you-have-to-be-a-bank       To Buy a Bank, You Have to Be a Bank
+2024-03-14     https://www.bloomberg.com/opinion/articles/2024-03-14/apollo-partner-did-the-ok-kind-of-fraud   Apollo Partner Did the OK Kind of Fraud
+2024-03-18     https://www.bloomberg.com/opinion/articles/2024-03-18/slorg-is-sorry-he-burnt-slerf             Slorg Is Sorry Slerf Was Burnt
+2024-03-19     https://www.bloomberg.com/opinion/articles/2024-03-19/banks-can-get-emissions-off-the-books     Banks Can Get Emissions Off the Books
+2024-03-20     https://www.bloomberg.com/opinion/articles/2024-03-20/bitcoin-had-a-flash-crash                 Bitcoin Had a Flash Crash
+2024-03-21     https://www.bloomberg.com/opinion/articles/2024-03-21/pump-and-dumps-are-legal-now              Pump and Dumps Are Legal Now
+2024-04-01     https://www.bloomberg.com/opinion/articles/2024-04-01/trump-media-s-business-doesn-t-matter     Trump Media’s Business Doesn’t Matter
+2024-04-02     https://www.bloomberg.com/opinion/articles/2024-04-02/a-hedge-fund-that-s-also-a-newspaper      A Hedge Fund That’s Also a Newspaper
+2024-04-03     https://www.bloomberg.com/opinion/articles/2024-04-03/trump-media-s-founders-are-fighting       Trump Media’s Founders Are Fighting
+2024-04-04     https://www.bloomberg.com/opinion/articles/2024-04-04/peltz-s-disney-loss-worked-out-fine       Peltz’s Disney Loss Worked Out Fine

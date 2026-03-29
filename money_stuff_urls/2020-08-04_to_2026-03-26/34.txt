@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                  headline
+2022-06-09     https://www.bloomberg.com/opinion/articles/2022-06-09/elon-will-read-the-tweets                                      Elon Will Read the Tweets
+2022-06-10     https://www.bloomberg.com/opinion/articles/2022-06-10/redbox-is-fun-to-meme                                          Redbox Is Fun to Meme
+2022-06-13     https://www.bloomberg.com/opinion/articles/2022-06-13/merger-buyer-s-remorse-sometimes-works                         Merger Buyer’s Remorse Sometimes Works
+2022-06-14     https://www.bloomberg.com/opinion/articles/2022-06-14/schwab-s-robo-adviser-hid-some-fees                            Schwab’s Robo-Adviser Hid Some Fees
+2022-06-15     https://www.bloomberg.com/opinion/articles/2022-06-15/crypto-debt-can-be-trouble                                     Crypto Debt Can Be Trouble
+2022-06-16     https://www.bloomberg.com/opinion/articles/2022-06-16/private-markets-will-pump-the-oil                              Private Markets Will Pump the Oil
+2022-06-21     https://www.bloomberg.com/opinion/articles/2022-06-21/citi-and-revlon-are-in-murky-waters                            Citi and Revlon Are in Murky Waters
+2022-06-22     https://www.bloomberg.com/opinion/articles/2022-06-22/activists-do-activism-on-each-other                            Activists Do Activism on Each Other
+2022-06-23     https://www.bloomberg.com/opinion/articles/2022-06-23/revlon-is-getting-memed                                        Revlon Is Getting Memed
+2022-06-27     https://www.bloomberg.com/opinion/articles/2022-06-27/matt-levine-s-money-stuff-meme-week-was-too-good-to-robinhood  Meme Stocks Were Too Good to Robinhood
+2022-06-28     https://www.bloomberg.com/opinion/articles/2022-06-28/don-t-cheat-on-the-ethics-exam                                 Don’t Cheat on the Ethics Exam
+2022-06-29     https://www.bloomberg.com/opinion/articles/2022-06-29/crypto-loves-its-shadow-banks                                  Crypto Loves Its Shadow Banks
+2022-06-30     https://www.bloomberg.com/opinion/articles/2022-06-30/say-no-to-yes                                                  Say No to YES
+2022-07-05     https://www.bloomberg.com/opinion/articles/2022-07-05/archegos-analyst-wants-his-money-back                          Archegos Analyst Wants His Money Back
+2022-07-06     https://www.bloomberg.com/opinion/articles/2022-07-06/voyager-has-some-tokens                                        Voyager Has Some Tokens
+2022-07-07     https://www.bloomberg.com/opinion/articles/2022-07-07/nickel-big-shot-called-the-shots                               Nickel Big Shot Called the Shots
+2022-07-09     https://www.bloomberg.com/opinion/articles/2022-07-09/elon-s-out                                                     Elon’s Out
+2022-07-11     https://www.bloomberg.com/opinion/articles/2022-07-11/the-price-of-not-buying-twitter                                The Price of Not Buying Twitter
+2022-07-12     https://www.bloomberg.com/opinion/articles/2022-07-12/i-was-told-there-d-be-a-cake-merger                            I Was Told There’d Be a Cake Merger
+2022-07-13     https://www.bloomberg.com/opinion/articles/2022-07-13/twitter-still-wants-musk-s-money                               Twitter Still Wants Musk’s Money

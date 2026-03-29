@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                               headline
+2022-11-01     https://www.bloomberg.com/opinion/articles/2022-11-01/people-will-pay-for-illiquidity                             People Will Pay for Illiquidity
+2022-11-02     https://www.bloomberg.com/opinion/articles/2022-11-02/mergers-aren-t-always-fair                                  Mergers Aren’t Always Fair
+2022-11-03     https://www.bloomberg.com/opinion/articles/2022-11-03/blackrock-lets-its-clients-vote                             BlackRock Lets Its Clients Vote
+2022-11-07     https://www.bloomberg.com/opinion/articles/2022-11-07/moviepass-was-not-a-good-business                           MoviePass Was Not a Good Business
+2022-11-08     https://www.bloomberg.com/opinion/articles/2022-11-08/binance-s-zhao-sbf-ed-ftx-s-bankman-fried                   CZ SBF’ed SBF
+2022-11-09     https://www.bloomberg.com/opinion/articles/2022-11-09/bankman-fried-s-ftx-had-a-death-spiral-before-binance-deal  FTX Had a Death Spiral
+2022-11-10     https://www.bloomberg.com/opinion/articles/2022-11-10/ftx-is-still-looking-for-money                              FTX Is Still Looking for Money
+2022-11-14     https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad                                 FTX’s Balance Sheet Was Bad
+2022-11-15     https://www.bloomberg.com/opinion/articles/2022-11-15/matt-levine-s-money-stuff-binance-ftx-and-cars              Crypto Wants a Central Bank
+2022-11-16     https://www.bloomberg.com/opinion/articles/2022-11-16/ftx-creates-crypto-contagion                                FTX Creates Crypto Contagion
+2022-11-17     https://www.bloomberg.com/opinion/articles/2022-11-17/matt-levine-s-money-stuff-ftx-was-not-very-careful          FTX Was Not Very Careful
+2022-11-21     https://www.bloomberg.com/opinion/articles/2022-11-21/keeping-track-of-crypto-is-hard                             Keeping Track of Crypto Is Hard
+2022-11-22     https://www.bloomberg.com/opinion/articles/2022-11-22/s-p-overpromised-and-overdelivered                          S&P Overpromised and Overdelivered
+2022-11-28     https://www.bloomberg.com/opinion/articles/2022-11-28/ftx-s-blockfi-rescue-didn-t-work                            FTX’s BlockFi Rescue Didn’t Work
+2022-11-29     https://www.bloomberg.com/opinion/articles/2022-11-29/ftx-had-plans-for-sbf-s-robinhood-shares                    FTX Had Plans For Its Robinhood Shares
+2022-11-30     https://www.bloomberg.com/opinion/articles/2022-11-30/matt-levine-s-money-stuff-nickel-market-almost-broke        The Nickel Market Almost Broke
+2022-12-01     https://www.bloomberg.com/opinion/articles/2022-12-01/sbf-missed-ftx-s-risks                                      SBF Missed FTX’s Risks
+2022-12-05     https://www.bloomberg.com/opinion/articles/2022-12-05/crypto-had-a-credit-bubble                                  Crypto Had a Credit Bubble
+2022-12-06     https://www.bloomberg.com/opinion/articles/2022-12-06/you-can-t-tell-analysts-too-much                            You Can’t Tell Analysts Too Much
+2022-12-12     https://www.bloomberg.com/opinion/articles/2022-12-12/ftx-had-some-luna-trouble                                   FTX Had Some Luna Trouble

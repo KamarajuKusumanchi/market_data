@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                              headline
+2021-01-25     https://www.bloomberg.com/news/newsletters/2021-01-25/money-stuff-the-game-never-stops                                           Money Stuff: The Game Never Stops
+2021-01-26     https://www.bloomberg.com/opinion/articles/2021-01-26/will-wallstreetbets-face-sec-scrutiny-after-gamestop-rally                 GameStop Is Just a Game
+2021-01-26     https://www.bloomberg.com/news/newsletters/2021-01-26/will-wallstreetbets-face-sec-scrutiny-after-gamestop-rally-kke9fpzq        Money Stuff: GameStop Is Just a Game
+2021-01-27     https://www.bloomberg.com/opinion/articles/2021-01-27/reddit-driven-surge-puts-gamestop-and-ryan-cohen-in-a-weird-spot           GameStonk Rocket Rocket Rocket
+2021-01-27     https://www.bloomberg.com/news/newsletters/2021-01-27/reddit-driven-surge-puts-gamestop-and-ryan-cohen-in-a-weird-spot-kkfof4sn  Money Stuff: GameStonk Rocket Rocket Rocket
+2021-01-28     https://www.bloomberg.com/opinion/articles/2021-01-28/knowing-when-to-sell-gamestop-stock-at-the-top-is-impossible               How Will the GameStop Game Stop?
+2021-01-28     https://www.bloomberg.com/news/newsletters/2021-01-28/knowing-when-to-sell-gamestop-stock-at-the-top-is-impossible-kkh4556k      Money Stuff: How Will the GameStop Game Stop?
+2021-01-29     https://www.bloomberg.com/opinion/articles/2021-01-29/reddit-traders-on-robinhood-are-on-both-sides-of-gamestop                  GameStop Stock Game Got Stomped
+2021-01-29     https://www.bloomberg.com/news/newsletters/2021-01-29/reddit-traders-on-robinhood-are-on-both-sides-of-gamestop-kkijh28u         Money Stuff: GameStop Stock Game Got Stomped
+2021-02-01     https://www.bloomberg.com/opinion/articles/2021-02-01/gamestop-gme-is-old-news-after-reddit-discovers-silver-futures             The Game Moves On to Silver
+2021-02-01     https://www.bloomberg.com/news/newsletters/2021-02-01/gamestop-gme-is-old-news-after-reddit-discovers-silver-futures-kkmtv8bh    Money Stuff: The Game Moves On to Silver
+2021-02-02     https://www.bloomberg.com/opinion/articles/2021-02-02/gamestop-trade-was-a-mixed-bag-for-robinhood                               Robinhood Had a Busy Week
+2021-02-02     https://www.bloomberg.com/news/newsletters/2021-02-02/gamestop-trade-was-a-mixed-bag-for-robinhood-kko942ux                      Money Stuff: Robinhood Had a Busy Week
+2021-02-03     https://www.bloomberg.com/opinion/articles/2021-02-03/goldman-sachs-goes-to-supreme-court-hedge-funds-won-on-gamestop-kkpoe6ws   Is Everything Securities Fraud?
+2021-02-03     https://www.bloomberg.com/news/newsletters/2021-02-03/goldman-sachs-goes-to-supreme-court-hedge-funds-won-on-gamestop            Money Stuff: Is Everything Securities Fraud?
+2021-02-04     https://www.bloomberg.com/opinion/articles/2021-02-04/elon-musk-s-gamestop-tweets-are-now-a-hedge-fund-signal                    Who’s Winning the GameStop Game?
+2021-02-04     https://www.bloomberg.com/news/newsletters/2021-02-04/elon-musk-s-gamestop-tweets-are-now-a-hedge-fund-signal-kkr4olt7           Money Stuff: Who’s Winning the GameStop Game?
+2021-02-05     https://www.bloomberg.com/opinion/articles/2021-02-05/robinhood-gamestop-saga-pressures-payment-for-order-flow                   People Are Worried About Payment for Order Flow
+2021-02-05     https://www.bloomberg.com/news/newsletters/2021-02-05/robinhood-gamestop-saga-pressures-payment-for-order-flow-kksjpbpt          Money Stuff: People Are Worried About Payment for Order Flow
+2021-02-08     https://www.bloomberg.com/opinion/articles/2021-02-08/elon-musk-works-his-magic-on-dogecoin-and-bitcoin                          Elon Musk Picks the Money Now

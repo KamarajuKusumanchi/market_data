@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                      headline
+2021-01-08     https://www.bloomberg.com/news/newsletters/2021-01-08/money-stuff-spac-magic-isn-t-free                  Money Stuff: SPAC Magic Isn’t Free
+2021-01-11     https://www.bloomberg.com/opinion/articles/2021-01-11/is-the-twitter-ban-securities-fraud                Is the Twitter Ban Securities Fraud?
+2021-01-11     https://www.bloomberg.com/news/newsletters/2021-01-11/money-stuff-is-the-twitter-ban-securities-fraud    Money Stuff: Is the Twitter Ban Securities Fraud?
+2021-01-12     https://www.bloomberg.com/opinion/articles/2021-01-12/don-t-forget-your-bitcoins                         Don’t Forget Your Bitcoins
+2021-01-12     https://www.bloomberg.com/news/newsletters/2021-01-12/money-stuff-don-t-forget-your-bitcoins             Money Stuff: Don’t Forget Your Bitcoins
+2021-01-13     https://www.bloomberg.com/opinion/articles/2021-01-13/fraud-is-no-fun-without-friends                    Fraud Is No Fun Without Friends
+2021-01-13     https://www.bloomberg.com/news/newsletters/2021-01-13/money-stuff-fraud-is-no-fun-without-friends        Money Stuff: Fraud Is No Fun Without Friends
+2021-01-14     https://www.bloomberg.com/news/newsletters/2021-01-14/money-stuff-ipos-keep-going-up                     Money Stuff: IPOs Keep Going Up
+2021-01-14     https://www.bloomberg.com/opinion/articles/2021-01-14/ipos-keep-going-up                                 IPOs Keep Going Up
+2021-01-15     https://www.bloomberg.com/opinion/articles/2021-01-15/jpmorgan-had-a-good-bad-year                       JPMorgan Had a Good Bad Year
+2021-01-15     https://www.bloomberg.com/news/newsletters/2021-01-15/money-stuff-jpmorgan-had-a-good-bad-year           Money Stuff: JPMorgan Had a Good Bad Year
+2021-01-19     https://www.bloomberg.com/opinion/articles/2021-01-19/maybe-the-index-funds-don-t-vote                   Maybe the Index Funds Don’t Vote
+2021-01-19     https://www.bloomberg.com/news/newsletters/2021-01-19/money-stuff-maybe-the-index-funds-don-t-vote       Money Stuff: Maybe the Index Funds Don’t Vote
+2021-01-20     https://www.bloomberg.com/opinion/articles/2021-01-20/green-shoes-look-funny                             Green Shoes Look Funny
+2021-01-20     https://www.bloomberg.com/news/newsletters/2021-01-20/money-stuff-green-shoes-look-funny                 Money Stuff: Green Shoes Look Funny
+2021-01-21     https://www.bloomberg.com/news/newsletters/2021-01-21/money-stuff-libor-doesn-t-have-to-mean-libor       Money Stuff: Libor Doesn’t Have to Mean Libor
+2021-01-21     https://www.bloomberg.com/opinion/articles/2021-01-21/libor-doesn-t-have-to-mean-libor                   Libor Doesn’t Have to Mean Libor
+2021-01-22     https://www.bloomberg.com/opinion/articles/2021-01-22/facebook-s-supreme-court-takes-a-case              Facebook’s Supreme Court Takes a Case
+2021-01-22     https://www.bloomberg.com/news/newsletters/2021-01-22/money-stuff-facebook-s-supreme-court-takes-a-case  Money Stuff: Facebook’s Supreme Court Takes a Case
+2021-01-25     https://www.bloomberg.com/opinion/articles/2021-01-25/the-game-never-stops                               The GameStop Game Never Stops

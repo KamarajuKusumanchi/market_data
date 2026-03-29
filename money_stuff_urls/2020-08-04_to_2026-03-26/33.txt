@@ -1,0 +1,21 @@
+publishedAt    url                                                                                              headline
+2022-07-18     https://www.bloomberg.com/opinion/articles/2022-07-18/elon-wants-to-fight-the-bots               Elon Wants to Fight the Bots
+2022-08-22     https://www.bloomberg.com/opinion/articles/2022-08-22/meme-stock-vacation-is-over                Meme-Stock Vacation Is Over
+2022-08-23     https://www.bloomberg.com/opinion/articles/2022-08-23/amc-goes-ape                               AMC Goes APE
+2022-08-24     https://www.bloomberg.com/opinion/articles/2022-08-24/amc-s-apes-might-stick-around              AMC’s APEs Might Stick Around
+2022-08-25     https://www.bloomberg.com/opinion/articles/2022-08-25/some-free-brokers-are-cheaper-than-others  Some Free Brokers Are Cheaper Than Others
+2022-08-29     https://www.bloomberg.com/opinion/articles/2022-08-29/musk-tries-a-new-way-out-of-twitter        Musk Tries a New Way Out of Twitter
+2022-08-30     https://www.bloomberg.com/opinion/articles/2022-08-30/musk-cancels-twitter-deal-some-more        Musk Cancels Twitter Deal Some More
+2022-08-31     https://www.bloomberg.com/opinion/articles/2022-08-31/bed-bath-beyond-missed-the-memes           Bed Bath & Beyond Missed the Memes
+2022-09-01     https://www.bloomberg.com/opinion/articles/2022-09-01/the-trump-spac-needs-more-time             The Trump SPAC Needs More Time
+2022-09-06     https://www.bloomberg.com/opinion/articles/2022-09-06/trump-spac-doesn-t-have-the-votes          Trump SPAC Doesn’t Have the Votes
+2022-09-07     https://www.bloomberg.com/opinion/articles/2022-09-07/does-elon-musk-know-how-mergers-work       Does Elon Musk Know How Mergers Work?
+2022-09-08     https://www.bloomberg.com/opinion/articles/2022-09-08/gary-gensler-wants-to-regulate-crypto      Gary Gensler Wants to Regulate Crypto
+2022-09-12     https://www.bloomberg.com/opinion/articles/2022-09-12/citi-got-its-500-million-back              Citi Got Its $500 Million Back
+2022-09-13     https://www.bloomberg.com/opinion/articles/2022-09-13/crypto-wants-some-sec-rules                Crypto Wants Some SEC Rules
+2022-09-14     https://www.bloomberg.com/opinion/articles/2022-09-14/ethereum-is-merging                        Ethereum Is Merging
+2022-09-15     https://www.bloomberg.com/opinion/articles/2022-09-15/patagonia-has-no-more-owners               Patagonia Has No More Owners
+2022-09-19     https://www.bloomberg.com/opinion/articles/2022-09-19/market-making-is-hard-for-houses           Market Making Is Hard for Houses
+2022-09-20     https://www.bloomberg.com/opinion/articles/2022-09-20/morgan-stanley-lost-some-hard-drives       Morgan Stanley Lost Some Hard Drives
+2022-09-21     https://www.bloomberg.com/opinion/articles/2022-09-21/don-t-read-the-proxy-statement             Don’t Read the Proxy Statement
+2022-09-22     https://www.bloomberg.com/opinion/articles/2022-09-22/buyout-loans-have-a-bad-week               Buyout Loans Have a Bad Week

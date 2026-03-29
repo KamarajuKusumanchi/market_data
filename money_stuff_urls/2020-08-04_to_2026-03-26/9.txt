@@ -1,0 +1,21 @@
+publishedAt    url                                                                                               headline
+2025-03-27     https://www.bloomberg.com/opinion/newsletters/2025-03-27/the-synthetic-lender-of-last-resort      The Synthetic Lender of Last Resort
+2025-03-31     https://www.bloomberg.com/opinion/newsletters/2025-03-31/musk-merged-his-xes                      Musk Merged His Xes
+2025-04-01     https://www.bloomberg.com/opinion/newsletters/2025-04-01/is-doge-securities-fraud                 Is DOGE Securities Fraud?
+2025-04-02     https://www.bloomberg.com/opinion/newsletters/2025-04-02/stablecoins-are-growing-up               Stablecoins Are Growing Up
+2025-04-03     https://www.bloomberg.com/opinion/newsletters/2025-04-03/the-tariffs-have-some-math               The Tariffs Have Some Math
+2025-04-04     https://www.bloomberg.com/opinion/newsletters/2025-04-04/money-stuff-the-podcast-finders-keepers  Money Stuff: The Podcast: Finders Keepers
+2025-04-07     https://www.bloomberg.com/opinion/newsletters/2025-04-07/tariffs-are-for-emergencies              Tariffs Are For Emergencies
+2025-04-08     https://www.bloomberg.com/opinion/newsletters/2025-04-08/people-are-worried-about-deleveraging    People Are Worried About Deleveraging
+2025-04-09     https://www.bloomberg.com/opinion/newsletters/2025-04-09/save-havens-may-not-be                   Safe Havens May Not Be
+2025-04-10     https://www.bloomberg.com/opinion/newsletters/2025-04-10/buy-the-truth-sell-the-news              Buy the Truth, Sell the News
+2025-04-21     https://www.bloomberg.com/opinion/newsletters/2025-04-21/crypto-might-get-some-banks              Crypto Might Get Some Banks
+2025-04-22     https://www.bloomberg.com/opinion/newsletters/2025-04-22/goldman-s-ceo-wants-to-get-paid          Goldman’s CEO Wants to Get Paid
+2025-04-23     https://www.bloomberg.com/opinion/newsletters/2025-04-23/at-least-the-market-isn-t-boring         At Least the Market Isn't Boring
+2025-04-24     https://www.bloomberg.com/opinion/newsletters/2025-04-24/the-stock-market-loves-bitcoin           The Stock Market Loves Bitcoin
+2025-04-28     https://www.bloomberg.com/opinion/newsletters/2025-04-28/argentex-got-some-margin-calls           Argentex Got Some Margin Calls
+2025-04-29     https://www.bloomberg.com/opinion/newsletters/2025-04-29/the-new-market-is-public-private         The New Market Is Public-Private
+2025-04-30     https://www.bloomberg.com/opinion/newsletters/2025-04-30/esg-isn-t-hiring                         ESG Isn’t Hiring
+2025-05-01     https://www.bloomberg.com/opinion/newsletters/2025-05-01/can-you-blame-the-chatbots               Can You Blame the Chatbots?
+2025-05-05     https://www.bloomberg.com/opinion/newsletters/2025-05-05/warren-buffett-took-the-long-view        Warren Buffett Took the Long View
+2025-05-06     https://www.bloomberg.com/opinion/newsletters/2025-05-06/openai-will-get-a-bit-more-normal        OpenAI Will Get A Bit More Normal

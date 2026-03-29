@@ -1,0 +1,21 @@
+publishedAt    url                                                                                            headline
+2024-01-22     https://www.bloomberg.com/opinion/articles/2024-01-22/shareholders-are-people-too              Shareholders Are People, Too
+2024-01-23     https://www.bloomberg.com/opinion/articles/2024-01-23/sports-illustrated-s-strange-merger      Sports Illustrated’s Strange Merger
+2024-01-24     https://www.bloomberg.com/opinion/articles/2024-01-24/pastor-got-his-crypto-scam-audited       Pastor Got His Crypto Scam Audited
+2024-01-25     https://www.bloomberg.com/opinion/articles/2024-01-25/sure-blame-the-compliance-consultant     Sure, Blame the Compliance Consultant
+2024-01-29     https://www.bloomberg.com/opinion/articles/2024-01-29/financial-engineering-for-green-energy   Financial Engineering for Green Energy
+2024-01-30     https://www.bloomberg.com/opinion/articles/2024-01-30/hyperfund-had-more-to-lose-than-to-gain  HyperFund Had More to Lose Than to Gain
+2024-01-31     https://www.bloomberg.com/opinion/articles/2024-01-31/elon-musk-is-overpaid                    Elon Musk Is Overpaid
+2024-02-01     https://www.bloomberg.com/opinion/articles/2024-02-01/texas-tempts-tesla                       Texas Tempts Tesla
+2024-02-05     https://www.bloomberg.com/opinion/articles/2024-02-05/mark-zuckerberg-lives-dangerously        Mark Zuckerberg Lives Dangerously
+2024-02-06     https://www.bloomberg.com/opinion/articles/2024-02-06/adam-neumann-wants-we-back               Adam Neumann Wants We Back
+2024-02-07     https://www.bloomberg.com/opinion/articles/2024-02-07/hedge-funds-are-dealers-now              Hedge Funds Are Dealers Now
+2024-02-08     https://www.bloomberg.com/opinion/articles/2024-02-08/bill-ackman-wants-your-money             Bill Ackman Wants Your Money
+2024-02-12     https://www.bloomberg.com/opinion/articles/2024-02-12/what-if-tesla-can-t-leave                What If Tesla Can’t Leave?
+2024-02-13     https://www.bloomberg.com/opinion/articles/2024-02-13/insider-betting-can-make-things-weird    Insider Betting Can Make Things Weird
+2024-02-14     https://www.bloomberg.com/opinion/articles/2024-02-14/lyft-had-a-typo                          Lyft Had a Typo
+2024-02-15     https://www.bloomberg.com/opinion/articles/2024-02-15/someone-bought-the-children-s-place      Someone Bought The Children’s Place
+2024-02-20     https://www.bloomberg.com/opinion/articles/2024-02-20/bill-ackman-s-stocks-went-up             Bill Ackman’s Stocks Went Up
+2024-02-21     https://www.bloomberg.com/opinion/articles/2024-02-21/reddit-s-ipo-is-for-redditors            Reddit’s IPO Is for Redditors
+2024-02-22     https://www.bloomberg.com/opinion/articles/2024-02-22/put-the-money-in-the-boxx                Put the Money in the BOXX
+2024-02-26     https://www.bloomberg.com/opinion/articles/2024-02-26/honey-i-insider-traded-your-merger       Honey, I Insider-Traded Your Merger

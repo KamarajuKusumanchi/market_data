@@ -1,0 +1,21 @@
+publishedAt    url                                                                                              headline
+2023-11-29     https://www.bloomberg.com/opinion/articles/2023-11-29/the-robots-will-insider-trade              The Robots Will Insider Trade
+2023-11-30     https://www.bloomberg.com/opinion/articles/2023-11-30/fake-wework-rescuer-was-an-hour-late       Fake WeWork Rescuer Was an Hour Late
+2023-12-04     https://www.bloomberg.com/opinion/articles/2023-12-04/whose-income-do-you-pay-taxes-on           Whose Income Do You Pay Taxes On?
+2023-12-05     https://www.bloomberg.com/opinion/articles/2023-12-05/robots-make-good-junior-analysts           Robots Make Good Junior Analysts
+2023-12-06     https://www.bloomberg.com/opinion/articles/2023-12-06/who-gets-paid-for-not-cutting-down-trees   Who Gets Paid for Not Cutting Down Trees?
+2023-12-07     https://www.bloomberg.com/opinion/articles/2023-12-07/openai-was-pretty-portable                 OpenAI Was Pretty Portable
+2023-12-11     https://www.bloomberg.com/opinion/articles/2023-12-11/openai-s-investors-don-t-own-it            OpenAI’s Investors Don’t Own It
+2023-12-12     https://www.bloomberg.com/opinion/articles/2023-12-12/how-much-do-buffett-s-truck-stops-make     How Much Do Buffett's Truck Stops Make?
+2023-12-13     https://www.bloomberg.com/opinion/articles/2023-12-13/tax-trades-for-harvard-donors              Tax Trades for Harvard Donors
+2023-12-14     https://www.bloomberg.com/opinion/articles/2023-12-14/gas-contracts-are-just-a-suggestion        Gas Contracts Are Just a Suggestion
+2024-01-02     https://www.bloomberg.com/opinion/articles/2024-01-02/fake-surgeries-are-securities-fraud        Fake Surgeries Are Securities Fraud
+2024-01-03     https://www.bloomberg.com/opinion/articles/2024-01-03/coal-plants-for-green-investors            Coal Plants for Green Investors
+2024-01-04     https://www.bloomberg.com/opinion/articles/2024-01-04/put-the-bitcoins-in-the-box                Put the Bitcoins in the Box
+2024-01-08     https://www.bloomberg.com/opinion/articles/2024-01-08/elon-musk-isn-t-getting-enough-sleep       Elon Musk Isn’t Getting Enough Sleep
+2024-01-09     https://www.bloomberg.com/opinion/articles/2024-01-09/imaginary-art-seller-drove-a-hard-bargain  Imaginary Art Seller Drove a Hard Bargain
+2024-01-10     https://www.bloomberg.com/opinion/articles/2024-01-10/the-sec-got-trolled-on-bitcoin-etfs        The SEC Got Trolled on Bitcoin ETFs
+2024-01-11     https://www.bloomberg.com/opinion/articles/2024-01-11/bitcoin-etfs-are-here-for-real             Bitcoin ETFs Are Here for Real
+2024-01-16     https://www.bloomberg.com/opinion/articles/2024-01-16/morgan-stanley-leaked-some-block-trades    Morgan Stanley Leaked Some Block Trades
+2024-01-17     https://www.bloomberg.com/opinion/articles/2024-01-17/making-esg-a-crime                         Making ESG a Crime
+2024-01-18     https://www.bloomberg.com/opinion/articles/2024-01-18/coinbase-trades-beanie-babies              Coinbase Trades Beanie Babies

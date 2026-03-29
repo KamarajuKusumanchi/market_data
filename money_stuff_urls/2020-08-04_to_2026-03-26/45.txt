@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                              headline
+2021-07-06     https://www.bloomberg.com/opinion/articles/2021-07-06/blockchain-lets-you-bet-on-stocks                                          Blockchain Lets You Bet on Stocks
+2021-07-06     https://www.bloomberg.com/news/newsletters/2021-07-06/money-stuff-blockchain-lets-you-bet-on-stocks                              Money Stuff: Blockchain Lets You Bet on Stocks
+2021-07-07     https://www.bloomberg.com/opinion/articles/2021-07-07/owning-chinese-companies-is-complicated                                    Owning Chinese Companies Is Complicated
+2021-07-07     https://www.bloomberg.com/news/newsletters/2021-07-07/money-stuff-owning-chinese-companies-is-complicated                        Money Stuff: Owning Chinese Companies Is Complicated
+2021-07-08     https://www.bloomberg.com/opinion/articles/2021-07-08/someone-is-going-to-drill-the-oil                                          Someone Is Going to Drill the Oil
+2021-07-08     https://www.bloomberg.com/news/newsletters/2021-07-08/money-stuff-someone-is-going-to-drill-the-oil                              Money Stuff: Someone Is Going to Drill the Oil
+2021-07-12     https://www.bloomberg.com/opinion/articles/2021-07-12/goldman-doesn-t-want-mercenaries                                           Goldman Doesn’t Want Mercenaries
+2021-07-12     https://www.bloomberg.com/news/newsletters/2021-07-12/money-stuff-goldman-doesn-t-want-mercenaries                               Money Stuff: Goldman Doesn’t Want Mercenaries
+2021-07-13     https://www.bloomberg.com/opinion/articles/2021-07-13/elon-musk-never-wanted-to-be-tesla-ceo                                     Elon Musk Never Wanted to Be CEO
+2021-07-13     https://www.bloomberg.com/news/newsletters/2021-07-13/elon-musk-never-wanted-to-be-tesla-ceo-kr2a7l70                            Money Stuff: Elon Musk Never Wanted to Be CEO
+2021-07-14     https://www.bloomberg.com/opinion/articles/2021-07-14/sec-sues-space-spac                                                        SEC Sues Space SPAC
+2021-07-14     https://www.bloomberg.com/news/newsletters/2021-07-14/money-stuff-sec-sues-space-spac                                            Money Stuff: SEC Sues Space SPAC
+2021-07-15     https://www.bloomberg.com/opinion/articles/2021-07-15/the-meme-stocks-can-t-fail                                                 The Meme Stocks Can’t Fail
+2021-07-15     https://www.bloomberg.com/news/newsletters/2021-07-15/money-stuff-the-meme-stocks-can-t-fail                                     Money Stuff: The Meme Stocks Can’t Fail
+2021-07-20     https://www.bloomberg.com/opinion/articles/2021-07-20/bill-ackman-s-three-spacs-were-too-many                                    Bill Ackman’s Three SPACs Were Too Many
+2021-07-20     https://www.bloomberg.com/news/newsletters/2021-07-20/money-stuff-bill-ackman-s-three-spacs-were-too-many                        Money Stuff: Bill Ackman’s Three SPACs Were Too Many
+2021-07-21     https://www.bloomberg.com/opinion/articles/2021-07-21/jamie-dimon-got-a-bonus                                                    Jamie Dimon Got a Bonus
+2021-07-21     https://www.bloomberg.com/news/newsletters/2021-07-21/money-stuff-jamie-dimon-got-a-bonus                                        Money Stuff: Jamie Dimon Got a Bonus
+2021-07-22     https://www.bloomberg.com/opinion/articles/2021-07-22/private-equity-firm-got-rich-making-private-equity-firms-rich              Private Equity Firm Got Rich Making Private Equity Firms Rich
+2021-07-22     https://www.bloomberg.com/news/newsletters/2021-07-22/money-stuff-private-equity-firm-got-rich-making-private-equity-firms-rich  Money Stuff: Private Equity Firm Got Rich Making Private Equity Firms Rich

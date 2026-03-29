@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                   headline
+2025-09-08     https://www.bloomberg.com/opinion/newsletters/2025-09-08/bill-ackman-has-a-trade-for-eric-adams       Bill Ackman Has a Trade for Eric Adams
+2025-09-09     https://www.bloomberg.com/opinion/newsletters/2025-09-09/stablecoin-treasury-company                  Stablecoin Treasury Company
+2025-09-10     https://www.bloomberg.com/opinion/newsletters/2025-09-10/everyone-wants-a-wounded-lion                Everyone Wants a Wounded Lion
+2025-09-11     https://www.bloomberg.com/opinion/newsletters/2025-09-11/memes-can-be-good-for-business               Memes Can Be Good for Business
+2025-09-15     https://www.bloomberg.com/opinion/newsletters/2025-09-15/elon-musk-bought-some-stock                  Elon Musk Bought Some Stock
+2025-09-16     https://www.bloomberg.com/opinion/articles/2025-09-16/insider-trading-is-not-about-fairness-mfmwitk6  Insider Trading Is Not About Fairness
+2025-09-17     https://www.bloomberg.com/opinion/newsletters/2025-09-17/don-t-take-the-auditor-to-the-strip-club     Don’t Take the Auditor to the Strip Club
+2025-09-18     https://www.bloomberg.com/opinion/newsletters/2025-09-18/stocks-for-the-long-run                      Stocks for the Long Run
+2025-09-22     https://www.bloomberg.com/opinion/newsletters/2025-09-22/bitcoin-treasury-company-m-a                 Bitcoin Treasury Company M&A
+2025-09-23     https://www.bloomberg.com/opinion/newsletters/2025-09-23/private-equity-is-getting-boring             Private Equity Is Getting Boring
+2025-09-24     https://www.bloomberg.com/opinion/newsletters/2025-09-24/there-was-a-radioshack-ponzi                 There Was a RadioShack Ponzi
+2025-09-25     https://www.bloomberg.com/opinion/newsletters/2025-09-25/quantum-bond-trading                         Quantum Bond Trading
+2025-09-29     https://www.bloomberg.com/opinion/newsletters/2025-09-29/the-perfect-ai-startup                       The Perfect AI Startup
+2025-09-30     https://www.bloomberg.com/opinion/newsletters/2025-09-30/hedge-funds-have-to-be-big                   Hedge Funds Have To Be Big
+2025-10-01     https://www.bloomberg.com/opinion/newsletters/2025-10-01/parlay-the-predictions                       Parlay the Predictions
+2025-10-02     https://www.bloomberg.com/opinion/newsletters/2025-10-02/stablecoins-make-banking-narrower            Stablecoins Make Banking Narrower
+2025-10-06     https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals                      OpenAI Is Good at Deals
+2025-10-07     https://www.bloomberg.com/opinion/newsletters/2025-10-07/sports-bets-at-the-stock-exchange            Sports Bets at the Stock Exchange
+2025-10-08     https://www.bloomberg.com/opinion/newsletters/2025-10-08/ai-insurance-is-expensive                    AI Insurance Is Expensive
+2025-10-09     https://www.bloomberg.com/opinion/newsletters/2025-10-09/first-brands-is-missing-some-money           First Brands Is Missing Some Money

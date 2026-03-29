@@ -1,0 +1,21 @@
+publishedAt    url                                                                                             headline
+2025-10-13     https://www.bloomberg.com/opinion/newsletters/2025-10-13/openai-keeps-doing-deals               OpenAI Keeps Doing Deals
+2025-10-14     https://www.bloomberg.com/opinion/newsletters/2025-10-14/venture-global-s-gas-plant-is-done     Venture Global’s Gas Plant Is Done
+2025-10-15     https://www.bloomberg.com/opinion/newsletters/2025-10-15/openai-has-a-business-plan             OpenAI Has a Business Plan
+2025-10-16     https://www.bloomberg.com/opinion/newsletters/2025-10-16/nothing-is-securities-fraud            Nothing Is Securities Fraud?
+2025-10-20     https://www.bloomberg.com/opinion/newsletters/2025-10-20/banks-misplaced-some-mortgages         Banks Misplaced Some Mortgages
+2025-10-21     https://www.bloomberg.com/opinion/newsletters/2025-10-21/openai-is-building-a-banker            OpenAI Is Building a Banker
+2025-10-22     https://www.bloomberg.com/opinion/newsletters/2025-10-22/banks-make-loans-to-non-banks          Banks Make Loans to Non-Banks
+2025-10-23     https://www.bloomberg.com/opinion/newsletters/2025-10-23/the-fbi-found-some-insider-betting     The FBI Found Some Insider Betting
+2025-10-27     https://www.bloomberg.com/opinion/newsletters/2025-10-27/the-tariff-refund-trade                The Tariff Refund Trade
+2025-10-28     https://www.bloomberg.com/opinion/newsletters/2025-10-28/all-public-companies-are-alike         All Public Companies Are Alike
+2025-10-29     https://www.bloomberg.com/opinion/newsletters/2025-10-29/put-the-data-center-in-the-box         Put the Data Center in the Box
+2025-10-30     https://www.bloomberg.com/opinion/newsletters/2025-10-30/pay-now-merge-later                    Pay Now, Merge Later
+2025-11-03     https://www.bloomberg.com/opinion/newsletters/2025-11-03/coinbase-said-web3                     Coinbase Said Web3
+2025-11-04     https://www.bloomberg.com/opinion/newsletters/2025-11-04/first-brands-found-some-fake-invoices  First Brands Found Some Fake Invoices
+2025-11-05     https://www.bloomberg.com/opinion/newsletters/2025-11-05/hedge-fund-charged-clients-for-art     Hedge Fund Charged Clients for Art
+2025-11-06     https://www.bloomberg.com/opinion/newsletters/2025-11-06/elon-wants-his-votes                   Elon Wants His Votes
+2025-11-10     https://www.bloomberg.com/opinion/newsletters/2025-11-10/opendoor-did-some-warrants             Opendoor Did Some Warrants
+2025-11-11     https://www.bloomberg.com/opinion/newsletters/2025-11-11/the-hedge-funds-are-hiring             The Hedge Funds Are Hiring
+2025-11-12     https://www.bloomberg.com/opinion/newsletters/2025-11-12/how-should-shareholders-vote           How Should Shareholders Vote?
+2025-11-13     https://www.bloomberg.com/opinion/newsletters/2025-11-13/blackstone-is-for-everyone             Blackstone Is for Everyone

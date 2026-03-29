@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                         headline
+2021-05-13     https://www.bloomberg.com/opinion/articles/2021-05-13/elon-musk-got-bored-of-bitcoin                                        Elon Musk Got Bored of Bitcoin
+2021-05-13     https://www.bloomberg.com/news/newsletters/2021-05-13/money-stuff-elon-musk-got-bored-of-bitcoin                            Money Stuff: Elon Musk Got Bored of Bitcoin
+2021-05-17     https://www.bloomberg.com/opinion/articles/2021-05-17/elon-musk-controls-bitcoin-and-dogecoin-prices-with-pure-magic        Elon Musk’s Bitcoin Fun Continues
+2021-05-17     https://www.bloomberg.com/news/newsletters/2021-05-17/money-stuff-elon-musk-s-bitcoin-fun-continues                         Money Stuff: Elon Musk’s Bitcoin Fun Continues
+2021-05-18     https://www.bloomberg.com/opinion/articles/2021-05-18/s-p-firm-forgot-to-update-the-xiv-index                               S&P Forgot to Update the XIV Index
+2021-05-18     https://www.bloomberg.com/news/newsletters/2021-05-18/money-stuff-index-firm-forgot-to-update-xiv                           Money Stuff: Index Firm Forgot to Update XIV
+2021-05-19     https://www.bloomberg.com/opinion/articles/2021-05-19/you-can-spac-your-spac                                                You Can SPAC Your SPAC
+2021-05-19     https://www.bloomberg.com/news/newsletters/2021-05-19/money-stuff-you-can-spac-your-spac                                    Money Stuff: You Can SPAC Your SPAC
+2021-05-20     https://www.bloomberg.com/opinion/articles/2021-05-20/banks-don-t-want-to-be-paid-back-yet                                  Banks Don’t Want to Be Paid Back Yet
+2021-05-20     https://www.bloomberg.com/news/newsletters/2021-05-20/money-stuff-banks-don-t-want-to-be-paid-back-yet                      Money Stuff: Banks Don’t Want to Be Paid Back Yet
+2021-05-24     https://www.bloomberg.com/opinion/articles/2021-05-24/merrill-lynch-puts-down-the-phone                                     Merrill Lynch Puts Down the Phone
+2021-05-24     https://www.bloomberg.com/news/newsletters/2021-05-24/money-stuff-merrill-lynch-puts-down-the-phone                         Money Stuff: Merrill Lynch Puts Down the Phone
+2021-05-25     https://www.bloomberg.com/opinion/articles/2021-05-25/elon-musk-wants-bitcoin-to-be-green-but-esg-is-all-relative           Bitcoin Could Use a Greener Image
+2021-05-25     https://www.bloomberg.com/news/newsletters/2021-05-25/elon-musk-wants-bitcoin-to-be-green-but-esg-is-all-relative-kp49d1tg  Money Stuff: Bitcoin Could Use a Greener Image
+2021-05-26     https://www.bloomberg.com/opinion/articles/2021-05-26/exxon-has-a-tough-green-activist                                      Exxon Has a Tough Green Activist
+2021-05-26     https://www.bloomberg.com/news/newsletters/2021-05-26/money-stuff-exxon-has-a-tough-green-activist                          Money Stuff: Exxon Has a Tough Green Activist
+2021-05-27     https://www.bloomberg.com/opinion/articles/2021-05-27/exxon-lost-a-climate-proxy-fight                                      Exxon Lost a Climate Proxy Fight
+2021-05-27     https://www.bloomberg.com/news/newsletters/2021-05-27/money-stuff-exxon-lost-a-climate-proxy-fight                          Money Stuff: Exxon Lost a Climate Proxy Fight
+2021-06-01     https://www.bloomberg.com/opinion/articles/2021-06-01/it-s-good-to-win-a-proxy-fight                                        It’s Good to Win a Proxy Fight
+2021-06-01     https://www.bloomberg.com/news/newsletters/2021-06-01/money-stuff-it-s-good-to-win-a-proxy-fight                            Money Stuff: It’s Good to Win a Proxy Fight

@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                         headline
+2025-05-07     https://www.bloomberg.com/opinion/newsletters/2025-05-07/medicaid-taxes-pay-for-themselves                  Medicaid Taxes Pay for Themselves
+2025-05-08     https://www.bloomberg.com/opinion/newsletters/2025-05-08/meta-will-make-friends                             Meta Will Make Friends
+2025-05-12     https://www.bloomberg.com/opinion/newsletters/2025-05-12/is-murder-securities-fraud                         Is Murder Securities Fraud?
+2025-05-13     https://www.bloomberg.com/opinion/newsletters/2025-05-13/mortgage-your-401-k                                Mortgage Your 401(k)
+2025-05-14     https://www.bloomberg.com/opinion/newsletters/2025-05-14/elon-musk-needs-more-options                       Elon Musk Needs More Options
+2025-05-15     https://www.bloomberg.com/opinion/newsletters/2025-05-15/coinbase-got-hacked-a-little                       Coinbase Got Hacked a Little
+2025-05-19     https://www.bloomberg.com/opinion/newsletters/2025-05-19/us-debt-rates-itself                               US Debt Rates Itself
+2025-05-20     https://www.bloomberg.com/opinion/newsletters/2025-05-20/get-your-research-from-an-ai-video                 Get Your Research From an AI Video
+2025-05-21     https://www.bloomberg.com/opinion/newsletters/2025-05-21/asset-backed-crypto-token-wasn-t                   Asset-Backed Crypto Token Wasn’t
+2025-05-22     https://www.bloomberg.com/opinion/newsletters/2025-05-22/index-funds-are-a-bit-more-illegal                 Index Funds Are a Bit More Illegal
+2025-05-27     https://www.bloomberg.com/opinion/newsletters/2025-05-27/sell-your-crypto-on-the-stock-exchange             Sell Your Crypto on the Stock Exchange
+2025-05-28     https://www.bloomberg.com/opinion/newsletters/2025-05-28/fannie-and-freddie-get-a-guarantee                 Fannie and Freddie Get a Guarantee
+2025-05-29     https://www.bloomberg.com/opinion/newsletters/2025-05-29/the-tariffs-are-illegal                            The Tariffs Are Illegal
+2025-06-02     https://www.bloomberg.com/opinion/newsletters/2025-06-02/brokers-have-some-good-ideas                       Brokers Have Some Good Ideas
+2025-06-03     https://www.bloomberg.com/opinion/newsletters/2025-06-03/the-fannie-and-freddie-stakes-are-high             The Fannie and Freddie Stakes Are High
+2025-06-04     https://www.bloomberg.com/opinion/newsletters/2025-06-04/whose-money-should-you-manage                      Whose Money Should You Manage?
+2025-06-05     https://www.bloomberg.com/opinion/newsletters/2025-06-05/bankruptcy-was-good-for-23andme                    Bankruptcy Was Good for 23andMe
+2025-06-09     https://www.bloomberg.com/opinion/newsletters/2025-06-09/the-banks-are-re-tranching                         The Banks Are Re-Tranching
+2025-06-10     https://www.bloomberg.com/opinion/newsletters/2025-06-10/people-are-worried-about-private-market-liquidity  People Are Worried About Private Market Liquidity
+2025-06-11     https://www.bloomberg.com/opinion/newsletters/2025-06-11/the-appraisal-trade-is-back                        The Appraisal Trade Is Back

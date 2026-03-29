@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                headline
+2021-12-01     https://www.bloomberg.com/news/features/2021-12-01/meme-stocks-gamestop-gme-amc-and-dogecoin-bloomberg-50-2021     The Meme Stock
+2021-12-01     https://www.bloomberg.com/opinion/articles/2021-12-01/goldman-s-cloud-will-pitch-trades                            Goldman’s Cloud Will Pitch Trades
+2021-12-02     https://www.bloomberg.com/opinion/articles/2021-12-02/goldman-executives-want-to-get-paid                          Goldman Executives Want to Get Paid
+2021-12-06     https://www.bloomberg.com/opinion/articles/2021-12-06/the-trump-spac-did-a-pipe                                    The Trump SPAC Did a PIPE
+2021-12-07     https://www.bloomberg.com/opinion/articles/2021-12-07/the-trump-spac-pitch-is-weird                                The Trump SPAC Pitch Is Weird
+2021-12-08     https://www.bloomberg.com/opinion/articles/2021-12-08/what-does-payment-for-order-flow-buy                         What Does Payment for Order Flow Buy?
+2021-12-09     https://www.bloomberg.com/opinion/articles/2021-12-09/don-t-throw-away-your-bitcoins                               Don’t Throw Away Your Bitcoins
+2021-12-13     https://www.bloomberg.com/opinion/articles/2021-12-13/the-trump-spac-pipe-is-free-money                            The Trump SPAC PIPE Is Free Money
+2021-12-14     https://www.bloomberg.com/opinion/articles/2021-12-14/sell-your-company-to-your-bankers                            Sell Your Company to Your Bankers
+2021-12-15     https://www.bloomberg.com/opinion/articles/2021-12-15/matt-levine-s-money-stuff-not-everything-is-insider-trading  Not Everything Is Insider Trading
+2021-12-16     https://www.bloomberg.com/opinion/articles/2021-12-16/the-sec-has-big-plans                                        The SEC Has Big Plans
+2021-12-20     https://www.bloomberg.com/opinion/articles/2021-12-20/jpmorgan-sent-the-wrong-emails                               JPMorgan Sent the Wrong Emails
+2021-12-21     https://www.bloomberg.com/opinion/articles/2021-12-21/there-s-inside-information-in-sec-filings                    There’s Inside Information in SEC Filings
+2021-12-22     https://www.bloomberg.com/opinion/articles/2021-12-22/wall-street-is-no-fun-anymore                                Wall Street Is No Fun Anymore
+2021-12-23     https://www.bloomberg.com/opinion/articles/2021-12-23/the-purdue-bankruptcy-didn-t-work                            The Purdue Bankruptcy Didn’t Work
+2022-01-04     https://www.bloomberg.com/opinion/articles/2022-01-04/slaying-the-blood-unicorn                                    Slaying the Blood Unicorn
+2022-01-05     https://www.bloomberg.com/opinion/articles/2022-01-05/business-begins-bitcoin-bividend                             Business Begins Bitcoin Bividend
+2022-01-06     https://www.bloomberg.com/opinion/articles/2022-01-06/nobody-wants-to-misplace-their-crypto                        Nobody Wants to Misplace Their Crypto
+2022-01-07     https://www.bloomberg.com/opinion/articles/2022-01-07/of-course-gamestop-is-doing-nfts                             Of Course GameStop Is Doing NFTs
+2022-01-10     https://www.bloomberg.com/opinion/articles/2022-01-10/web3-takes-trust-too                                         Web3 Takes Trust Too

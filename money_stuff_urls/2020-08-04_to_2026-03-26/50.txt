@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                                 headline
+2021-04-07     https://www.bloomberg.com/opinion/articles/2021-04-07/blackrock-borrows-against-diversity                                           BlackRock Borrows Against Diversity
+2021-04-07     https://www.bloomberg.com/news/newsletters/2021-04-07/money-stuff-blackrock-borrows-against-diversity                               Money Stuff: BlackRock Borrows Against Diversity
+2021-04-08     https://www.bloomberg.com/opinion/articles/2021-04-08/archegos-got-too-big-for-its-banks                                            Archegos Got Too Big for Its Banks
+2021-04-08     https://www.bloomberg.com/news/newsletters/2021-04-08/money-stuff-archegos-got-too-big-for-its-banks                                Money Stuff: Archegos Got Too Big for Its Banks
+2021-04-12     https://www.bloomberg.com/opinion/articles/2021-04-12/maybe-spacs-are-really-ipos                                                   Maybe SPACs Are Really IPOs
+2021-04-12     https://www.bloomberg.com/news/newsletters/2021-04-12/money-stuff-maybe-spacs-are-really-ipos                                       Money Stuff: Maybe SPACs Are Really IPOs
+2021-04-13     https://www.bloomberg.com/opinion/articles/2021-04-13/grab-spac-mega-merger-isn-t-mega-without-blackrock-pipe                       Big SPAC Deals Don’t Need Big SPACs
+2021-04-13     https://www.bloomberg.com/news/newsletters/2021-04-13/grab-spac-mega-merger-isn-t-mega-without-blackrock-pipe-kng8okt5              Money Stuff: Big SPAC Deals Don’t Need Big SPACs
+2021-04-14     https://www.bloomberg.com/opinion/articles/2021-04-14/good-and-exciting-times-for-banks                                             Good and Exciting Times for Banks
+2021-04-14     https://www.bloomberg.com/news/newsletters/2021-04-14/money-stuff-good-and-exciting-times-for-banks                                 Money Stuff: Good and Exciting Times for Banks
+2021-04-15     https://www.bloomberg.com/opinion/articles/2021-04-15/coinbase-direct-listing-needed-the-coin-ticker                                You Have to Get the Right Ticker
+2021-04-15     https://www.bloomberg.com/news/newsletters/2021-04-15/coinbase-direct-listing-needed-the-coin-ticker-knj47obx                       Money Stuff: You Have to Get the Right Ticker
+2021-04-19     https://www.bloomberg.com/news/newsletters/2021-04-19/everyone-loves-the-100-million-new-jersey-deli-except-david-einhorn           Money Stuff: Everyone Loves the $100 Million Deli
+2021-04-19     https://www.bloomberg.com/opinion/articles/2021-04-19/everyone-loves-the-100-million-new-jersey-deli-except-david-einhorn-knottrmb  Everyone Loves the $100 Million Deli
+2021-04-20     https://www.bloomberg.com/opinion/articles/2021-04-20/hometown-international-new-jersey-deli-is-actually-worth-2-billion            Actually It’s a $2 Billion Deli
+2021-04-20     https://www.bloomberg.com/news/newsletters/2021-04-20/hometown-international-new-jersey-deli-is-actually-worth-2-billion-knq8rril   Money Stuff: Actually It’s a $2 Billion Deli
+2021-04-21     https://www.bloomberg.com/opinion/articles/2021-04-21/you-can-sell-the-trees-you-don-t-cut                                          You Can Sell the Trees You Don’t Cut
+2021-04-21     https://www.bloomberg.com/news/newsletters/2021-04-21/money-stuff-you-can-sell-the-trees-you-don-t-cut                              Money Stuff: You Can Sell the Trees You Don’t Cut
+2021-04-22     https://www.bloomberg.com/opinion/articles/2021-04-22/jpmorgan-s-european-super-league-debacle-is-about-stakeholders                Soccer Fans Are Stakeholders Too
+2021-04-22     https://www.bloomberg.com/news/newsletters/2021-04-22/jpmorgan-s-european-super-league-debacle-is-about-stakeholders-knt3jwjp       Money Stuff: Soccer Fans Are Stakeholders Too

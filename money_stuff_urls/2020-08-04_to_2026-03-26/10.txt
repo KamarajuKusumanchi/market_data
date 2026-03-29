@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                    headline
+2025-02-19     https://www.bloomberg.com/opinion/articles/2025-02-19/esg-isn-t-passive-anymore                        ESG Isn’t Passive Anymore
+2025-02-24     https://www.bloomberg.com/opinion/articles/2025-02-24/jpmorgan-wants-to-lend-companies-money           JPMorgan Wants to Lend Companies Money
+2025-02-25     https://www.bloomberg.com/opinion/articles/2025-02-25/the-job-is-service-but-the-goal-is-monetization  The Job Is Service But the Goal Is Monetization
+2025-02-26     https://www.bloomberg.com/opinion/articles/2025-02-26/robots-will-write-the-macro-forecasts            Robots Will Write the Macro Forecasts
+2025-02-27     https://www.bloomberg.com/opinion/articles/2025-02-27/buy-infowars-for-the-memes                       Buy Infowars for the Memes
+2025-03-03     https://www.bloomberg.com/opinion/articles/2025-03-03/citi-keeps-hitting-the-wrong-buttons             Citi Keeps Hitting the Wrong Buttons
+2025-03-04     https://www.bloomberg.com/opinion/articles/2025-03-04/citi-hit-another-wrong-button                    Citi Hit Another Wrong Button
+2025-03-05     https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage              There Was a Texas Lottery Arbitrage
+2025-03-06     https://www.bloomberg.com/opinion/articles/2025-03-06/steak-dinners-sell-etfs                          Steak Dinners Sell ETFs
+2025-03-10     https://www.bloomberg.com/opinion/articles/2025-03-10/arbs-want-to-appraise-endeavor                   Arbs Want to Appraise Endeavor
+2025-03-11     https://www.bloomberg.com/opinion/articles/2025-03-11/hedge-funds-need-to-know-the-weather             Hedge Funds Need to Know the Weather
+2025-03-12     https://www.bloomberg.com/opinion/articles/2025-03-12/investment-bankers-don-t-work-for-free           Investment Bankers Don’t Work for Free
+2025-03-13     https://www.bloomberg.com/opinion/articles/2025-03-13/you-need-regulators-to-deregulate                You Need Regulators to Deregulate
+2025-03-17     https://www.bloomberg.com/opinion/articles/2025-03-17/spies-in-the-sales-slack                         Spies in the Sales Slack
+2025-03-18     https://www.bloomberg.com/opinion/articles/2025-03-18/strategy-sells-perpetual-strife                  Strategy Sells Perpetual Strife
+2025-03-19     https://www.bloomberg.com/opinion/articles/2025-03-19/everyone-wants-debt-not-equity                   Everyone Wants Debt, Not Equity
+2025-03-20     https://www.bloomberg.com/opinion/articles/2025-03-20/netflix-producer-traded-instead                  Netflix Producer Traded Instead
+2025-03-24     https://www.bloomberg.com/opinion/articles/2025-03-24/there-s-a-stock-exchange-for-lawsuits            There’s a Stock Exchange for Lawsuits
+2025-03-25     https://www.bloomberg.com/opinion/articles/2025-03-25/private-markets-get-more-public                  Private Markets Get More Public
+2025-03-26     https://www.bloomberg.com/opinion/newsletters/2025-03-26/you-can-t-change-your-mind-about-mergers      You Can’t Change Your Mind About Mergers

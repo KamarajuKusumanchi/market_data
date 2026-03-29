@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                           headline
+2022-09-28     https://www.bloomberg.com/opinion/articles/2022-09-28/the-deli-was-allegedly-a-fraud                                          The Deli Was Allegedly a Fraud
+2022-09-29     https://www.bloomberg.com/opinion/articles/2022-09-29/uk-pensions-got-margin-calls                                            UK Pensions Got Margin Calls
+2022-10-03     https://www.bloomberg.com/opinion/articles/2022-10-03/everyone-wanted-to-buy-twitter-with-elon                                Everyone Wanted to Buy Twitter With Elon
+2022-10-04     https://www.bloomberg.com/opinion/articles/2022-10-04/barclays-lost-track-of-its-notes                                        Barclays Lost Track of Its Notes
+2022-10-05     https://www.bloomberg.com/opinion/articles/2022-10-05/elon-s-back                                                             Elon’s Back
+2022-10-06     https://www.bloomberg.com/opinion/articles/2022-10-06/musk-and-twitter-still-have-some-loose-ends                             Musk and Twitter Still Have Some Loose Ends
+2022-10-07     https://www.bloomberg.com/opinion/articles/2022-10-07/matt-levine-s-money-stuff-elon-musk-has-three-weeks-to-change-his-mind  Elon Gets Three Weeks to Change His Mind
+2022-10-11     https://www.bloomberg.com/opinion/articles/2022-10-11/anti-esg-can-be-good-business                                           Anti-ESG Can Be Good Business
+2022-10-12     https://www.bloomberg.com/opinion/articles/2022-10-12/defi-discovers-new-market-manipulations                                 DeFi Discovers New Market Manipulations
+2022-10-13     https://www.bloomberg.com/opinion/articles/2022-10-13/vcs-need-the-good-tweets                                                VCs Need the Good Tweets
+2022-10-17     https://www.bloomberg.com/opinion/articles/2022-10-17/goldman-has-some-new-divisions                                          Goldman Has Some New Divisions
+2022-10-18     https://www.bloomberg.com/opinion/articles/2022-10-18/matt-levine-s-money-stuff-credit-suisse-was-a-reverse-meme-stock        Credit Suisse Was a Reverse Meme Stock
+2022-10-19     https://www.bloomberg.com/opinion/articles/2022-10-19/leveraged-buyouts-lose-some-leverage                                    Leveraged Buyouts Lose Some Leverage
+2022-10-20     https://www.bloomberg.com/opinion/articles/2022-10-20/making-crypto-hacking-less-lucrative                                    Making Crypto Hacking Less Lucrative
+2022-10-24     https://www.bloomberg.com/opinion/articles/2022-10-24/elon-musk-might-buy-twitter-this-week                                   Elon Musk Might Buy Twitter This Week
+2022-10-25     https://www.bloomberg.com/features/2022-the-crypto-story/                                                                     The Crypto Story
+2022-10-25     https://www.bloomberg.com/opinion/articles/2022-10-25/the-trump-spac-has-sec-trouble                                          The Trump SPAC Has SEC Trouble
+2022-10-26     https://www.bloomberg.com/opinion/articles/2022-10-26/musk-will-buy-twitter-at-the-last-minute                                Musk Will Buy Twitter at the Last Minute
+2022-10-27     https://www.bloomberg.com/opinion/articles/2022-10-27/credit-suisse-gives-first-boston-gets-a-second-chance                   Credit Suisse Gives First Boston a Second Chance
+2022-10-31     https://www.bloomberg.com/opinion/articles/2022-10-31/elon-musk-is-busy-with-twitter                                          Elon Musk Is Busy With Twitter

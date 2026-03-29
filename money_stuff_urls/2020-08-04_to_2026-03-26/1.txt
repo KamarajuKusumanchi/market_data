@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                   headline
+2026-02-12     https://www.bloomberg.com/opinion/newsletters/2026-02-12/insider-trading-on-war                       Insider Trading on War
+2026-02-23     https://www.bloomberg.com/opinion/newsletters/2026-02-23/people-are-worried-about-blue-owl-liquidity  People Are Worried About Blue Owl Liquidity
+2026-02-24     https://www.bloomberg.com/opinion/newsletters/2026-02-24/ai-can-manage-your-mutual-fund               AI Can Manage Your Mutual Fund
+2026-02-25     https://www.bloomberg.com/opinion/newsletters/2026-02-25/kalshi-found-some-insider-traders            Kalshi Found Some Insider Traders
+2026-02-26     https://www.bloomberg.com/opinion/newsletters/2026-02-26/the-doge-doubt-trade                         The DOGE Doubt Trade
+2026-03-02     https://www.bloomberg.com/opinion/newsletters/2026-03-02/war-markets-have-some-bugs                   War Markets Have Some Bugs
+2026-03-03     https://www.bloomberg.com/opinion/newsletters/2026-03-03/everyone-wants-a-pension                     Everyone Wants a Pension
+2026-03-04     https://www.bloomberg.com/opinion/newsletters/2026-03-04/people-are-worried-about-bcred-liquidity     People Are Worried About BCRED Liquidity
+2026-03-05     https://www.bloomberg.com/opinion/newsletters/2026-03-05/be-liquid-when-others-are-illiquid           Be Liquid When Others Are Illiquid
+2026-03-09     https://www.bloomberg.com/opinion/newsletters/2026-03-09/blackrock-guards-the-gates                   BlackRock Guards the Gates
+2026-03-10     https://www.bloomberg.com/opinion/newsletters/2026-03-10/bill-ackman-wants-your-money-again           Bill Ackman Wants Your Money Again
+2026-03-11     https://www.bloomberg.com/opinion/newsletters/2026-03-11/private-credit-gets-marked-down              Private Credit Gets Marked Down
+2026-03-12     https://www.bloomberg.com/opinion/newsletters/2026-03-12/lever-the-predictions                        Lever the Predictions
+2026-03-16     https://www.bloomberg.com/opinion/newsletters/2026-03-16/make-the-predictions-come-true               Make the Predictions Come True
+2026-03-17     https://www.bloomberg.com/opinion/newsletters/2026-03-17/anti-private-equity-is-good-business         Anti-Private Equity Is Good Business
+2026-03-18     https://www.bloomberg.com/opinion/newsletters/2026-03-18/tokens-are-not-securities                    Tokens Are Not Securities
+2026-03-23     https://www.bloomberg.com/opinion/newsletters/2026-03-23/elon-did-some-securities-fraud               Elon Did Some Securities Fraud
+2026-03-24     https://www.bloomberg.com/opinion/newsletters/2026-03-24/private-credit-is-not-on-sale                Private Credit Is Not on Sale
+2026-03-25     https://www.bloomberg.com/opinion/newsletters/2026-03-25/private-credit-has-some-debt                 Private Credit Has Some Debt
+2026-03-26     https://www.bloomberg.com/opinion/newsletters/2026-03-26/weather-prediction-prediction                Weather Prediction Prediction

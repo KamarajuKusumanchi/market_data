@@ -1,0 +1,21 @@
+publishedAt    url                                                                                               headline
+2024-04-08     https://www.bloomberg.com/opinion/articles/2024-04-08/public-markets-are-the-new-private-markets  Public Markets Are the New Private Markets
+2024-04-09     https://www.bloomberg.com/opinion/articles/2024-04-09/a-meme-stock-for-private-companies          A Meme Stock for Private Companies
+2024-04-10     https://www.bloomberg.com/opinion/articles/2024-04-10/super-users-had-inflation-questions         Super Users Had Inflation Questions
+2024-04-11     https://www.bloomberg.com/opinion/articles/2024-04-11/tech-employees-want-to-diversify            Tech Employees Want to Diversify
+2024-04-15     https://www.bloomberg.com/opinion/articles/2024-04-15/silence-is-not-securities-fraud             Silence Is Not Securities Fraud
+2024-04-16     https://www.bloomberg.com/opinion/articles/2024-04-16/trump-media-has-more-stock-coming           Trump Media Has More Stock Coming
+2024-04-17     https://www.bloomberg.com/opinion/articles/2024-04-17/elon-wants-his-money-back                   Elon Wants His Money Back
+2024-04-18     https://www.bloomberg.com/opinion/articles/2024-04-18/jane-street-wants-its-secrets-back          Jane Street Wants Its Secrets Back
+2024-04-19     https://www.bloomberg.com/opinion/articles/2024-04-19/money-stuff-the-podcast-week-2              Money Stuff: The Podcast, Week 2
+2024-04-22     https://www.bloomberg.com/opinion/articles/2024-04-22/the-secret-trade-was-options-in-india       The Secret Trade Was Options in India
+2024-04-24     https://www.bloomberg.com/opinion/articles/2024-04-24/the-ftc-comes-for-noncompetes               The FTC Comes for Noncompetes
+2024-04-25     https://www.bloomberg.com/opinion/articles/2024-04-25/futures-exchanges-are-for-traders           Futures Exchanges Are for Traders
+2024-04-29     https://www.bloomberg.com/opinion/articles/2024-04-29/a-paramount-merger-will-be-tricky           A Paramount Merger Will Be Tricky
+2024-04-30     https://www.bloomberg.com/opinion/articles/2024-04-30/apollo-had-some-death-bets                  Apollo Had Some Death Bets
+2024-05-01     https://www.bloomberg.com/opinion/articles/2024-05-01/banks-are-still-where-the-money-isn-t       Banks Are Still Where the Money Isn’t
+2024-05-02     https://www.bloomberg.com/opinion/articles/2024-05-02/how-could-the-death-bets-make-money         How Could the Death Bets Make Money?
+2024-05-03     https://www.bloomberg.com/opinion/articles/2024-05-03/money-stuff-the-podcast-money-failed        Money Stuff: The Podcast: Money Failed!
+2024-05-06     https://www.bloomberg.com/opinion/articles/2024-05-06/here-have-some-extra-carbon-credits         Here, Have Some Extra Carbon Credits
+2024-05-07     https://www.bloomberg.com/opinion/articles/2024-05-07/bond-markets-are-the-new-stock-markets      Bond Markets Are the New Stock Markets
+2024-05-08     https://www.bloomberg.com/opinion/articles/2024-05-08/ftx-found-the-money                         FTX Found the Money

@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                           headline
+2021-02-24     https://www.bloomberg.com/news/newsletters/2021-02-24/money-stuff-the-vaccine-is-not-a-competition                            Money Stuff: The Vaccine Is Not a Competition
+2021-02-25     https://www.bloomberg.com/opinion/articles/2021-02-25/gamestop-is-happening-again                                             GameStop Is Happening Again
+2021-02-25     https://www.bloomberg.com/news/newsletters/2021-02-25/money-stuff-gamestop-is-happening-again                                 Money Stuff: GameStop Is Happening Again
+2021-02-26     https://www.bloomberg.com/opinion/articles/2021-02-26/startups-sometimes-stretch-the-truth                                    Startups Sometimes Stretch the Truth
+2021-02-26     https://www.bloomberg.com/news/newsletters/2021-02-26/money-stuff-startups-sometimes-stretch-the-truth                        Money Stuff: Startups Sometimes Stretch the Truth
+2021-03-01     https://www.bloomberg.com/opinion/articles/2021-03-01/are-bond-etfs-creating-a-bond-market-liquidity-illusion                 It’s Hard to Run on Bond ETFs
+2021-03-01     https://www.bloomberg.com/news/newsletters/2021-03-01/are-bond-etfs-creating-a-bond-market-liquidity-illusion-klqv0h1w        Money Stuff: It’s Hard to Run on Bond ETFs
+2021-03-02     https://www.bloomberg.com/opinion/articles/2021-03-02/jay-z-alex-rodriguez-steph-curry-spacs-are-a-celebrity-affair           Oh Hey Here’s Another SPAC
+2021-03-02     https://www.bloomberg.com/news/newsletters/2021-03-02/jay-z-alex-rodriguez-steph-curry-spacs-are-a-celebrity-affair-klsafn6n  Money Stuff: Oh Hey Here’s Another SPAC
+2021-03-03     https://www.bloomberg.com/opinion/articles/2021-03-03/citi-won-t-misplace-500-million-again                                   Citi Won’t Misplace $500 Million Again
+2021-03-03     https://www.bloomberg.com/news/newsletters/2021-03-03/money-stuff-citi-won-t-misplace-500-million-again                       Money Stuff: Citi Won’t Misplace $500 Million Again
+2021-03-04     https://www.bloomberg.com/opinion/articles/2021-03-04/melvin-capital-improves-from-gamestop-reddit-struggle                   Melvin Capital Had a Better Month
+2021-03-04     https://www.bloomberg.com/news/newsletters/2021-03-04/melvin-capital-improves-from-gamestop-reddit-struggle-klv55zta          Money Stuff: Melvin Capital Had a Better Month
+2021-03-08     https://www.bloomberg.com/opinion/articles/2021-03-08/libor-is-going-away-for-real                                            Libor Is Going Away for Real
+2021-03-08     https://www.bloomberg.com/news/newsletters/2021-03-08/money-stuff-libor-is-going-away-for-real                                Money Stuff: Libor Is Going Away for Real
+2021-03-09     https://www.bloomberg.com/opinion/articles/2021-03-09/sec-goes-after-analyst-foreshadowing                                    SEC Goes After Analyst Foreshadowing
+2021-03-09     https://www.bloomberg.com/news/newsletters/2021-03-09/money-stuff-sec-goes-after-analyst-foreshadowing                        Money Stuff: SEC Goes After Analyst Foreshadowing
+2021-03-10     https://www.bloomberg.com/opinion/articles/2021-03-10/citi-is-still-mad-about-that-500-million                                Citi Is Still Mad About That $500 Million
+2021-03-10     https://www.bloomberg.com/news/newsletters/2021-03-10/money-stuff-citi-is-still-mad-about-that-500-million                    Money Stuff: Citi Is Still Mad About That $500 Million
+2021-03-11     https://www.bloomberg.com/opinion/articles/2021-03-11/roblox-and-coupang-chose-their-initial-investors                        Companies Can Pick Their Investors

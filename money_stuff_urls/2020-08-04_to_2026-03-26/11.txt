@@ -1,0 +1,21 @@
+publishedAt    url                                                                                            headline
+2025-01-13     https://www.bloomberg.com/opinion/articles/2025-01-13/everything-might-be-accounting-fraud     Everything Might Be Accounting Fraud
+2025-01-14     https://www.bloomberg.com/opinion/articles/2025-01-14/maybe-esg-is-illegal-now                 Maybe ESG Is Illegal Now
+2025-01-15     https://www.bloomberg.com/opinion/articles/2025-01-15/capital-one-high-yield-account-wasn-t    Capital One High-Yield Account Wasn’t
+2025-01-16     https://www.bloomberg.com/opinion/articles/2025-01-16/you-don-t-always-know-what-bonds-cost    You Don’t Always Know What Bonds Cost
+2025-01-21     https://www.bloomberg.com/opinion/articles/2025-01-21/the-sec-was-busy-last-week               The SEC Was Busy Last Week
+2025-01-22     https://www.bloomberg.com/opinion/articles/2025-01-22/index-funds-buy-high-and-sell-low        Index Funds Buy High and Sell Low
+2025-01-23     https://www.bloomberg.com/opinion/articles/2025-01-23/crypto-perpetual-motion-machines         Crypto Perpetual Motion Machines
+2025-01-27     https://www.bloomberg.com/opinion/articles/2025-01-27/hedge-fund-ai-is-cheap-ai                Hedge Fund AI Is Cheap AI
+2025-01-28     https://www.bloomberg.com/opinion/articles/2025-01-28/deepseek-disruption-has-its-upside       DeepSeek Disruption Has Its Upside
+2025-01-29     https://www.bloomberg.com/opinion/articles/2025-01-29/openai-doesn-t-want-ai-cheaters          OpenAI Doesn’t Want AI Cheaters
+2025-01-30     https://www.bloomberg.com/opinion/articles/2025-01-30/how-long-do-you-have-to-be-short         How Long Do You Have to Be Short?
+2025-02-03     https://www.bloomberg.com/opinion/articles/2025-02-03/texas-tempts-meta                        Texas Tempts Meta
+2025-02-04     https://www.bloomberg.com/opinion/articles/2025-02-04/robinhood-wanted-b-ts-on-the-b-g-g-me    Robinhood Wanted B*ts on the B*g G*me
+2025-02-05     https://www.bloomberg.com/opinion/articles/2025-02-05/private-credit-is-the-new-public-credit  Private Credit Is the New Public Credit
+2025-02-06     https://www.bloomberg.com/opinion/articles/2025-02-06/delaware-tempts-daktronics               Delaware Tempts Daktronics
+2025-02-10     https://www.bloomberg.com/opinion/articles/2025-02-10/memecoin-pumps-are-just-for-fun          Memecoin Pumps Are Just for Fun
+2025-02-11     https://www.bloomberg.com/opinion/articles/2025-02-11/sure-elon-musk-might-buy-openai          Sure Elon Musk Might Buy OpenAI
+2025-02-12     https://www.bloomberg.com/opinion/articles/2025-02-12/not-everywhere-is-insider-trading        Not Everywhere Is Insider Trading
+2025-02-13     https://www.bloomberg.com/opinion/articles/2025-02-13/gold-is-worth-more-in-new-york           Gold Is Worth More in New York
+2025-02-18     https://www.bloomberg.com/opinion/articles/2025-02-18/the-unicorns-are-zombies                 The Unicorns Are Zombies

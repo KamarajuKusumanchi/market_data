@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                   headline
+2022-01-11     https://www.bloomberg.com/opinion/articles/2022-01-11/who-can-resist-the-crypto-boom                  Who Can Resist the Crypto Boom?
+2022-01-12     https://www.bloomberg.com/opinion/articles/2022-01-12/not-everyone-likes-esg                          Not Everyone Likes ESG
+2022-01-13     https://www.bloomberg.com/opinion/articles/2022-01-13/congress-might-have-to-stop-trading-stocks      Congress Might Have to Stop Trading Stocks
+2022-01-18     https://www.bloomberg.com/opinion/articles/2022-01-18/blackrock-still-likes-capitalism                BlackRock Still Likes Capitalism
+2022-01-19     https://www.bloomberg.com/opinion/articles/2022-01-19/washing-web3                                    Wash Your Meebits in Web3
+2022-01-20     https://www.bloomberg.com/opinion/articles/2022-01-20/a-good-reputation-is-expensive                  A Good Reputation Is Expensive
+2022-01-24     https://www.bloomberg.com/opinion/articles/2022-01-24/maybe-the-memes-are-over                        Maybe the Memes Are Over
+2022-01-25     https://www.bloomberg.com/opinion/articles/2022-01-25/the-apes-have-fat-fingers                       The Apes Have Fat Fingers
+2022-01-26     https://www.bloomberg.com/opinion/articles/2022-01-26/watch-out-for-shadow-trading                    Watch Out for Shadow Trading
+2022-01-27     https://www.bloomberg.com/opinion/articles/2022-01-27/you-get-the-crypto-rules-you-want               You Get the Crypto Rules You Want
+2022-01-31     https://www.bloomberg.com/opinion/articles/2022-01-31/libor-was-made-up-anyway                        Libor Was Made Up Anyway
+2022-02-01     https://www.bloomberg.com/opinion/articles/2022-02-01/hedge-funds-are-a-job-now                       Hedge Funds Are a Job Now
+2022-02-02     https://www.bloomberg.com/opinion/articles/2022-02-02/money-stuff-banking-bonuses-were-big-this-year  Busy Bankers Made Big Money
+2022-02-03     https://www.bloomberg.com/opinion/articles/2022-02-03/fear-is-a-good-motivation-for-fraud             Fear Is a Good Motivation for Fraud
+2022-02-07     https://www.bloomberg.com/opinion/articles/2022-02-07/hedge-fund-managers-are-expensive               Hedge Fund Managers Are Expensive
+2022-02-08     https://www.bloomberg.com/opinion/articles/2022-02-08/peloton-s-ceo-has-had-enough                    Peloton’s CEO Has Had Enough
+2022-02-09     https://www.bloomberg.com/opinion/articles/2022-02-09/business-rapper-was-bad-at-bitcoin-laundering   Business Rapper Was Bad at Bitcoin Laundering
+2022-02-10     https://www.bloomberg.com/opinion/articles/2022-02-10/private-funds-are-the-new-public-funds          Private Funds Are the New Public Funds
+2022-02-14     https://www.bloomberg.com/opinion/articles/2022-02-14/shareholders-like-any-old-merger                Shareholders Like Any Old Merger
+2022-02-15     https://www.bloomberg.com/opinion/articles/2022-02-15/you-get-the-crypto-rules-you-pay-for            You Get the Crypto Rules You Pay For

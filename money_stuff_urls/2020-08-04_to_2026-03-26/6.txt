@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                        headline
+2025-07-21     https://www.bloomberg.com/opinion/newsletters/2025-07-21/private-research-is-the-new-public-research       Private Research Is the New Public Research
+2025-07-22     https://www.bloomberg.com/opinion/newsletters/2025-07-22/there-s-a-gamestop-treasury-company               There’s a GameStop Treasury Company
+2025-07-23     https://www.bloomberg.com/opinion/newsletters/2025-07-23/meme-stocks-are-back                              Meme Stocks Are Back
+2025-07-24     https://www.bloomberg.com/opinion/newsletters/2025-07-24/strategy-does-a-stretch                           Strategy Does a Stretch
+2025-07-28     https://www.bloomberg.com/opinion/newsletters/2025-07-28/bet-on-or-against-the-unicorns                    Bet on or Against the Unicorns
+2025-07-29     https://www.bloomberg.com/opinion/newsletters/2025-07-29/ubs-fx-trades-were-too-good                       UBS FX Trades Were Too Good
+2025-07-30     https://www.bloomberg.com/opinion/newsletters/2025-07-30/the-bots-will-work-together                       The Bots Will Work Together
+2025-07-31     https://www.bloomberg.com/opinion/newsletters/2025-07-31/you-can-insider-trade-nfts-now                    You Can Insider Trade NFTs Now
+2025-08-04     https://www.bloomberg.com/opinion/newsletters/2025-08-04/tesla-gives-musk-some-stock                       Tesla Gives Musk Some Stock
+2025-08-05     https://www.bloomberg.com/opinion/newsletters/2025-08-05/hedge-funds-meet-with-companies                   Hedge Funds Meet With Companies
+2025-08-06     https://www.bloomberg.com/opinion/newsletters/2025-08-06/openai-employees-have-stock-to-sell               OpenAI Employees Have Stock to Sell
+2025-08-07     https://www.bloomberg.com/opinion/newsletters/2025-08-07/401-k-plans-will-get-more-fun                     401(k) Plans Will Get More Fun
+2025-08-08     https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four  How to Teach Your Kids Poker, the Easy Way
+2025-08-25     https://www.bloomberg.com/opinion/newsletters/2025-08-25/there-are-a-lot-of-etfs                           There Are a Lot of ETFs
+2025-08-26     https://www.bloomberg.com/opinion/newsletters/2025-08-26/biotech-dividend-arrived-early                    Biotech Dividend Arrived Early
+2025-08-27     https://www.bloomberg.com/opinion/newsletters/2025-08-27/the-taylor-swift-wedding-trade                    The Taylor Swift Wedding Trade
+2025-08-28     https://www.bloomberg.com/opinion/newsletters/2025-08-28/pod-shops-are-the-new-banks                       Pod Shops Are the New Banks
+2025-09-02     https://www.bloomberg.com/opinion/newsletters/2025-09-02/the-tariffs-are-still-illegal                     The Tariffs Are Still Illegal
+2025-09-03     https://www.bloomberg.com/opinion/newsletters/2025-09-03/sports-team-owners-like-to-win                    Sports Team Owners Like to Win
+2025-09-04     https://www.bloomberg.com/opinion/newsletters/2025-09-04/private-assets-need-public-buyers                 Private Assets Need Public Buyers

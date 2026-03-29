@@ -1,0 +1,21 @@
+publishedAt    url                                                                                           headline
+2022-02-16     https://www.bloomberg.com/opinion/articles/2022-02-16/people-are-worried-about-block-trades   People Are Worried About Block Trades
+2022-02-17     https://www.bloomberg.com/opinion/articles/2022-02-17/bribery-won-t-make-you-a-hero           Bribery Won’t Make You a Hero
+2022-02-22     https://www.bloomberg.com/opinion/articles/2022-02-22/bored-apes-go-to-court                  Bored Apes Go to Court
+2022-02-23     https://www.bloomberg.com/opinion/articles/2022-02-23/buy-the-coal-plant-to-stop-it           Buy the Coal Plant to Stop It
+2022-02-28     https://www.bloomberg.com/opinion/articles/2022-02-28/russia-s-money-is-gone                  Russia’s Money Is Gone
+2022-03-01     https://www.bloomberg.com/opinion/articles/2022-03-01/nobody-wants-russian-assets             Nobody Wants Russian Assets
+2022-03-02     https://www.bloomberg.com/opinion/articles/2022-03-02/russia-s-finances-are-closing-up        Russia’s Finances Are Closing Up
+2022-03-03     https://www.bloomberg.com/opinion/articles/2022-03-03/uninvestable-markets-are-hard-to-trade  Uninvestable Markets Are Hard to Trade
+2022-03-07     https://www.bloomberg.com/opinion/articles/2022-03-07/leaving-russia-for-morals-or-money      Leaving Russia for Morals or Money
+2022-03-08     https://www.bloomberg.com/opinion/articles/2022-03-08/nickel-is-canceled                      Nickel Is Canceled
+2022-03-09     https://www.bloomberg.com/opinion/articles/2022-03-09/esg-goes-to-war                         ESG Goes to War
+2022-03-10     https://www.bloomberg.com/opinion/articles/2022-03-10/soccer-tickets-are-sanctioned           Soccer Tickets Are Sanctioned
+2022-03-14     https://www.bloomberg.com/opinion/articles/2022-03-14/nickel-blowup-made-a-lot-of-trouble     Nickel Blowup Made a Lot of Trouble
+2022-03-15     https://www.bloomberg.com/opinion/articles/2022-03-15/amc-bought-a-gold-mine                  AMC Bought a Gold Mine
+2022-03-16     https://www.bloomberg.com/opinion/articles/2022-03-16/nickel-is-back-in-business              Nickel Is Back in Business
+2022-03-17     https://www.bloomberg.com/opinion/articles/2022-03-17/nickel-can-t-find-a-price               Nickel Can’t Find a Price
+2022-03-21     https://www.bloomberg.com/opinion/articles/2022-03-21/everyone-wants-to-do-esg-now            Everyone Wants to Do ESG Now
+2022-03-22     https://www.bloomberg.com/opinion/articles/2022-03-22/the-sec-will-regulate-climate           The SEC Will Regulate Climate
+2022-03-23     https://www.bloomberg.com/opinion/articles/2022-03-23/gamestop-hired-some-consultants         GameStop Hired Some Consultants
+2022-03-24     https://www.bloomberg.com/opinion/articles/2022-03-24/the-sec-wants-to-stop-activism          The SEC Wants to Stop Activism

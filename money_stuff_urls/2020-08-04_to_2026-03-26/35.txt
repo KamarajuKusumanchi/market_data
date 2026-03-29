@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                   headline
+2022-05-03     https://www.bloomberg.com/opinion/articles/2022-05-03/citi-did-a-flash-crash                                          Citi Did a Flash Crash
+2022-05-04     https://www.bloomberg.com/opinion/articles/2022-05-04/someone-hacked-a-merger                                         Someone Hacked a Merger
+2022-05-09     https://www.bloomberg.com/opinion/articles/2022-05-09/musk-twitter-has-new-owners                                     Musk Twitter Has New Owners
+2022-05-10     https://www.bloomberg.com/opinion/articles/2022-05-10/another-algorithmic-stablecoin-isn-t                            Another Algorithmic Stablecoin Isn’t
+2022-05-11     https://www.bloomberg.com/opinion/articles/2022-05-11/terra-flops                                                     Terra Flops
+2022-05-12     https://www.bloomberg.com/opinion/articles/2022-05-12/crypto-crash-contagion-could-go-beyond-bitcoin-ethereum-tether  Crypto Could Be Contagious
+2022-05-13     https://www.bloomberg.com/opinion/articles/2022-05-13/elon-musk-trolls-twitter                                        Elon Musk Trolls Twitter
+2022-05-16     https://www.bloomberg.com/opinion/articles/2022-05-16/the-trump-spac-is-in-business                                   The Trump SPAC Is In Business
+2022-05-17     https://www.bloomberg.com/opinion/articles/2022-05-17/elon-musk-does-not-care-about-spam-bots                         Elon Musk Does Not Care About Spam Bots
+2022-05-19     https://www.bloomberg.com/opinion/articles/2022-05-19/is-the-sec-unconstitutional                                     Is the SEC Unconstitutional?
+2022-05-20     https://www.bloomberg.com/opinion/articles/2022-05-20/the-spac-bust-is-expensive                                      The SPAC Bust Is Expensive
+2022-05-23     https://www.bloomberg.com/opinion/articles/2022-05-23/the-sec-goes-after-greenwashing                                 The SEC Goes After Greenwashing
+2022-05-24     https://www.bloomberg.com/opinion/articles/2022-05-24/take-the-swaps-off-the-balance-sheet                            Take the Swaps Off the Balance Sheet
+2022-05-25     https://www.bloomberg.com/opinion/articles/2022-05-25/terra-is-back-from-bankruptcy                                   Terra Is Back From Bankruptcy
+2022-05-26     https://www.bloomberg.com/opinion/articles/2022-05-26/elon-called-off-his-margin-loan                                 Elon Called Off His Margin Loan
+2022-05-31     https://www.bloomberg.com/opinion/articles/2022-05-31/russia-has-some-dollars-somewhere                               Russia Has Some Dollars Somewhere
+2022-06-01     https://www.bloomberg.com/opinion/articles/2022-06-01/crypto-clearing-and-credit                                      Crypto, Clearing and Credit
+2022-06-02     https://www.bloomberg.com/opinion/articles/2022-06-02/don-t-insider-trade-nfts                                        Don’t Insider Trade NFTs
+2022-06-06     https://www.bloomberg.com/opinion/articles/2022-06-06/elon-has-a-new-bot-excuse                                       Elon Has a New Bot Excuse
+2022-06-07     https://www.bloomberg.com/opinion/articles/2022-06-07/retail-trading-is-about-to-change                               Retail Trading Is About to Change

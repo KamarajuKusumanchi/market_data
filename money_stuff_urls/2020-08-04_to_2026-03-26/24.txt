@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                 headline
+2023-08-01     https://www.bloomberg.com/opinion/articles/2023-08-01/who-put-these-stocks-in-the-index                             Who Put These Stocks in the Index?
+2023-08-02     https://www.bloomberg.com/opinion/articles/2023-08-02/the-us-is-more-aa-now                                         The US Is More AA+ Now
+2023-08-03     https://www.bloomberg.com/opinion/articles/2023-08-03/terra-is-usually-a-security                                   Terra Is Usually a Security
+2023-08-07     https://www.bloomberg.com/opinion/articles/2023-08-07/irl-s-users-were-not-irl                                      IRL’s Users Were Not IRL
+2023-08-08     https://www.bloomberg.com/opinion/articles/2023-08-08/don-t-do-deals-on-linkedin                                    Don’t Do Deals on LinkedIn
+2023-08-09     https://www.bloomberg.com/opinion/articles/2023-08-09/barstool-sold-high-and-bought-low                             Barstool Sold High and Bought Low
+2023-08-10     https://www.bloomberg.com/opinion/articles/2023-08-10/you-can-sell-the-bitcoins-you-don-t-mine                      You Can Sell the Bitcoins You Don’t Mine
+2023-08-21     https://www.bloomberg.com/opinion/articles/2023-08-21/everyone-wants-a-piece-of-sculptor                            Everyone Wants a Piece of Sculptor
+2023-08-22     https://www.bloomberg.com/opinion/articles/2023-08-22/ai-funds-don-t-like-ai-stocks                                 AI Funds Don’t Like AI Stocks
+2023-08-23     https://www.bloomberg.com/opinion/articles/2023-08-23/could-sculptor-be-better-or-cheaper                           Could Sculptor Be Better, or Cheaper?
+2023-08-28     https://www.bloomberg.com/opinion/articles/2023-08-28/loans-still-aren-t-securities                                 Loans Still Aren’t Securities
+2023-08-29     https://www.bloomberg.com/opinion/articles/2023-08-29/grayscale-can-be-a-bitcoin-etf                                Grayscale Can Be a Bitcoin ETF
+2023-08-30     https://www.bloomberg.com/opinion/articles/2023-08-30/sculptor-is-full-of-conflicts                                 Sculptor Is Full of Conflicts
+2023-08-31     https://www.bloomberg.com/opinion/articles/2023-08-31/sculptor-gets-another-offer                                   Sculptor Gets Another Offer
+2023-09-05     https://www.bloomberg.com/opinion/articles/2023-09-05/retail-fx-traders-made-money-for-someone                      Retail FX Traders Made Money for Someone
+2023-09-06     https://www.bloomberg.com/opinion/articles/2023-09-06/spacex-loaned-elon-musk-some-money                            SpaceX Loaned Elon Musk Some Money
+2023-09-07     https://www.bloomberg.com/opinion/articles/2023-09-07/matt-levine-s-money-stuff-don-t-let-robots-do-earnings-calls  Don’t Let a Robot Do the Earnings Call
+2023-09-11     https://www.bloomberg.com/opinion/articles/2023-09-11/some-floating-rates-won-t-float                               Some Floating Rates Won’t Float
+2023-09-12     https://www.bloomberg.com/opinion/articles/2023-09-12/gambling-on-options-is-fun                                    Gambling on Options Is Fun
+2023-09-13     https://www.bloomberg.com/opinion/articles/2023-09-13/yieldstreet-missed-a-boat                                     YieldStreet Missed a Boat

@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                              headline
+2021-02-08     https://www.bloomberg.com/news/newsletters/2021-02-08/elon-musk-works-his-magic-on-dogecoin-and-bitcoin-kkwu61uj                 Money Stuff: Elon Musk Picks the Money Now
+2021-02-09     https://www.bloomberg.com/opinion/articles/2021-02-09/the-sec-wants-reddit-meme-stocks-to-admit-they-re-dangerous                Meme Stocks Will Come With a Warning
+2021-02-09     https://www.bloomberg.com/news/newsletters/2021-02-09/the-sec-wants-reddit-meme-stocks-to-admit-they-re-dangerous-kky96vuo       Money Stuff: Meme Stocks Will Come With a Warning
+2021-02-10     https://www.bloomberg.com/opinion/articles/2021-02-10/elon-musk-tweets-great-news-for-bitcoin-bad-news-for-econ-majors           The Elon Markets Hypothesis
+2021-02-10     https://www.bloomberg.com/news/newsletters/2021-02-10/elon-musk-tweets-great-news-for-bitcoin-bad-news-for-econ-majors-kkzp2132  Money Stuff: The Elon Markets Hypothesis
+2021-02-11     https://www.bloomberg.com/opinion/articles/2021-02-11/why-gamestop-didn-t-sell-any-stock-during-the-reddit-rally                 GameStop Missed All the Fun
+2021-02-11     https://www.bloomberg.com/news/newsletters/2021-02-11/why-gamestop-didn-t-sell-any-stock-during-the-reddit-rally-kl14hqg1        Money Stuff: GameStop Missed All the Fun
+2021-02-16     https://www.bloomberg.com/opinion/articles/2021-02-16/goldman-adds-robo-adviser-to-marcus-consumer-brand                         Goldman Has an Investing Robot
+2021-02-16     https://www.bloomberg.com/news/newsletters/2021-02-16/goldman-adds-robo-adviser-to-marcus-consumer-brand-kl8af75g                Money Stuff: Goldman Has an Investing Robot
+2021-02-17     https://www.bloomberg.com/opinion/articles/2021-02-17/citi-can-t-have-its-900-million-back                                       Citi Can’t Have Its $900 Million Back
+2021-02-17     https://www.bloomberg.com/news/newsletters/2021-02-17/money-stuff-citi-can-t-have-its-900-million-back                           Money Stuff: Citi Can’t Have Its $900 Million Back
+2021-02-18     https://www.bloomberg.com/opinion/articles/2021-02-18/gamestop-hearing-takes-the-fun-out-of-robinhood-and-reddit                 Congress Wants to Talk About GameStop
+2021-02-18     https://www.bloomberg.com/news/newsletters/2021-02-18/gamestop-hearing-takes-the-fun-out-of-robinhood-and-reddit-klb4ystj        Money Stuff: Congress Wants to Talk About GameStop
+2021-02-19     https://www.bloomberg.com/opinion/articles/2021-02-19/gamestop-hearing-featured-no-cats                                          GameStop Hearing Featured No Cats
+2021-02-19     https://www.bloomberg.com/news/newsletters/2021-02-19/money-stuff-gamestop-hearing-featured-no-cats                              Money Stuff: GameStop Hearing Featured No Cats
+2021-02-22     https://www.bloomberg.com/opinion/articles/2021-02-22/electric-bills-are-a-gamble-too                                            Electric Bills Are a Gamble Too
+2021-02-22     https://www.bloomberg.com/news/newsletters/2021-02-22/money-stuff-electric-bills-are-a-gamble-too                                Money Stuff: Electric Bills Are a Gamble Too
+2021-02-23     https://www.bloomberg.com/opinion/articles/2021-02-23/tesla-rival-lucid-motors-paid-a-price-for-its-spac-deal                    SPAC Investors Don’t Love Lucid
+2021-02-23     https://www.bloomberg.com/news/newsletters/2021-02-23/tesla-rival-lucid-motors-paid-a-price-for-its-spac-deal-klia4uw1           Money Stuff: SPAC Investors Don’t Love Lucid
+2021-02-24     https://www.bloomberg.com/opinion/articles/2021-02-24/the-vaccine-is-not-a-competition                                           The Vaccine Is Not a Competition

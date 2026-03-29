@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                headline
+2023-10-23     https://www.bloomberg.com/opinion/articles/2023-10-23/nobody-wants-mutual-funds-now                Nobody Wants Mutual Funds Now
+2023-10-24     https://www.bloomberg.com/opinion/articles/2023-10-24/big-bonuses-are-back-at-uk-banks             Big Bonuses Are Back at UK Banks
+2023-10-25     https://www.bloomberg.com/opinion/articles/2023-10-25/goldman-has-a-derivatives-robot              Goldman Has a Derivatives Robot
+2023-10-26     https://www.bloomberg.com/opinion/articles/2023-10-26/euroclear-made-some-russian-money            Euroclear Made Some Russian Money
+2023-10-30     https://www.bloomberg.com/opinion/articles/2023-10-30/two-sigma-had-a-rogue-calibrator             Two Sigma Had a Rogue Calibrator
+2023-10-31     https://www.bloomberg.com/opinion/articles/2023-10-31/bad-passwords-are-securities-fraud           Bad Passwords Are Securities Fraud
+2023-11-01     https://www.bloomberg.com/opinion/articles/2023-11-01/trade-the-news-then-publish-it               Trade the News, Then Publish It
+2023-11-02     https://www.bloomberg.com/opinion/articles/2023-11-02/the-banks-are-where-the-money-isn-t          The Banks Are Where the Money Isn’t
+2023-11-06     https://www.bloomberg.com/opinion/articles/2023-11-06/the-sbf-case-was-easy                        The SBF Case Was Easy
+2023-11-07     https://www.bloomberg.com/opinion/articles/2023-11-07/bridgewater-had-believability-issues         Bridgewater Had Believability Issues
+2023-11-08     https://www.bloomberg.com/opinion/articles/2023-11-08/the-coffee-futures-got-stale                 The Coffee Futures Got Stale
+2023-11-09     https://www.bloomberg.com/opinion/articles/2023-11-09/adam-neumann-is-so-good-at-this              Adam Neumann Is So Good at This
+2023-11-13     https://www.bloomberg.com/opinion/articles/2023-11-13/some-startups-need-a-second-chance           Some Startups Need a Second Chance
+2023-11-14     https://www.bloomberg.com/opinion/articles/2023-11-14/goldman-keeps-getting-more-boring            Goldman Keeps Getting More Boring
+2023-11-15     https://www.bloomberg.com/opinion/articles/2023-11-15/wework-s-rescue-wasn-t-real                  WeWork’s Rescue Wasn’t Real
+2023-11-16     https://www.bloomberg.com/opinion/articles/2023-11-16/hackers-know-everything-is-securities-fraud  Hackers Know Everything Is Securities Fraud
+2023-11-20     https://www.bloomberg.com/opinion/articles/2023-11-20/who-controls-openai                          Who Controls OpenAI?
+2023-11-21     https://www.bloomberg.com/opinion/articles/2023-11-21/openai-is-a-strange-nonprofit                OpenAI Is a Strange Nonprofit
+2023-11-27     https://www.bloomberg.com/opinion/articles/2023-11-27/openai-is-still-an-86-billion-nonprofit      OpenAI Is Still an $86 Billion Nonprofit
+2023-11-28     https://www.bloomberg.com/opinion/articles/2023-11-28/the-sec-might-lose-its-courts                The SEC Might Lose Its Courts

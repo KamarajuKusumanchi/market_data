@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                  headline
+2023-04-11     https://www.bloomberg.com/opinion/articles/2023-04-11/goldman-got-some-good-swaps-deals                              Goldman Got Some Good Swaps Deals
+2023-04-12     https://www.bloomberg.com/opinion/articles/2023-04-12/spac-pipes-sometimes-leak                                      SPAC PIPEs Sometimes Leak
+2023-04-13     https://www.bloomberg.com/opinion/articles/2023-04-13/twitter-gets-into-the-stock-business                           Twitter Gets Into the Stock Business
+2023-04-17     https://www.bloomberg.com/opinion/articles/2023-04-17/the-sec-comes-for-bittrex                                      The SEC Comes for Bittrex
+2023-04-18     https://www.bloomberg.com/opinion/articles/2023-04-18/purple-dumps-its-prpls                                         Purple Dumps Its PRPLS
+2023-04-19     https://www.bloomberg.com/opinion/articles/2023-04-19/betterment-missed-some-tax-trades                              Betterment Missed Some Tax Trades
+2023-04-20     https://www.bloomberg.com/opinion/articles/2023-04-20/banking-gets-a-bit-narrower                                    Banking Gets a Bit Narrower
+2023-04-24     https://www.bloomberg.com/opinion/articles/2023-04-24/bed-bath-moves-into-the-beyond                                 Bed Bath Moves Into the Beyond
+2023-04-25     https://www.bloomberg.com/opinion/articles/2023-04-25/matt-levine-s-money-stuff-credit-suisse-s-great-awful-quarter  Credit Suisse Had a Great Awful Quarter
+2023-04-26     https://www.bloomberg.com/opinion/articles/2023-04-26/first-republic-calls-in-a-favor                                First Republic Calls In a Favor
+2023-04-27     https://www.bloomberg.com/opinion/articles/2023-04-27/first-republic-is-in-limbo                                     First Republic Is in Limbo
+2023-05-01     https://www.bloomberg.com/opinion/articles/2023-05-01/jpmorgan-got-a-deal-on-first-republic                          JPMorgan Got a Deal on First Republic
+2023-05-03     https://www.bloomberg.com/opinion/articles/2023-05-03/is-chatgpt-securities-fraud                                    Is ChatGPT Securities Fraud?
+2023-05-04     https://www.bloomberg.com/opinion/articles/2023-05-04/nobody-trusts-the-banks-now                                    Nobody Trusts the Banks Now
+2023-05-05     https://www.bloomberg.com/opinion/articles/2023-05-05/bank-stocks-look-worse-than-banks-do                           Bank Stocks Look Worse Than Banks Do
+2023-05-08     https://www.bloomberg.com/opinion/articles/2023-05-08/oil-companies-give-back-the-cash                               Oil Companies Give Back the Cash
+2023-05-09     https://www.bloomberg.com/opinion/articles/2023-05-09/it-s-never-too-late-for-banks-to-hedge                         It’s Never Too Late for Banks to Hedge
+2023-05-10     https://www.bloomberg.com/opinion/articles/2023-05-10/companies-are-allowed-to-do-bad-mergers                        Companies Are Allowed to Do Bad Mergers
+2023-05-11     https://www.bloomberg.com/opinion/articles/2023-05-11/blackstone-can-be-the-bank                                     Blackstone Can Be the Bank
+2023-05-15     https://www.bloomberg.com/opinion/articles/2023-05-15/crypto-had-its-bank-runs-too                                   Crypto Had Its Bank Runs Too

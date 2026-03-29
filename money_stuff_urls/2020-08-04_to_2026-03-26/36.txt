@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                    headline
+2022-03-28     https://www.bloomberg.com/opinion/articles/2022-03-28/barclays-sold-too-many-notes                                     Barclays Sold Too Many Notes
+2022-03-29     https://www.bloomberg.com/opinion/articles/2022-03-29/stock-splits-are-good-now                                        Stock Splits Are Good Now
+2022-03-30     https://www.bloomberg.com/opinion/articles/2022-03-30/robinhood-will-stay-open-late                                    Robinhood Will Stay Open Late
+2022-03-31     https://www.bloomberg.com/opinion/articles/2022-03-31/the-sec-is-coming-for-spacs                                      The SEC Is Coming for SPACs
+2022-04-04     https://www.bloomberg.com/opinion/articles/2022-04-04/elon-musk-bought-some-twitter                                    Elon Musk Bought Some Twitter
+2022-04-05     https://www.bloomberg.com/opinion/articles/2022-04-05/elon-musk-got-a-twitter-board-seat                               Elon Musk Got a Twitter Board Seat
+2022-04-06     https://www.bloomberg.com/opinion/articles/2022-04-06/elon-musk-is-active-now                                          Elon Musk Is Active Now
+2022-04-07     https://www.bloomberg.com/opinion/articles/2022-04-07/distressed-debt-deal-makes-people-mad                            Distressed-Debt Deal Makes People Mad
+2022-04-11     https://www.bloomberg.com/opinion/articles/2022-04-11/elon-musk-s-work-on-twitter-s-board-is-done                      Elon Musk’s Work on Twitter’s Board Is Done
+2022-04-12     https://www.bloomberg.com/opinion/articles/2022-04-12/will-elon-musk-buy-more-twitter                                  Will Elon Musk Buy More Twitter?
+2022-04-15     https://www.bloomberg.com/opinion/articles/2022-04-15/sure-elon-musk-might-buy-twitter                                 Sure Elon Musk Might Buy Twitter
+2022-04-18     https://www.bloomberg.com/opinion/articles/2022-04-18/twitter-has-a-poison-pill-now                                    Twitter Has a Poison Pill Now
+2022-04-19     https://www.bloomberg.com/opinion/articles/2022-04-19/the-stability-of-algorithmic-stablecoins                         The Stability of Algorithmic Stablecoins
+2022-04-20     https://www.bloomberg.com/opinion/articles/2022-04-20/elon-checks-his-pockets                                          Elon Checks His Pockets
+2022-04-21     https://www.bloomberg.com/opinion/articles/2022-04-21/elon-got-his-money                                               Elon Got His Money
+2022-04-25     https://www.bloomberg.com/opinion/articles/2022-04-25/elon-closes-in                                                   Elon Closes In
+2022-04-26     https://www.bloomberg.com/opinion/articles/2022-04-26/elon-got-his-deal                                                Elon Got His Deal
+2022-04-27     https://www.bloomberg.com/opinion/articles/2022-04-27/bill-hwang-arrest-inside-the-vicious-cycle-of-archegos-collapse  What Was Bill Hwang Thinking?
+2022-04-28     https://www.bloomberg.com/opinion/articles/2022-04-28/elon-musk-s-other-merger-worked-out                              Elon Musk’s Other Merger Worked Out
+2022-05-02     https://www.bloomberg.com/opinion/articles/2022-05-02/twitter-s-board-gave-up                                          Twitter’s Board Gave Up

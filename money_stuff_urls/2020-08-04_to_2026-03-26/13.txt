@@ -1,0 +1,21 @@
+publishedAt    url                                                                                           headline
+2024-10-10     https://www.bloomberg.com/opinion/articles/2024-10-10/crypto-market-makers-made-some-markets  Crypto Market Makers Made Some Markets
+2024-10-14     https://www.bloomberg.com/opinion/articles/2024-10-14/td-was-convenient-for-criminals         TD Was Convenient for Criminals
+2024-10-15     https://www.bloomberg.com/opinion/articles/2024-10-15/pumping-the-magic-mushrooms             Pumping the Magic Mushrooms
+2024-10-16     https://www.bloomberg.com/opinion/articles/2024-10-16/activist-investors-are-podcasters-now   Activist Investors Are Podcasters Now
+2024-10-17     https://www.bloomberg.com/opinion/articles/2024-10-17/musk-keeps-paying-for-x                 Musk Keeps Paying for X
+2024-10-21     https://www.bloomberg.com/opinion/articles/2024-10-21/who-owns-openai                         Who Owns OpenAI?
+2024-10-22     https://www.bloomberg.com/opinion/articles/2024-10-22/the-sophisticated-investor-test         The Sophisticated Investor Test
+2024-10-23     https://www.bloomberg.com/opinion/articles/2024-10-23/be-careful-tweeting-about-stocks        Be Careful Tweeting About Stocks
+2024-10-24     https://www.bloomberg.com/opinion/articles/2024-10-24/apple-s-card-was-confusing              Apple’s Card Was Confusing
+2024-10-28     https://www.bloomberg.com/opinion/articles/2024-10-28/you-want-some-stocks-that-go-down       You Want Some Stocks That Go Down
+2024-10-29     https://www.bloomberg.com/opinion/articles/2024-10-29/etfs-are-where-the-fun-is               ETFs Are Where the Fun Is
+2024-10-30     https://www.bloomberg.com/opinion/articles/2024-10-30/florida-banned-some-banks               Florida Banned Some Banks
+2024-10-31     https://www.bloomberg.com/opinion/articles/2024-10-31/microstrategy-has-stock-to-sell         MicroStrategy Has Stock to Sell
+2024-11-04     https://www.bloomberg.com/opinion/articles/2024-11-04/jpmorgan-undercharged-for-a-trade       JPMorgan Undercharged for a Trade
+2024-11-05     https://www.bloomberg.com/opinion/articles/2024-11-05/algorithmic-pricing-for-kale            Algorithmic Pricing for Kale
+2024-11-06     https://www.bloomberg.com/opinion/articles/2024-11-06/the-trump-trades-worked                 The Trump Trades Worked
+2024-11-07     https://www.bloomberg.com/opinion/articles/2024-11-07/prediction-markets-are-a-thing-now      Prediction Markets Are a Thing Now
+2024-11-12     https://www.bloomberg.com/opinion/articles/2024-11-12/merger-trading-will-get-easier          Merger Trading Will Get Easier
+2024-11-13     https://www.bloomberg.com/opinion/articles/2024-11-13/trump-s-doge-is-good-for-dogecoin       Trump’s DOGE Is Good for Dogecoin
+2024-11-14     https://www.bloomberg.com/opinion/articles/2024-11-14/individual-investors-put-up-the-cash    Individual Investors Put Up the Cash

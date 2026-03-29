@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                headline
+2024-05-09     https://www.bloomberg.com/opinion/articles/2024-05-09/bed-bath-strikes-from-the-beyond             Bed Bath Strikes From the Beyond
+2024-05-13     https://www.bloomberg.com/opinion/articles/2024-05-13/gamestop-is-back                             GameStop Is Back!?
+2024-05-14     https://www.bloomberg.com/opinion/articles/2024-05-14/amc-is-back-too                              AMC Is Back Too
+2024-05-15     https://www.bloomberg.com/opinion/articles/2024-05-15/amc-rode-the-meme-rally                      AMC Rode the Meme Rally
+2024-05-16     https://www.bloomberg.com/opinion/articles/2024-05-16/crypto-brothers-front-ran-the-front-runners  Crypto Brothers Front-Ran the Front-Runners
+2024-05-20     https://www.bloomberg.com/opinion/articles/2024-05-20/the-endless-shrimp-investigation             The Endless Shrimp Investigation
+2024-05-21     https://www.bloomberg.com/opinion/articles/2024-05-21/the-companies-work-for-themselves            The Companies Work for Themselves
+2024-05-22     https://www.bloomberg.com/opinion/articles/2024-05-22/citi-missed-a-fat-finger                     Citi Missed a Fat Finger
+2024-05-23     https://www.bloomberg.com/opinion/articles/2024-05-23/banks-want-in-on-private-credit              Banks Want In on Private Credit
+2024-05-28     https://www.bloomberg.com/opinion/articles/2024-05-28/archegos-sent-goldman-some-free-money        Archegos Sent Goldman Some Free Money
+2024-05-29     https://www.bloomberg.com/opinion/articles/2024-05-29/everyone-wants-elon-musk-s-attention         Everyone Wants Elon Musk’s Attention
+2024-05-30     https://www.bloomberg.com/opinion/articles/2024-05-30/shadow-trading-is-bad-sometimes              Shadow Trading Is Bad Sometimes
+2024-06-03     https://www.bloomberg.com/opinion/articles/2024-06-03/gamestop-comes-roaring-back                  GameStop Comes Roaring Back
+2024-06-04     https://www.bloomberg.com/opinion/articles/2024-06-04/musk-chose-who-got-chips                     Musk Chose Who Got Chips
+2024-06-05     https://www.bloomberg.com/opinion/articles/2024-06-05/dallas-needs-a-stock-exchange                Dallas Needs a Stock Exchange
+2024-06-06     https://www.bloomberg.com/opinion/articles/2024-06-06/bill-ackman-wants-a-lot-of-your-money        Bill Ackman Wants a Lot of Your Money
+2024-06-10     https://www.bloomberg.com/opinion/articles/2024-06-10/private-equity-is-on-sale                    Private Equity Is on Sale
+2024-06-11     https://www.bloomberg.com/opinion/articles/2024-06-11/tax-deals-can-cause-conflicts                Tax Deals Can Cause Conflicts
+2024-06-12     https://www.bloomberg.com/opinion/articles/2024-06-12/banks-transfer-risk-to-themselves            Banks Transfer Risk to Themselves
+2024-06-13     https://www.bloomberg.com/opinion/articles/2024-06-13/elon-says-he-got-his-money                   Elon Says He Got His Money

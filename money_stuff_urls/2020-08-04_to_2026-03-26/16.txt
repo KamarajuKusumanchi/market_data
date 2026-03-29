@@ -1,0 +1,21 @@
+publishedAt    url                                                                                            headline
+2024-06-17     https://www.bloomberg.com/opinion/articles/2024-06-17/qxo-doesn-t-have-enough-stock            QXO Doesn’t Have Enough Stock
+2024-06-18     https://www.bloomberg.com/opinion/articles/2024-06-18/trafigura-bought-oil-wrong               Trafigura Bought Oil Wrong
+2024-06-20     https://www.bloomberg.com/opinion/articles/2024-06-20/virgin-orbit-had-a-fake-takeover         Virgin Orbit Had a Fake Takeover
+2024-06-24     https://www.bloomberg.com/opinion/articles/2024-06-24/boomer-candy-business-is-booming         Boomer Candy Business Is Booming
+2024-06-25     https://www.bloomberg.com/opinion/articles/2024-06-25/mmtlp-tried-squeezing-the-shorts         MMTLP Tried Squeezing the Shorts
+2024-06-26     https://www.bloomberg.com/opinion/articles/2024-06-26/berkshire-was-too-cheap-then-too-pricey  Berkshire Was Too Cheap, Then Too Pricey
+2024-06-27     https://www.bloomberg.com/opinion/articles/2024-06-27/purdue-s-bankruptcy-went-too-far         Purdue’s Bankruptcy Went Too Far
+2024-07-01     https://www.bloomberg.com/opinion/articles/2024-07-01/canna-spac-has-phantom-stock             Canna SPAC Has Phantom Stock
+2024-07-02     https://www.bloomberg.com/opinion/articles/2024-07-02/people-dislike-activist-short-selling    People Dislike Activist Short Selling
+2024-07-03     https://www.bloomberg.com/opinion/articles/2024-07-03/it-s-hard-to-make-rules-now              It’s Hard to Make Rules Now
+2024-07-08     https://www.bloomberg.com/opinion/articles/2024-07-08/paramount-did-its-deal                   Paramount Did Its Deal
+2024-07-09     https://www.bloomberg.com/opinion/articles/2024-07-09/celsius-wants-some-money-back            Celsius Wants Some Money Back
+2024-07-10     https://www.bloomberg.com/opinion/articles/2024-07-10/jefferies-funded-some-fake-water         Jefferies Funded Some Fake Water
+2024-07-11     https://www.bloomberg.com/opinion/articles/2024-07-11/banks-can-outsource-their-trades         Banks Can Outsource Their Trades
+2024-07-15     https://www.bloomberg.com/opinion/articles/2024-07-15/openai-might-have-lucrative-ndas         OpenAI Might Have Lucrative NDAs
+2024-07-16     https://www.bloomberg.com/opinion/articles/2024-07-16/bill-ackman-can-tweet-his-new-fund       Bill Ackman Can Tweet His New Fund
+2024-07-17     https://www.bloomberg.com/opinion/articles/2024-07-17/trump-media-has-some-stock-to-sell       Trump Media Has Some Stock to Sell
+2024-07-18     https://www.bloomberg.com/opinion/articles/2024-07-18/maybe-good-governance-is-bad             Maybe Good Governance Is Bad
+2024-07-22     https://www.bloomberg.com/opinion/articles/2024-07-22/bad-trades-are-also-valuable             Bad Trades Are Also Valuable
+2024-07-23     https://www.bloomberg.com/opinion/articles/2024-07-23/don-t-loot-the-scams                     Don’t Loot the Scams

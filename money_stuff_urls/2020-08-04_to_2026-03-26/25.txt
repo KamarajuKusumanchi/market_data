@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                               headline
+2023-06-26     https://www.bloomberg.com/opinion/articles/2023-06-26/ftx-spent-big-on-celebrity                                  FTX Spent Big on Celebrity
+2023-06-27     https://www.bloomberg.com/opinion/articles/2023-06-27/silicon-valley-is-on-drugs                                  Silicon Valley Is On Drugs
+2023-06-28     https://www.bloomberg.com/opinion/articles/2023-06-28/ubs-cuts-out-credit-suisse                                  UBS Cuts Out Credit Suisse
+2023-06-29     https://www.bloomberg.com/opinion/articles/2023-06-29/the-big-banks-aren-t-stressed                               The Big Banks Aren’t Stressed
+2023-07-03     https://www.bloomberg.com/opinion/articles/2023-07-03/insider-trading-is-better-from-home                         Insider Trading Is Better From Home
+2023-07-05     https://www.bloomberg.com/opinion/articles/2023-07-05/lots-of-banks-means-lots-of-bank-mergers                    Lots of Banks Means Lots of Bank Mergers
+2023-07-06     https://www.bloomberg.com/opinion/articles/2023-07-06/small-banks-don-t-like-high-rates                           Small Banks Don’t Like High Rates
+2023-07-11     https://www.bloomberg.com/opinion/articles/2023-07-11/matt-levine-s-money-stuff-elon-musk-blames-the-lawyers      Elon Musk Blames the Lawyers
+2023-07-12     https://www.bloomberg.com/opinion/articles/2023-07-12/it-s-easy-to-make-oil-companies-esg                         It's Easy To Make Oil Companies ESG
+2023-07-13     https://www.bloomberg.com/opinion/articles/2023-07-13/celsius-was-lying                                           Celsius Was Lying
+2023-07-14     https://www.bloomberg.com/opinion/articles/2023-07-14/ripple-is-a-security-and-it-isn-t                           Ripple Is a Security and It Isn’t
+2023-07-17     https://www.bloomberg.com/opinion/articles/2023-07-17/branches-make-bank-runs-harder                              Branches Make Bank Runs Harder
+2023-07-18     https://www.bloomberg.com/opinion/articles/2023-07-18/buyout-funds-buy-from-themselves                            Buyout Funds Buy From Themselves
+2023-07-19     https://www.bloomberg.com/opinion/articles/2023-07-19/a-stock-fund-that-can-t-go-down                             A Stock Fund That Can’t Go Down
+2023-07-20     https://www.bloomberg.com/opinion/articles/2023-07-20/baby-formula-ponzi-schemer-does-this-a-lot                  Baby-Formula Ponzi Schemer Does This a Lot
+2023-07-24     https://www.bloomberg.com/opinion/articles/2023-07-24/the-apes-can-be-saved                                       The APEs Can Be Saved
+2023-07-25     https://www.bloomberg.com/opinion/articles/2023-07-25/keeping-track-of-bank-accounts-is-hard                      Keeping Track of Bank Accounts Is Hard
+2023-07-26     https://www.bloomberg.com/opinion/articles/2023-07-26/don-t-tip-your-private-pilot                                Don’t Tip Your Private Pilot
+2023-07-27     https://www.bloomberg.com/opinion/articles/2023-07-27/matt-levine-s-money-stuff-private-markets-move-more-slowly  Private Markets Are Slower Than Public Ones
+2023-07-31     https://www.bloomberg.com/opinion/articles/2023-07-31/the-moon-emoji-is-securities-fraud                          The Moon Emoji Is Securities Fraud

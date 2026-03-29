@@ -1,0 +1,21 @@
+publishedAt    url                                                                                                                              headline
+2021-08-09     https://www.bloomberg.com/news/newsletters/2021-08-09/money-stuff-the-sec-has-some-crypto-complaints                             Money Stuff: The SEC Has Some Crypto Complaints
+2021-08-10     https://www.bloomberg.com/opinion/articles/2021-08-10/spend-your-bitcoins-at-the-gamestop-in-the-amc                             Spend Your Bitcoins at the GameStop in the AMC
+2021-08-10     https://www.bloomberg.com/news/newsletters/2021-08-10/money-stuff-spend-your-bitcoins-at-the-gamestop-in-the-amc                 Money Stuff: Spend Your Bitcoins at the GameStop in the AMC
+2021-08-11     https://www.bloomberg.com/opinion/articles/2021-08-11/crypto-hackers-are-nice-now                                                Crypto Hackers Are Nice Now
+2021-08-11     https://www.bloomberg.com/news/newsletters/2021-08-11/money-stuff-crypto-hackers-are-nice-now                                    Money Stuff: Crypto Hackers Are Nice Now
+2021-08-12     https://www.bloomberg.com/opinion/articles/2021-08-12/credit-suisse-s-oopsie-bonds-go-down                                       Credit Suisse’s Oopsie Bonds Go Down
+2021-08-12     https://www.bloomberg.com/news/newsletters/2021-08-12/money-stuff-credit-suisse-s-oopsie-bonds-go-down                           Money Stuff: Credit Suisse’s Oopsie Bonds Go Down
+2021-08-23     https://www.bloomberg.com/opinion/articles/2021-08-23/spac-suit-leads-to-sparcs                                                  SPAC Suit Leads to SPARCs
+2021-08-23     https://www.bloomberg.com/news/newsletters/2021-08-23/money-stuff-spac-suit-leads-to-sparcs                                      Money Stuff: SPAC Suit Leads to SPARCs
+2021-08-24     https://www.bloomberg.com/opinion/articles/2021-08-24/hedge-funds-want-to-stay-popular                                           Hedge Funds Want to Stay Popular
+2021-08-24     https://www.bloomberg.com/news/newsletters/2021-08-24/money-stuff-hedge-funds-want-to-stay-popular                               Money Stuff: Hedge Funds Want to Stay Popular
+2021-08-25     https://www.bloomberg.com/opinion/articles/2021-08-25/insiders-trade-in-outside-companies                                        Insiders Trade in Outside Companies
+2021-08-25     https://www.bloomberg.com/news/newsletters/2021-08-25/money-stuff-insiders-trade-in-outside-companies                            Money Stuff: Insiders Trade in Outside Companies
+2021-08-26     https://www.bloomberg.com/opinion/articles/2021-08-26/accused-ponzi-schemer-kept-busy                                            Accused Ponzi Schemer Kept Busy
+2021-08-26     https://www.bloomberg.com/news/newsletters/2021-08-26/money-stuff-accused-ponzi-schemer-kept-busy                                Money Stuff: Accused Ponzi Schemer Kept Busy
+2021-08-30     https://www.bloomberg.com/opinion/articles/2021-08-30/esg-accounting-requires-accountants                                        ESG Accounting Requires Accountants
+2021-08-30     https://www.bloomberg.com/news/newsletters/2021-08-30/money-stuff-esg-accounting-requires-accountants                            Money Stuff: ESG Accounting Requires Accountants
+2021-08-31     https://www.bloomberg.com/opinion/articles/2021-08-31/what-happens-to-robinhood-if-the-sec-bans-payment-for-order-flow           Does Robinhood Need Payment for Order Flow?
+2021-08-31     https://www.bloomberg.com/news/newsletters/2021-08-31/what-happens-to-robinhood-if-the-sec-bans-payment-for-order-flow-kt0a5kjg  Money Stuff: Does Robinhood Need Payment for Order Flow?
+2021-08-31     https://www.bloomberg.com/opinion/articles/2021-08-31/theranos-trial-elizabeth-holmes-was-a-lottery-ticket-for-investors         Theranos Was a Losing Lottery Ticket for Investors
